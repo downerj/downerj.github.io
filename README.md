@@ -1,2 +1,2 @@
-# downer-james.github.io
-Professional portfolio
+# James Downer
+Professional software portfolio
