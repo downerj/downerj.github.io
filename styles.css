@@ -2,6 +2,11 @@
   box-sizing: border-box;
 }
 
+@font-face {
+  font-family: 'Pixellari';
+  src: url('assets/fonts/Pixellari.ttf');
+}
+
 html {
   height: calc(100% - 10px);
 }
@@ -9,7 +14,7 @@ html {
 body {
   height: 100%;
   margin: 0;
-  font-family: Tahoma, Verdana, sans-serif;
+  font-family: Pixellari, Tahoma, Verdana, sans-serif;
 }
 
 :root {
@@ -20,12 +25,32 @@ body {
   --column-count: 3;
 }
 
-.title-box {
-  text-align: center;
-  padding: 10px;
+.canvas-container {
+  position: fixed;
+  left: 0;
+  top: 0;
   width: 100%;
-  height: var(--title-height);
-  background-color: var(--highlight-color);
+  height: 100%;
+  background-color: black;
+  z-index: -1;
+}
+
+canvas {
+  z-index: -1;
+}
+
+.title-box .gallery {
+  z-index: 1;
+}
+
+.title-box {
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+  color: white;
+  background-color: rgba(150, 150, 150, 50%);
+  border-radius: 10px;
+  box-shadow: 0 5px rgba(100, 100, 100, 50%);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -38,24 +63,32 @@ a, a:visited {
   color: var(--lowlight-color);
 }
 
-a:hover, a:focus {
+a:hover, a:focus, .thumbnail:focus a, .thumbnail:hover a {
   text-decoration: underline;
+  color: var(--highlight-color);
 }
 
 .gallery {
   padding: 10px 100px;
   width: 100%;
   height: calc(100% - var(--title-height));
+  margin-top: 5px;
   overflow-y: auto;
-  border: 1px solid var(--lowlight-color);
 }
 
 .thumbnail {
   float: left;
   margin: 10px;
   width: calc(100%/var(--column-count) - var(--caption-padding)*2);
-  border: 1px solid var(--lowlight-color);
-  background-color: var(--highlight-color);
+  background-color: rgba(150, 150, 150, 50%);
+  border-radius: 10px;
+  box-shadow: 0 5px rgba(100, 100, 100, 50%);
+  overflow: hidden;
+  border: 1px solid black;
+}
+
+a:hover .thumbnail {
+  border-color: var(--highlight-color);
 }
 
 .thumbnail img {
