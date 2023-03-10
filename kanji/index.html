@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Kyōiku Kanji</title>
+    <link rel="stylesheet" href="styles.css"/>
+    <link rel="shortcut icon" href="favicon.png"/>
+  </head>
+  <body>
+    <div class="container" id="container" unselectable="on">
+      <div class="kanji-info" id="kanjiInfo">
+        <div class="new-label hidden" id="newLabel">&orarr;</div>
+        <div class="kanji-focus" id="kanjiFocus"></div>
+        <div class="kanji-focus clickable hidden" id="kanjiOldFocus"></div>
+        <div class="kanji-details">
+          Radical: <label class="info-label" id="radicalLabel"></label>
+          <br/>
+          Meaning: <label class="info-label" id="englishLabel"></label>
+          <br/>
+          Grade: <label class="info-label" id="gradeLabel"></label>
+          <br/>
+          Stroke Count: <label class="info-label" id="strokesLabel"></label>
+          <br/>
+          Unicode: <label class="info-label" id="unicodeLabel"></label>
+        </div>
+      </div>
+      <div class="kanji-table-wrapper">
+        <div class="kanji-table" id="kanjiTable"></div>
+      </div>
+    </div>
+    
+    <script type="application/javascript" src="scripts/kyouikuPlus.js" defer="true"></script>
+    <script type="application/javascript" src="scripts/main.js"></script>
+  </body>
+</html>

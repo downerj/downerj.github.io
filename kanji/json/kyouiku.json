@@ -1,0 +1,10005 @@
+[
+  {
+    "index": 1,
+    "kanji": "一",
+    "grade": 1,
+    "strokes": 1,
+    "meaning": "one",
+    "onyomi": [
+      "ichi",
+      "itsu"
+    ],
+    "kunyomi": "hito-tsu"
+  },
+  {
+    "index": 2,
+    "kanji": "二",
+    "grade": 1,
+    "strokes": 2,
+    "meaning": "two",
+    "onyomi": [
+      "ni",
+      "ji"
+    ],
+    "kunyomi": "futa-tsu"
+  },
+  {
+    "index": 3,
+    "kanji": "三",
+    "grade": 1,
+    "strokes": 3,
+    "meaning": "three",
+    "onyomi": "san",
+    "kunyomi": "mit-tsu"
+  },
+  {
+    "index": 4,
+    "kanji": "四",
+    "grade": 1,
+    "strokes": 5,
+    "meaning": "four",
+    "onyomi": "shi",
+    "kunyomi": [
+      "yot-tsu",
+      "yon"
+    ]
+  },
+  {
+    "index": 5,
+    "kanji": "五",
+    "grade": 1,
+    "strokes": 4,
+    "meaning": "five",
+    "onyomi": "go",
+    "kunyomi": "itsu-tsu"
+  },
+  {
+    "index": 6,
+    "kanji": "六",
+    "grade": 1,
+    "strokes": 4,
+    "meaning": "six",
+    "onyomi": "roku",
+    "kunyomi": "mut-tsu"
+  },
+  {
+    "index": 7,
+    "kanji": "七",
+    "grade": 1,
+    "strokes": 2,
+    "meaning": "seven",
+    "onyomi": "shichi",
+    "kunyomi": "nana-tsu"
+  },
+  {
+    "index": 8,
+    "kanji": "八",
+    "grade": 1,
+    "strokes": 2,
+    "meaning": "eight",
+    "onyomi": "hachi",
+    "kunyomi": "yat-tsu"
+  },
+  {
+    "index": 9,
+    "kanji": "九",
+    "grade": 1,
+    "strokes": 2,
+    "meaning": "nine",
+    "onyomi": [
+      "ku",
+      "kyū"
+    ],
+    "kunyomi": "kokono-tsu"
+  },
+  {
+    "index": 10,
+    "kanji": "十",
+    "grade": 1,
+    "strokes": 2,
+    "meaning": "ten",
+    "onyomi": "jū",
+    "kunyomi": "tō"
+  },
+  {
+    "index": 11,
+    "kanji": "百",
+    "grade": 1,
+    "strokes": 6,
+    "meaning": "hundred",
+    "onyomi": "hyaku",
+    "kunyomi": "momo"
+  },
+  {
+    "index": 12,
+    "kanji": "千",
+    "grade": 1,
+    "strokes": 3,
+    "meaning": "thousand",
+    "onyomi": "sen",
+    "kunyomi": "chi"
+  },
+  {
+    "index": 13,
+    "kanji": "上",
+    "grade": 1,
+    "strokes": 3,
+    "meaning": [
+      "top",
+      "above"
+    ],
+    "onyomi": "jō",
+    "kunyomi": "ue"
+  },
+  {
+    "index": 14,
+    "kanji": "下",
+    "grade": 1,
+    "strokes": 3,
+    "meaning": [
+      "bottom",
+      "below"
+    ],
+    "onyomi": [
+      "ka",
+      "ge"
+    ],
+    "kunyomi": [
+      "shita",
+      "shimo",
+      "moto"
+    ]
+  },
+  {
+    "index": 15,
+    "kanji": "左",
+    "grade": 1,
+    "strokes": 5,
+    "meaning": "left",
+    "onyomi": "sa",
+    "kunyomi": "hidari"
+  },
+  {
+    "index": 16,
+    "kanji": "右",
+    "grade": 1,
+    "strokes": 5,
+    "meaning": "right",
+    "onyomi": [
+      "u",
+      "yū"
+    ],
+    "kunyomi": "migi"
+  },
+  {
+    "index": 17,
+    "kanji": "中",
+    "grade": 1,
+    "strokes": 4,
+    "meaning": [
+      "inside",
+      "middle"
+    ],
+    "onyomi": [
+      "chū",
+      "jū"
+    ],
+    "kunyomi": "naka"
+  },
+  {
+    "index": 18,
+    "kanji": "大",
+    "grade": 1,
+    "strokes": 3,
+    "meaning": "large",
+    "onyomi": [
+      "dai",
+      "tai"
+    ],
+    "kunyomi": "ō-kii"
+  },
+  {
+    "index": 19,
+    "kanji": "小",
+    "grade": 1,
+    "strokes": 3,
+    "meaning": "small",
+    "onyomi": "shō",
+    "kunyomi": [
+      "chii-sai",
+      "ko",
+      "o"
+    ]
+  },
+  {
+    "index": 20,
+    "kanji": "月",
+    "grade": 1,
+    "strokes": 4,
+    "meaning": [
+      "month",
+      "moon"
+    ],
+    "onyomi": [
+      "gatsu",
+      "getsu"
+    ],
+    "kunyomi": "tsuki"
+  },
+  {
+    "index": 21,
+    "kanji": "日",
+    "grade": 1,
+    "strokes": 4,
+    "meaning": [
+      "day",
+      "sun"
+    ],
+    "onyomi": [
+      "nichi",
+      "jitsu"
+    ],
+    "kunyomi": [
+      "hi",
+      "ka"
+    ]
+  },
+  {
+    "index": 22,
+    "kanji": "年",
+    "grade": 1,
+    "strokes": 6,
+    "meaning": "year",
+    "onyomi": "nen",
+    "kunyomi": "toshi"
+  },
+  {
+    "index": 23,
+    "kanji": "早",
+    "grade": 1,
+    "strokes": 6,
+    "meaning": "early",
+    "onyomi": [
+      "sō",
+      "sa"
+    ],
+    "kunyomi": "haya-i"
+  },
+  {
+    "index": 24,
+    "kanji": "木",
+    "grade": 1,
+    "strokes": 4,
+    "meaning": "tree",
+    "onyomi": [
+      "moku",
+      "boku"
+    ],
+    "kunyomi": "ki"
+  },
+  {
+    "index": 25,
+    "kanji": "林",
+    "grade": 1,
+    "strokes": 8,
+    "meaning": "woods",
+    "onyomi": "rin",
+    "kunyomi": "hayashi"
+  },
+  {
+    "index": 26,
+    "kanji": "山",
+    "grade": 1,
+    "strokes": 3,
+    "meaning": "mountain",
+    "onyomi": [
+      "san",
+      "zan"
+    ],
+    "kunyomi": "yama"
+  },
+  {
+    "index": 27,
+    "kanji": "川",
+    "grade": 1,
+    "strokes": 3,
+    "meaning": "river",
+    "onyomi": "sen",
+    "kunyomi": "kawa"
+  },
+  {
+    "index": 28,
+    "kanji": "土",
+    "grade": 1,
+    "strokes": 3,
+    "meaning": "soil",
+    "onyomi": [
+      "do",
+      "to"
+    ],
+    "kunyomi": "tsuchi"
+  },
+  {
+    "index": 29,
+    "kanji": "空",
+    "grade": 1,
+    "strokes": 8,
+    "meaning": "sky",
+    "onyomi": "kū",
+    "kunyomi": [
+      "sora",
+      "a-ku",
+      "kara"
+    ]
+  },
+  {
+    "index": 30,
+    "kanji": "田",
+    "grade": 1,
+    "strokes": 5,
+    "meaning": "rice field",
+    "onyomi": "den",
+    "kunyomi": [
+      "da",
+      "ta"
+    ]
+  },
+  {
+    "index": 31,
+    "kanji": "天",
+    "grade": 1,
+    "strokes": 4,
+    "meaning": [
+      "heaven",
+      "sky"
+    ],
+    "onyomi": "ten",
+    "kunyomi": [
+      "ame",
+      "ama"
+    ]
+  },
+  {
+    "index": 32,
+    "kanji": "生",
+    "grade": 1,
+    "strokes": 5,
+    "meaning": [
+      "living",
+      "birth",
+      "raw"
+    ],
+    "onyomi": [
+      "sei",
+      "shō"
+    ],
+    "kunyomi": [
+      "i-kiru",
+      "u-mu",
+      "nama"
+    ]
+  },
+  {
+    "index": 33,
+    "kanji": "花",
+    "grade": 1,
+    "strokes": 7,
+    "meaning": "flower",
+    "onyomi": "ka",
+    "kunyomi": "hana"
+  },
+  {
+    "index": 34,
+    "kanji": "草",
+    "grade": 1,
+    "strokes": 9,
+    "meaning": "grass",
+    "onyomi": "sō",
+    "kunyomi": "kusa"
+  },
+  {
+    "index": 35,
+    "kanji": "虫",
+    "grade": 1,
+    "strokes": 6,
+    "meaning": "insect",
+    "onyomi": "chū",
+    "kunyomi": "mushi"
+  },
+  {
+    "index": 36,
+    "kanji": "犬",
+    "grade": 1,
+    "strokes": 4,
+    "meaning": "dog",
+    "onyomi": "ken",
+    "kunyomi": "inu"
+  },
+  {
+    "index": 37,
+    "kanji": "人",
+    "grade": 1,
+    "strokes": 2,
+    "meaning": "person",
+    "onyomi": [
+      "jin",
+      "nin"
+    ],
+    "kunyomi": "hito"
+  },
+  {
+    "index": 38,
+    "kanji": "名",
+    "grade": 1,
+    "strokes": 6,
+    "meaning": "name",
+    "onyomi": [
+      "mei",
+      "myō"
+    ],
+    "kunyomi": "na"
+  },
+  {
+    "index": 39,
+    "kanji": "女",
+    "grade": 1,
+    "strokes": 3,
+    "meaning": "female",
+    "onyomi": [
+      "jo",
+      "nyo"
+    ],
+    "kunyomi": "on'na"
+  },
+  {
+    "index": 40,
+    "kanji": "男",
+    "grade": 1,
+    "strokes": 7,
+    "meaning": "male",
+    "onyomi": [
+      "dan",
+      "nan"
+    ],
+    "kunyomi": "otoko"
+  },
+  {
+    "index": 41,
+    "kanji": "子",
+    "grade": 1,
+    "strokes": 3,
+    "meaning": "child",
+    "onyomi": [
+      "shi",
+      "su"
+    ],
+    "kunyomi": "ko"
+  },
+  {
+    "index": 42,
+    "kanji": "目",
+    "grade": 1,
+    "strokes": 5,
+    "meaning": "eye",
+    "onyomi": "moku",
+    "kunyomi": "me"
+  },
+  {
+    "index": 43,
+    "kanji": "耳",
+    "grade": 1,
+    "strokes": 6,
+    "meaning": "ear",
+    "onyomi": [
+      "ji",
+      "ni"
+    ],
+    "kunyomi": "mimi"
+  },
+  {
+    "index": 44,
+    "kanji": "口",
+    "grade": 1,
+    "strokes": 3,
+    "meaning": "mouth",
+    "onyomi": "kou",
+    "kunyomi": "kuchi"
+  },
+  {
+    "index": 45,
+    "kanji": "手",
+    "grade": 1,
+    "strokes": 4,
+    "meaning": "hand",
+    "onyomi": "shu",
+    "kunyomi": "te"
+  },
+  {
+    "index": 46,
+    "kanji": "足",
+    "grade": 1,
+    "strokes": 7,
+    "meaning": "foot",
+    "onyomi": "soku",
+    "kunyomi": "ashi"
+  },
+  {
+    "index": 47,
+    "kanji": "見",
+    "grade": 1,
+    "strokes": 7,
+    "meaning": "see",
+    "onyomi": [
+      "ken",
+      "gen"
+    ],
+    "kunyomi": "mi-ru"
+  },
+  {
+    "index": 48,
+    "kanji": "音",
+    "grade": 1,
+    "strokes": 9,
+    "meaning": "sound",
+    "onyomi": "on",
+    "kunyomi": [
+      "ne",
+      "oto"
+    ]
+  },
+  {
+    "index": 49,
+    "kanji": "力",
+    "grade": 1,
+    "strokes": 2,
+    "meaning": "power",
+    "onyomi": [
+      "riki",
+      "ryoku"
+    ],
+    "kunyomi": "chikara"
+  },
+  {
+    "index": 50,
+    "kanji": "気",
+    "grade": 1,
+    "strokes": 6,
+    "meaning": [
+      "spirit",
+      "air"
+    ],
+    "onyomi": [
+      "ki",
+      "ke"
+    ],
+    "kunyomi": "iki"
+  },
+  {
+    "index": 51,
+    "kanji": "円",
+    "grade": 1,
+    "strokes": 4,
+    "meaning": [
+      "yen",
+      "circle"
+    ],
+    "onyomi": "en",
+    "kunyomi": "maru"
+  },
+  {
+    "index": 52,
+    "kanji": "入",
+    "grade": 1,
+    "strokes": 2,
+    "meaning": "enter",
+    "onyomi": "nyū",
+    "kunyomi": [
+      "hai-ru",
+      "i-ru"
+    ]
+  },
+  {
+    "index": 53,
+    "kanji": "出",
+    "grade": 1,
+    "strokes": 5,
+    "meaning": "exit",
+    "onyomi": "shutsu",
+    "kunyomi": "de-ru"
+  },
+  {
+    "index": 54,
+    "kanji": "立",
+    "grade": 1,
+    "strokes": 5,
+    "meaning": "stand up",
+    "onyomi": "ritsu",
+    "kunyomi": "ta-tsu"
+  },
+  {
+    "index": 55,
+    "kanji": "休",
+    "grade": 1,
+    "strokes": 6,
+    "meaning": "rest",
+    "onyomi": "kyū",
+    "kunyomi": "yasu-mu"
+  },
+  {
+    "index": 56,
+    "kanji": "先",
+    "grade": 1,
+    "strokes": 6,
+    "meaning": "previous",
+    "onyomi": "sen",
+    "kunyomi": "saki"
+  },
+  {
+    "index": 57,
+    "kanji": "夕",
+    "grade": 1,
+    "strokes": 3,
+    "meaning": "evening",
+    "onyomi": "seki",
+    "kunyomi": "yū"
+  },
+  {
+    "index": 58,
+    "kanji": "本",
+    "grade": 1,
+    "strokes": 5,
+    "meaning": "book",
+    "onyomi": "hon",
+    "kunyomi": "moto"
+  },
+  {
+    "index": 59,
+    "kanji": "文",
+    "grade": 1,
+    "strokes": 4,
+    "meaning": "text",
+    "onyomi": [
+      "bun",
+      "mon"
+    ],
+    "kunyomi": "fumi"
+  },
+  {
+    "index": 60,
+    "kanji": "字",
+    "grade": 1,
+    "strokes": 6,
+    "meaning": "character",
+    "onyomi": "ji",
+    "kunyomi": "aza"
+  },
+  {
+    "index": 61,
+    "kanji": "学",
+    "grade": 1,
+    "strokes": 8,
+    "meaning": "study",
+    "onyomi": "gaku",
+    "kunyomi": "mana-bu"
+  },
+  {
+    "index": 62,
+    "kanji": "校",
+    "grade": 1,
+    "strokes": 10,
+    "meaning": "school",
+    "onyomi": "kō",
+    "kunyomi": "kase"
+  },
+  {
+    "index": 63,
+    "kanji": "村",
+    "grade": 1,
+    "strokes": 7,
+    "meaning": "village",
+    "onyomi": "son",
+    "kunyomi": "mura"
+  },
+  {
+    "index": 64,
+    "kanji": "町",
+    "grade": 1,
+    "strokes": 7,
+    "meaning": "town",
+    "onyomi": "chō",
+    "kunyomi": "machi"
+  },
+  {
+    "index": 65,
+    "kanji": "森",
+    "grade": 1,
+    "strokes": 12,
+    "meaning": "forest",
+    "onyomi": "shin",
+    "kunyomi": "mori"
+  },
+  {
+    "index": 66,
+    "kanji": "正",
+    "grade": 1,
+    "strokes": 5,
+    "meaning": "correct",
+    "onyomi": [
+      "sei",
+      "shō"
+    ],
+    "kunyomi": [
+      "tada-shii",
+      "masa"
+    ]
+  },
+  {
+    "index": 67,
+    "kanji": "水",
+    "grade": 1,
+    "strokes": 4,
+    "meaning": "water",
+    "onyomi": "sui",
+    "kunyomi": "mizu"
+  },
+  {
+    "index": 68,
+    "kanji": "火",
+    "grade": 1,
+    "strokes": 4,
+    "meaning": "fire",
+    "onyomi": "ka",
+    "kunyomi": "hi"
+  },
+  {
+    "index": 69,
+    "kanji": "玉",
+    "grade": 1,
+    "strokes": 5,
+    "meaning": "ball",
+    "onyomi": "gyoku",
+    "kunyomi": "tama"
+  },
+  {
+    "index": 70,
+    "kanji": "王",
+    "grade": 1,
+    "strokes": 4,
+    "meaning": "king",
+    "onyomi": "ou",
+    "kunyomi": "kimi"
+  },
+  {
+    "index": 71,
+    "kanji": "石",
+    "grade": 1,
+    "strokes": 5,
+    "meaning": "stone",
+    "onyomi": [
+      "seki",
+      "koku"
+    ],
+    "kunyomi": "ishi"
+  },
+  {
+    "index": 72,
+    "kanji": "竹",
+    "grade": 1,
+    "strokes": 6,
+    "meaning": "bamboo",
+    "onyomi": "chiku",
+    "kunyomi": "take"
+  },
+  {
+    "index": 73,
+    "kanji": "糸",
+    "grade": 1,
+    "strokes": 6,
+    "meaning": "thread",
+    "onyomi": "shi",
+    "kunyomi": "ito"
+  },
+  {
+    "index": 74,
+    "kanji": "貝",
+    "grade": 1,
+    "strokes": 7,
+    "meaning": "shellfish",
+    "onyomi": "bai",
+    "kunyomi": "kai"
+  },
+  {
+    "index": 75,
+    "kanji": "車",
+    "grade": 1,
+    "strokes": 7,
+    "meaning": "vehicle",
+    "onyomi": "sha",
+    "kunyomi": "kuruma"
+  },
+  {
+    "index": 76,
+    "kanji": "金",
+    "grade": 1,
+    "strokes": 8,
+    "meaning": [
+      "gold",
+      "money"
+    ],
+    "onyomi": "kin",
+    "kunyomi": [
+      "kane",
+      "kana"
+    ]
+  },
+  {
+    "index": 77,
+    "kanji": "雨",
+    "grade": 1,
+    "strokes": 8,
+    "meaning": "rain",
+    "onyomi": "u",
+    "kunyomi": [
+      "ame",
+      "ama"
+    ]
+  },
+  {
+    "index": 78,
+    "kanji": "赤",
+    "grade": 1,
+    "strokes": 7,
+    "meaning": "red",
+    "onyomi": "seki",
+    "kunyomi": "aka"
+  },
+  {
+    "index": 79,
+    "kanji": "青",
+    "grade": 1,
+    "strokes": 8,
+    "meaning": "blue",
+    "onyomi": [
+      "sei",
+      "shō"
+    ],
+    "kunyomi": "ao"
+  },
+  {
+    "index": 80,
+    "kanji": "白",
+    "grade": 1,
+    "strokes": 5,
+    "meaning": "white",
+    "onyomi": "haku",
+    "kunyomi": [
+      "shiro",
+      "shira"
+    ]
+  },
+  {
+    "index": 81,
+    "kanji": "数",
+    "grade": 2,
+    "strokes": 13,
+    "meaning": [
+      "number",
+      "count"
+    ],
+    "onyomi": "sū",
+    "kunyomi": "kazu"
+  },
+  {
+    "index": 82,
+    "kanji": "多",
+    "grade": 2,
+    "strokes": 6,
+    "meaning": [
+      "many",
+      "much"
+    ],
+    "onyomi": "ta",
+    "kunyomi": "oo-i"
+  },
+  {
+    "index": 83,
+    "kanji": "少",
+    "grade": 2,
+    "strokes": 4,
+    "meaning": [
+      "a few",
+      "a little"
+    ],
+    "onyomi": "shō",
+    "kunyomi": [
+      "suku-nai",
+      "suko-shi"
+    ]
+  },
+  {
+    "index": 84,
+    "kanji": "万",
+    "grade": 2,
+    "strokes": 3,
+    "meaning": "ten thousand",
+    "onyomi": [
+      "ban",
+      "man"
+    ],
+    "kunyomi": "yorozu"
+  },
+  {
+    "index": 85,
+    "kanji": "半",
+    "grade": 2,
+    "strokes": 5,
+    "meaning": "half",
+    "onyomi": "han",
+    "kunyomi": "naka-ba"
+  },
+  {
+    "index": 86,
+    "kanji": "形",
+    "grade": 2,
+    "strokes": 7,
+    "meaning": "shape",
+    "onyomi": [
+      "kei",
+      "gyō"
+    ],
+    "kunyomi": "katachi"
+  },
+  {
+    "index": 87,
+    "kanji": "太",
+    "grade": 2,
+    "strokes": 4,
+    "meaning": "thick",
+    "onyomi": "ta",
+    "kunyomi": "futo-i"
+  },
+  {
+    "index": 88,
+    "kanji": "細",
+    "grade": 2,
+    "strokes": 11,
+    "meaning": "thin",
+    "onyomi": "sai",
+    "kunyomi": "hoso-i"
+  },
+  {
+    "index": 89,
+    "kanji": "広",
+    "grade": 2,
+    "strokes": 5,
+    "meaning": "wide",
+    "onyomi": "kō",
+    "kunyomi": "hiro-i"
+  },
+  {
+    "index": 90,
+    "kanji": "長",
+    "grade": 2,
+    "strokes": 8,
+    "meaning": [
+      "long",
+      "leader"
+    ],
+    "onyomi": "chō",
+    "kunyomi": "naga-i"
+  },
+  {
+    "index": 91,
+    "kanji": "点",
+    "grade": 2,
+    "strokes": 9,
+    "meaning": "point",
+    "onyomi": "ten",
+    "kunyomi": "bochi"
+  },
+  {
+    "index": 92,
+    "kanji": "丸",
+    "grade": 2,
+    "strokes": 3,
+    "meaning": "circle",
+    "onyomi": "gan",
+    "kunyomi": "maru"
+  },
+  {
+    "index": 93,
+    "kanji": "交",
+    "grade": 2,
+    "strokes": 6,
+    "meaning": "intersect",
+    "onyomi": "kou",
+    "kunyomi": "maji-waru"
+  },
+  {
+    "index": 94,
+    "kanji": "光",
+    "grade": 2,
+    "strokes": 6,
+    "meaning": "light",
+    "onyomi": "kou",
+    "kunyomi": "hikari"
+  },
+  {
+    "index": 95,
+    "kanji": "角",
+    "grade": 2,
+    "strokes": 7,
+    "meaning": [
+      "corner",
+      "horn"
+    ],
+    "onyomi": "kaku",
+    "kunyomi": [
+      "kado",
+      "tsuno",
+      "sumi"
+    ]
+  },
+  {
+    "index": 96,
+    "kanji": "計",
+    "grade": 2,
+    "strokes": 9,
+    "meaning": "measure",
+    "onyomi": "kei",
+    "kunyomi": "haka-ru"
+  },
+  {
+    "index": 97,
+    "kanji": "直",
+    "grade": 2,
+    "strokes": 8,
+    "meaning": [
+      "straight",
+      "fix"
+    ],
+    "onyomi": [
+      "choku",
+      "jiki"
+    ],
+    "kunyomi": [
+      "tada-chi",
+      "nao-su"
+    ]
+  },
+  {
+    "index": 98,
+    "kanji": "線",
+    "grade": 2,
+    "strokes": 15,
+    "meaning": "line",
+    "onyomi": "sen",
+    "kunyomi": "suji"
+  },
+  {
+    "index": 99,
+    "kanji": "矢",
+    "grade": 2,
+    "strokes": 5,
+    "meaning": "arrow",
+    "onyomi": "shi",
+    "kunyomi": "ya"
+  },
+  {
+    "index": 100,
+    "kanji": "弱",
+    "grade": 2,
+    "strokes": 10,
+    "meaning": "weak",
+    "onyomi": "jaku",
+    "kunyomi": "yowa-i"
+  },
+  {
+    "index": 101,
+    "kanji": "強",
+    "grade": 2,
+    "strokes": 11,
+    "meaning": "strong",
+    "onyomi": "kyō",
+    "kunyomi": "tsuyo-i"
+  },
+  {
+    "index": 102,
+    "kanji": "高",
+    "grade": 2,
+    "strokes": 10,
+    "meaning": "high",
+    "onyomi": "kō",
+    "kunyomi": "taka-i"
+  },
+  {
+    "index": 103,
+    "kanji": "同",
+    "grade": 2,
+    "strokes": 6,
+    "meaning": "same",
+    "onyomi": "dō",
+    "kunyomi": "ona-ji"
+  },
+  {
+    "index": 104,
+    "kanji": "親",
+    "grade": 2,
+    "strokes": 16,
+    "meaning": "parent",
+    "onyomi": "shin",
+    "kunyomi": "oya"
+  },
+  {
+    "index": 105,
+    "kanji": "母",
+    "grade": 2,
+    "strokes": 5,
+    "meaning": "mother",
+    "onyomi": "bo",
+    "kunyomi": [
+      "haha",
+      "kaa"
+    ]
+  },
+  {
+    "index": 106,
+    "kanji": "父",
+    "grade": 2,
+    "strokes": 4,
+    "meaning": "father",
+    "onyomi": "fu",
+    "kunyomi": [
+      "chichi",
+      "tou"
+    ]
+  },
+  {
+    "index": 107,
+    "kanji": "姉",
+    "grade": 2,
+    "strokes": 8,
+    "meaning": "older sister",
+    "onyomi": "shi",
+    "kunyomi": "ane"
+  },
+  {
+    "index": 108,
+    "kanji": "兄",
+    "grade": 2,
+    "strokes": 5,
+    "meaning": "older brother",
+    "onyomi": [
+      "kei",
+      "kyō"
+    ],
+    "kunyomi": "ani"
+  },
+  {
+    "index": 109,
+    "kanji": "弟",
+    "grade": 2,
+    "strokes": 7,
+    "meaning": "younger brother",
+    "onyomi": [
+      "tei",
+      "dai"
+    ],
+    "kunyomi": "otōto"
+  },
+  {
+    "index": 110,
+    "kanji": "妹",
+    "grade": 2,
+    "strokes": 8,
+    "meaning": "younger sister",
+    "onyomi": "mai",
+    "kunyomi": "imōto"
+  },
+  {
+    "index": 111,
+    "kanji": "自",
+    "grade": 2,
+    "strokes": 6,
+    "meaning": "oneself",
+    "onyomi": [
+      "ji",
+      "shi"
+    ],
+    "kunyomi": "mizuka-ra"
+  },
+  {
+    "index": 112,
+    "kanji": "友",
+    "grade": 2,
+    "strokes": 4,
+    "meaning": "friend",
+    "onyomi": "yū",
+    "kunyomi": "tomo"
+  },
+  {
+    "index": 113,
+    "kanji": "体",
+    "grade": 2,
+    "strokes": 7,
+    "meaning": "body",
+    "onyomi": "tai",
+    "kunyomi": "karada"
+  },
+  {
+    "index": 114,
+    "kanji": "毛",
+    "grade": 2,
+    "strokes": 4,
+    "meaning": "hair",
+    "onyomi": "mou",
+    "kunyomi": "ke"
+  },
+  {
+    "index": 115,
+    "kanji": "頭",
+    "grade": 2,
+    "strokes": 16,
+    "meaning": "head",
+    "onyomi": "tou",
+    "kunyomi": "atama"
+  },
+  {
+    "index": 116,
+    "kanji": "顔",
+    "grade": 2,
+    "strokes": 18,
+    "meaning": "face",
+    "onyomi": "gan",
+    "kunyomi": "kao"
+  },
+  {
+    "index": 117,
+    "kanji": "首",
+    "grade": 2,
+    "strokes": 9,
+    "meaning": "neck",
+    "onyomi": "shu",
+    "kunyomi": "kubi"
+  },
+  {
+    "index": 118,
+    "kanji": "心",
+    "grade": 2,
+    "strokes": 4,
+    "meaning": "heart",
+    "onyomi": "shin",
+    "kunyomi": "kokoro"
+  },
+  {
+    "index": 119,
+    "kanji": "時",
+    "grade": 2,
+    "strokes": 10,
+    "meaning": "time",
+    "onyomi": "ji",
+    "kunyomi": "toki"
+  },
+  {
+    "index": 120,
+    "kanji": "曜",
+    "grade": 2,
+    "strokes": 18,
+    "meaning": "weekday",
+    "onyomi": "yō",
+    "kunyomi": null
+  },
+  {
+    "index": 121,
+    "kanji": "朝",
+    "grade": 2,
+    "strokes": 12,
+    "meaning": "morning",
+    "onyomi": "chō",
+    "kunyomi": "asa"
+  },
+  {
+    "index": 122,
+    "kanji": "昼",
+    "grade": 2,
+    "strokes": 9,
+    "meaning": "daytime",
+    "onyomi": "chū",
+    "kunyomi": "hiru"
+  },
+  {
+    "index": 123,
+    "kanji": "夜",
+    "grade": 2,
+    "strokes": 8,
+    "meaning": "night",
+    "onyomi": "ya",
+    "kunyomi": "yoru"
+  },
+  {
+    "index": 124,
+    "kanji": "分",
+    "grade": 2,
+    "strokes": 4,
+    "meaning": [
+      "minute",
+      "understand"
+    ],
+    "onyomi": [
+      "fun",
+      "bun"
+    ],
+    "kunyomi": "wa-karu"
+  },
+  {
+    "index": 125,
+    "kanji": "週",
+    "grade": 2,
+    "strokes": 11,
+    "meaning": "week",
+    "onyomi": "shū",
+    "kunyomi": null
+  },
+  {
+    "index": 126,
+    "kanji": "春",
+    "grade": 2,
+    "strokes": 9,
+    "meaning": "spring",
+    "onyomi": "shun",
+    "kunyomi": "haru"
+  },
+  {
+    "index": 127,
+    "kanji": "夏",
+    "grade": 2,
+    "strokes": 10,
+    "meaning": "summer",
+    "onyomi": "ka",
+    "kunyomi": "natsu"
+  },
+  {
+    "index": 128,
+    "kanji": "秋",
+    "grade": 2,
+    "strokes": 9,
+    "meaning": "autumn",
+    "onyomi": "shū",
+    "kunyomi": "aki"
+  },
+  {
+    "index": 129,
+    "kanji": "冬",
+    "grade": 2,
+    "strokes": 5,
+    "meaning": "winter",
+    "onyomi": "tō",
+    "kunyomi": "fuyu"
+  },
+  {
+    "index": 130,
+    "kanji": "今",
+    "grade": 2,
+    "strokes": 4,
+    "meaning": "now",
+    "onyomi": "kon",
+    "kunyomi": "ima"
+  },
+  {
+    "index": 131,
+    "kanji": "新",
+    "grade": 2,
+    "strokes": 13,
+    "meaning": "new",
+    "onyomi": "shin",
+    "kunyomi": "atara-shii"
+  },
+  {
+    "index": 132,
+    "kanji": "古",
+    "grade": 2,
+    "strokes": 5,
+    "meaning": "old",
+    "onyomi": "ko",
+    "kunyomi": "furu-i"
+  },
+  {
+    "index": 133,
+    "kanji": "間",
+    "grade": 2,
+    "strokes": 12,
+    "meaning": "interval",
+    "onyomi": [
+      "kan",
+      "ken"
+    ],
+    "kunyomi": [
+      "ma",
+      "aida"
+    ]
+  },
+  {
+    "index": 134,
+    "kanji": "方",
+    "grade": 2,
+    "strokes": 4,
+    "meaning": "direction",
+    "onyomi": "hō",
+    "kunyomi": "kata"
+  },
+  {
+    "index": 135,
+    "kanji": "北",
+    "grade": 2,
+    "strokes": 5,
+    "meaning": "north",
+    "onyomi": "hoku",
+    "kunyomi": "kita"
+  },
+  {
+    "index": 136,
+    "kanji": "南",
+    "grade": 2,
+    "strokes": 9,
+    "meaning": "south",
+    "onyomi": "nan",
+    "kunyomi": "minami"
+  },
+  {
+    "index": 137,
+    "kanji": "東",
+    "grade": 2,
+    "strokes": 8,
+    "meaning": "east",
+    "onyomi": "tou",
+    "kunyomi": [
+      "higashi",
+      "azuma"
+    ]
+  },
+  {
+    "index": 138,
+    "kanji": "西",
+    "grade": 2,
+    "strokes": 6,
+    "meaning": "west",
+    "onyomi": [
+      "sei",
+      "sai"
+    ],
+    "kunyomi": "nishi"
+  },
+  {
+    "index": 139,
+    "kanji": "遠",
+    "grade": 2,
+    "strokes": 13,
+    "meaning": "far",
+    "onyomi": "en",
+    "kunyomi": "tō-i"
+  },
+  {
+    "index": 140,
+    "kanji": "近",
+    "grade": 2,
+    "strokes": 7,
+    "meaning": "near",
+    "onyomi": "kin",
+    "kunyomi": "chika-i"
+  },
+  {
+    "index": 141,
+    "kanji": "前",
+    "grade": 2,
+    "strokes": 9,
+    "meaning": "before",
+    "onyomi": "zen",
+    "kunyomi": "mae"
+  },
+  {
+    "index": 142,
+    "kanji": "後",
+    "grade": 2,
+    "strokes": 9,
+    "meaning": "after",
+    "onyomi": [
+      "go",
+      "kō"
+    ],
+    "kunyomi": [
+      "nochi",
+      "ushi-ro",
+      "ato"
+    ]
+  },
+  {
+    "index": 143,
+    "kanji": "内",
+    "grade": 2,
+    "strokes": 4,
+    "meaning": "inside",
+    "onyomi": "nai",
+    "kunyomi": "uchi"
+  },
+  {
+    "index": 144,
+    "kanji": "外",
+    "grade": 2,
+    "strokes": 5,
+    "meaning": "outside",
+    "onyomi": [
+      "gai",
+      "ge"
+    ],
+    "kunyomi": [
+      "soto",
+      "hoka",
+      "hazu-su"
+    ]
+  },
+  {
+    "index": 145,
+    "kanji": "場",
+    "grade": 2,
+    "strokes": 12,
+    "meaning": "place",
+    "onyomi": "jou",
+    "kunyomi": "ba"
+  },
+  {
+    "index": 146,
+    "kanji": "地",
+    "grade": 2,
+    "strokes": 6,
+    "meaning": "ground",
+    "onyomi": [
+      "chi",
+      "ji"
+    ],
+    "kunyomi": null
+  },
+  {
+    "index": 147,
+    "kanji": "国",
+    "grade": 2,
+    "strokes": 8,
+    "meaning": "country",
+    "onyomi": "koku",
+    "kunyomi": "kuni"
+  },
+  {
+    "index": 148,
+    "kanji": "園",
+    "grade": 2,
+    "strokes": 13,
+    "meaning": "garden",
+    "onyomi": "en",
+    "kunyomi": "sono"
+  },
+  {
+    "index": 149,
+    "kanji": "谷",
+    "grade": 2,
+    "strokes": 7,
+    "meaning": "valley",
+    "onyomi": "koku",
+    "kunyomi": "tani"
+  },
+  {
+    "index": 150,
+    "kanji": "野",
+    "grade": 2,
+    "strokes": 11,
+    "meaning": "field",
+    "onyomi": "ya",
+    "kunyomi": "no"
+  },
+  {
+    "index": 151,
+    "kanji": "原",
+    "grade": 2,
+    "strokes": 10,
+    "meaning": "meadow",
+    "onyomi": "gen",
+    "kunyomi": "hara"
+  },
+  {
+    "index": 152,
+    "kanji": "里",
+    "grade": 2,
+    "strokes": 7,
+    "meaning": "hometown",
+    "onyomi": "ri",
+    "kunyomi": "sato"
+  },
+  {
+    "index": 153,
+    "kanji": "市",
+    "grade": 2,
+    "strokes": 5,
+    "meaning": "city",
+    "onyomi": "shi",
+    "kunyomi": "ichi"
+  },
+  {
+    "index": 154,
+    "kanji": "京",
+    "grade": 2,
+    "strokes": 8,
+    "meaning": "capital",
+    "onyomi": [
+      "kyou",
+      "kei"
+    ],
+    "kunyomi": "miyako"
+  },
+  {
+    "index": 155,
+    "kanji": "風",
+    "grade": 2,
+    "strokes": 9,
+    "meaning": [
+      "wind",
+      "-like"
+    ],
+    "onyomi": "fū",
+    "kunyomi": "kaze"
+  },
+  {
+    "index": 156,
+    "kanji": "雪",
+    "grade": 2,
+    "strokes": 11,
+    "meaning": "snow",
+    "onyomi": "setsu",
+    "kunyomi": "yuki"
+  },
+  {
+    "index": 157,
+    "kanji": "雲",
+    "grade": 2,
+    "strokes": 12,
+    "meaning": "cloud",
+    "onyomi": "un",
+    "kunyomi": "kumo"
+  },
+  {
+    "index": 158,
+    "kanji": "池",
+    "grade": 2,
+    "strokes": 6,
+    "meaning": "pond",
+    "onyomi": "chi",
+    "kunyomi": "ike"
+  },
+  {
+    "index": 159,
+    "kanji": "海",
+    "grade": 2,
+    "strokes": 9,
+    "meaning": "sea",
+    "onyomi": "kai",
+    "kunyomi": "umi"
+  },
+  {
+    "index": 160,
+    "kanji": "岩",
+    "grade": 2,
+    "strokes": 8,
+    "meaning": "rock",
+    "onyomi": "gan",
+    "kunyomi": "iwa"
+  },
+  {
+    "index": 161,
+    "kanji": "星",
+    "grade": 2,
+    "strokes": 9,
+    "meaning": "star",
+    "onyomi": "sei",
+    "kunyomi": "hoshi"
+  },
+  {
+    "index": 162,
+    "kanji": "室",
+    "grade": 2,
+    "strokes": 9,
+    "meaning": "room",
+    "onyomi": "shitsu",
+    "kunyomi": "muro"
+  },
+  {
+    "index": 163,
+    "kanji": "戸",
+    "grade": 2,
+    "strokes": 4,
+    "meaning": "door",
+    "onyomi": "ko",
+    "kunyomi": [
+      "to",
+      "be"
+    ]
+  },
+  {
+    "index": 164,
+    "kanji": "家",
+    "grade": 2,
+    "strokes": 10,
+    "meaning": "house",
+    "onyomi": [
+      "ka",
+      "ke"
+    ],
+    "kunyomi": "ie"
+  },
+  {
+    "index": 165,
+    "kanji": "寺",
+    "grade": 2,
+    "strokes": 6,
+    "meaning": "Buddhist temple",
+    "onyomi": "ji",
+    "kunyomi": "tera"
+  },
+  {
+    "index": 166,
+    "kanji": "通",
+    "grade": 2,
+    "strokes": 10,
+    "meaning": [
+      "pass through",
+      "commute"
+    ],
+    "onyomi": "tsū",
+    "kunyomi": [
+      "tō-ru",
+      "kayo-u"
+    ]
+  },
+  {
+    "index": 167,
+    "kanji": "門",
+    "grade": 2,
+    "strokes": 8,
+    "meaning": "gates",
+    "onyomi": "mon",
+    "kunyomi": "kado"
+  },
+  {
+    "index": 168,
+    "kanji": "道",
+    "grade": 2,
+    "strokes": 12,
+    "meaning": "road",
+    "onyomi": "dou",
+    "kunyomi": "michi"
+  },
+  {
+    "index": 169,
+    "kanji": "話",
+    "grade": 2,
+    "strokes": 13,
+    "meaning": "talk",
+    "onyomi": "wa",
+    "kunyomi": [
+      "hanashi",
+      "hana-su"
+    ]
+  },
+  {
+    "index": 170,
+    "kanji": "言",
+    "grade": 2,
+    "strokes": 7,
+    "meaning": "say",
+    "onyomi": [
+      "gen",
+      "gon"
+    ],
+    "kunyomi": [
+      "i-u",
+      "koto"
+    ]
+  },
+  {
+    "index": 171,
+    "kanji": "答",
+    "grade": 2,
+    "strokes": 12,
+    "meaning": "answer",
+    "onyomi": "tou",
+    "kunyomi": "kota-eru"
+  },
+  {
+    "index": 172,
+    "kanji": "声",
+    "grade": 2,
+    "strokes": 7,
+    "meaning": "voice",
+    "onyomi": "sei",
+    "kunyomi": "koe"
+  },
+  {
+    "index": 173,
+    "kanji": "聞",
+    "grade": 2,
+    "strokes": 14,
+    "meaning": "hear",
+    "onyomi": [
+      "bun",
+      "mon"
+    ],
+    "kunyomi": "ki-ku"
+  },
+  {
+    "index": 174,
+    "kanji": "語",
+    "grade": 2,
+    "strokes": 14,
+    "meaning": "language",
+    "onyomi": "go",
+    "kunyomi": "kata-ru"
+  },
+  {
+    "index": 175,
+    "kanji": "読",
+    "grade": 2,
+    "strokes": 14,
+    "meaning": "read",
+    "onyomi": "doku",
+    "kunyomi": "yo-mu"
+  },
+  {
+    "index": 176,
+    "kanji": "書",
+    "grade": 2,
+    "strokes": 10,
+    "meaning": "write",
+    "onyomi": "sho",
+    "kunyomi": "ka-ku"
+  },
+  {
+    "index": 177,
+    "kanji": "記",
+    "grade": 2,
+    "strokes": 10,
+    "meaning": "record",
+    "onyomi": "ki",
+    "kunyomi": "shiru-su"
+  },
+  {
+    "index": 178,
+    "kanji": "紙",
+    "grade": 2,
+    "strokes": 10,
+    "meaning": "paper",
+    "onyomi": "shi",
+    "kunyomi": "kami"
+  },
+  {
+    "index": 179,
+    "kanji": "画",
+    "grade": 2,
+    "strokes": 8,
+    "meaning": "brush stroke",
+    "onyomi": [
+      "ga",
+      "kaku"
+    ],
+    "kunyomi": null
+  },
+  {
+    "index": 180,
+    "kanji": "絵",
+    "grade": 2,
+    "strokes": 12,
+    "meaning": "picture",
+    "onyomi": [
+      "kai",
+      "e"
+    ],
+    "kunyomi": null
+  },
+  {
+    "index": 181,
+    "kanji": "図",
+    "grade": 2,
+    "strokes": 7,
+    "meaning": "drawing",
+    "onyomi": "zu",
+    "kunyomi": "haka-ru"
+  },
+  {
+    "index": 182,
+    "kanji": "工",
+    "grade": 2,
+    "strokes": 3,
+    "meaning": "craft",
+    "onyomi": [
+      "kō",
+      "ku"
+    ],
+    "kunyomi": null
+  },
+  {
+    "index": 183,
+    "kanji": "教",
+    "grade": 2,
+    "strokes": 11,
+    "meaning": "teach",
+    "onyomi": "kyō",
+    "kunyomi": "oshi-eru"
+  },
+  {
+    "index": 184,
+    "kanji": "晴",
+    "grade": 2,
+    "strokes": 12,
+    "meaning": "clear",
+    "onyomi": "sei",
+    "kunyomi": "hare"
+  },
+  {
+    "index": 185,
+    "kanji": "思",
+    "grade": 2,
+    "strokes": 9,
+    "meaning": "think",
+    "onyomi": "shi",
+    "kunyomi": "omo-u"
+  },
+  {
+    "index": 186,
+    "kanji": "考",
+    "grade": 2,
+    "strokes": 6,
+    "meaning": "consider",
+    "onyomi": "kō",
+    "kunyomi": "kanga-eru"
+  },
+  {
+    "index": 187,
+    "kanji": "知",
+    "grade": 2,
+    "strokes": 8,
+    "meaning": "know",
+    "onyomi": "chi",
+    "kunyomi": "shi-ru"
+  },
+  {
+    "index": 188,
+    "kanji": "才",
+    "grade": 2,
+    "strokes": 3,
+    "meaning": "ability",
+    "onyomi": [
+      "sai",
+      "zai"
+    ],
+    "kunyomi": [
+      "wazukani",
+      "zae"
+    ]
+  },
+  {
+    "index": 189,
+    "kanji": "理",
+    "grade": 2,
+    "strokes": 11,
+    "meaning": "reason",
+    "onyomi": "ri",
+    "kunyomi": "kotowari"
+  },
+  {
+    "index": 190,
+    "kanji": "算",
+    "grade": 2,
+    "strokes": 14,
+    "meaning": "calculate",
+    "onyomi": "san",
+    "kunyomi": null
+  },
+  {
+    "index": 191,
+    "kanji": "作",
+    "grade": 2,
+    "strokes": 7,
+    "meaning": "make",
+    "onyomi": "saku",
+    "kunyomi": "tsuku-ru"
+  },
+  {
+    "index": 192,
+    "kanji": "元",
+    "grade": 2,
+    "strokes": 4,
+    "meaning": "origin",
+    "onyomi": [
+      "gen",
+      "gan"
+    ],
+    "kunyomi": "moto"
+  },
+  {
+    "index": 193,
+    "kanji": "食",
+    "grade": 2,
+    "strokes": 9,
+    "meaning": "eat",
+    "onyomi": "shoku",
+    "kunyomi": [
+      "ta-beru",
+      "ku-u"
+    ]
+  },
+  {
+    "index": 194,
+    "kanji": "肉",
+    "grade": 2,
+    "strokes": 6,
+    "meaning": "meat",
+    "onyomi": "niku",
+    "kunyomi": null
+  },
+  {
+    "index": 195,
+    "kanji": "馬",
+    "grade": 2,
+    "strokes": 10,
+    "meaning": "horse",
+    "onyomi": "ba",
+    "kunyomi": [
+      "uma",
+      "ma"
+    ]
+  },
+  {
+    "index": 196,
+    "kanji": "牛",
+    "grade": 2,
+    "strokes": 4,
+    "meaning": "cow",
+    "onyomi": "gyū",
+    "kunyomi": "ushi"
+  },
+  {
+    "index": 197,
+    "kanji": "魚",
+    "grade": 2,
+    "strokes": 11,
+    "meaning": "fish",
+    "onyomi": "gyo",
+    "kunyomi": [
+      "uo",
+      "sakana"
+    ]
+  },
+  {
+    "index": 198,
+    "kanji": "鳥",
+    "grade": 2,
+    "strokes": 11,
+    "meaning": "bird",
+    "onyomi": "chō",
+    "kunyomi": "tori"
+  },
+  {
+    "index": 199,
+    "kanji": "羽",
+    "grade": 2,
+    "strokes": 6,
+    "meaning": "feather",
+    "onyomi": "u",
+    "kunyomi": [
+      "ha",
+      "hane"
+    ]
+  },
+  {
+    "index": 200,
+    "kanji": "鳴",
+    "grade": 2,
+    "strokes": 14,
+    "meaning": "chirp",
+    "onyomi": "mei",
+    "kunyomi": "na-ku"
+  },
+  {
+    "index": 201,
+    "kanji": "麦",
+    "grade": 2,
+    "strokes": 7,
+    "meaning": "wheat",
+    "onyomi": "baku",
+    "kunyomi": "mugi"
+  },
+  {
+    "index": 202,
+    "kanji": "米",
+    "grade": 2,
+    "strokes": 6,
+    "meaning": "rice",
+    "onyomi": [
+      "bei",
+      "mai"
+    ],
+    "kunyomi": "kome"
+  },
+  {
+    "index": 203,
+    "kanji": "茶",
+    "grade": 2,
+    "strokes": 9,
+    "meaning": "tea",
+    "onyomi": [
+      "cha",
+      "sa"
+    ],
+    "kunyomi": null
+  },
+  {
+    "index": 204,
+    "kanji": "色",
+    "grade": 2,
+    "strokes": 6,
+    "meaning": "colour",
+    "onyomi": "shoku",
+    "kunyomi": "iro"
+  },
+  {
+    "index": 205,
+    "kanji": "黄",
+    "grade": 2,
+    "strokes": 11,
+    "meaning": "yellow",
+    "onyomi": "ō",
+    "kunyomi": "ki"
+  },
+  {
+    "index": 206,
+    "kanji": "黒",
+    "grade": 2,
+    "strokes": 11,
+    "meaning": "black",
+    "onyomi": "koku",
+    "kunyomi": "kuro"
+  },
+  {
+    "index": 207,
+    "kanji": "来",
+    "grade": 2,
+    "strokes": 7,
+    "meaning": "come",
+    "onyomi": "rai",
+    "kunyomi": "ku-ru"
+  },
+  {
+    "index": 208,
+    "kanji": "行",
+    "grade": 2,
+    "strokes": 6,
+    "meaning": "go",
+    "onyomi": [
+      "kou",
+      "gyō"
+    ],
+    "kunyomi": [
+      "i-ku",
+      "yu-ku",
+      "okona-u"
+    ]
+  },
+  {
+    "index": 209,
+    "kanji": "帰",
+    "grade": 2,
+    "strokes": 10,
+    "meaning": "return",
+    "onyomi": "ki",
+    "kunyomi": "kae-ru"
+  },
+  {
+    "index": 210,
+    "kanji": "歩",
+    "grade": 2,
+    "strokes": 8,
+    "meaning": "walk",
+    "onyomi": [
+      "ho",
+      "fu",
+      "bu"
+    ],
+    "kunyomi": [
+      "aru-ku",
+      "ayu-mu"
+    ]
+  },
+  {
+    "index": 211,
+    "kanji": "走",
+    "grade": 2,
+    "strokes": 7,
+    "meaning": "run",
+    "onyomi": "sou",
+    "kunyomi": "hashi-ru"
+  },
+  {
+    "index": 212,
+    "kanji": "止",
+    "grade": 2,
+    "strokes": 4,
+    "meaning": "stop",
+    "onyomi": "shi",
+    "kunyomi": "to-maru"
+  },
+  {
+    "index": 213,
+    "kanji": "活",
+    "grade": 2,
+    "strokes": 9,
+    "meaning": "active",
+    "onyomi": "katsu",
+    "kunyomi": "i-kiru"
+  },
+  {
+    "index": 214,
+    "kanji": "店",
+    "grade": 2,
+    "strokes": 8,
+    "meaning": "store",
+    "onyomi": "ten",
+    "kunyomi": "mise"
+  },
+  {
+    "index": 215,
+    "kanji": "買",
+    "grade": 2,
+    "strokes": 12,
+    "meaning": "buy",
+    "onyomi": "bai",
+    "kunyomi": "ka-u"
+  },
+  {
+    "index": 216,
+    "kanji": "売",
+    "grade": 2,
+    "strokes": 7,
+    "meaning": "sell",
+    "onyomi": "bai",
+    "kunyomi": "u-ru"
+  },
+  {
+    "index": 217,
+    "kanji": "午",
+    "grade": 2,
+    "strokes": 4,
+    "meaning": "noon",
+    "onyomi": "go",
+    "kunyomi": "uma"
+  },
+  {
+    "index": 218,
+    "kanji": "汽",
+    "grade": 2,
+    "strokes": 7,
+    "meaning": "steam",
+    "onyomi": "ki",
+    "kunyomi": null
+  },
+  {
+    "index": 219,
+    "kanji": "弓",
+    "grade": 2,
+    "strokes": 3,
+    "meaning": "bow",
+    "onyomi": "kyū",
+    "kunyomi": "yumi"
+  },
+  {
+    "index": 220,
+    "kanji": "回",
+    "grade": 2,
+    "strokes": 6,
+    "meaning": [
+      "number of times",
+      "revolve"
+    ],
+    "onyomi": "kai",
+    "kunyomi": "mawa-ru"
+  },
+  {
+    "index": 221,
+    "kanji": "会",
+    "grade": 2,
+    "strokes": 6,
+    "meaning": "meet",
+    "onyomi": [
+      "kai",
+      "e"
+    ],
+    "kunyomi": "a-u"
+  },
+  {
+    "index": 222,
+    "kanji": "組",
+    "grade": 2,
+    "strokes": 11,
+    "meaning": "team",
+    "onyomi": "so",
+    "kunyomi": "kumi"
+  },
+  {
+    "index": 223,
+    "kanji": "船",
+    "grade": 2,
+    "strokes": 11,
+    "meaning": "ship",
+    "onyomi": "sen",
+    "kunyomi": "fune"
+  },
+  {
+    "index": 224,
+    "kanji": "明",
+    "grade": 2,
+    "strokes": 8,
+    "meaning": "bright",
+    "onyomi": "mei",
+    "kunyomi": "aka-rui"
+  },
+  {
+    "index": 225,
+    "kanji": "社",
+    "grade": 2,
+    "strokes": 7,
+    "meaning": "company",
+    "onyomi": "sha",
+    "kunyomi": "yashiro"
+  },
+  {
+    "index": 226,
+    "kanji": "切",
+    "grade": 2,
+    "strokes": 4,
+    "meaning": "cut",
+    "onyomi": "setsu",
+    "kunyomi": "ki-ru"
+  },
+  {
+    "index": 227,
+    "kanji": "電",
+    "grade": 2,
+    "strokes": 13,
+    "meaning": "electricity",
+    "onyomi": "den",
+    "kunyomi": "inazuma"
+  },
+  {
+    "index": 228,
+    "kanji": "毎",
+    "grade": 2,
+    "strokes": 6,
+    "meaning": "every",
+    "onyomi": "mai",
+    "kunyomi": "goto"
+  },
+  {
+    "index": 229,
+    "kanji": "合",
+    "grade": 2,
+    "strokes": 6,
+    "meaning": "fit",
+    "onyomi": "gou",
+    "kunyomi": "a-u"
+  },
+  {
+    "index": 230,
+    "kanji": "当",
+    "grade": 2,
+    "strokes": 6,
+    "meaning": [
+      "this",
+      "hit"
+    ],
+    "onyomi": "tō",
+    "kunyomi": "a-taru"
+  },
+  {
+    "index": 231,
+    "kanji": "台",
+    "grade": 2,
+    "strokes": 5,
+    "meaning": "pedestal",
+    "onyomi": [
+      "dai",
+      "tai"
+    ],
+    "kunyomi": null
+  },
+  {
+    "index": 232,
+    "kanji": "楽",
+    "grade": 2,
+    "strokes": 13,
+    "meaning": [
+      "music",
+      "pleasure"
+    ],
+    "onyomi": [
+      "gaku",
+      "raku"
+    ],
+    "kunyomi": "tano-shii"
+  },
+  {
+    "index": 233,
+    "kanji": "公",
+    "grade": 2,
+    "strokes": 4,
+    "meaning": "public",
+    "onyomi": "kou",
+    "kunyomi": "ōyake"
+  },
+  {
+    "index": 234,
+    "kanji": "引",
+    "grade": 2,
+    "strokes": 4,
+    "meaning": "pull",
+    "onyomi": "in",
+    "kunyomi": "hi-ku"
+  },
+  {
+    "index": 235,
+    "kanji": "科",
+    "grade": 2,
+    "strokes": 9,
+    "meaning": "section",
+    "onyomi": "ka",
+    "kunyomi": null
+  },
+  {
+    "index": 236,
+    "kanji": "歌",
+    "grade": 2,
+    "strokes": 14,
+    "meaning": "song",
+    "onyomi": "ka",
+    "kunyomi": "uta"
+  },
+  {
+    "index": 237,
+    "kanji": "刀",
+    "grade": 2,
+    "strokes": 2,
+    "meaning": "sword",
+    "onyomi": "tou",
+    "kunyomi": "katana"
+  },
+  {
+    "index": 238,
+    "kanji": "番",
+    "grade": 2,
+    "strokes": 12,
+    "meaning": "number",
+    "onyomi": "ban",
+    "kunyomi": null
+  },
+  {
+    "index": 239,
+    "kanji": "用",
+    "grade": 2,
+    "strokes": 5,
+    "meaning": "use",
+    "onyomi": "you",
+    "kunyomi": "mochi-iru"
+  },
+  {
+    "index": 240,
+    "kanji": "何",
+    "grade": 2,
+    "strokes": 7,
+    "meaning": "what",
+    "onyomi": "ka",
+    "kunyomi": [
+      "nani",
+      "nan"
+    ]
+  },
+  {
+    "index": 241,
+    "kanji": "丁",
+    "grade": 3,
+    "strokes": 2,
+    "meaning": [
+      "town section",
+      "measure word"
+    ],
+    "onyomi": "chō",
+    "kunyomi": "hinoto"
+  },
+  {
+    "index": 242,
+    "kanji": "世",
+    "grade": 3,
+    "strokes": 5,
+    "meaning": "generation",
+    "onyomi": [
+      "sei",
+      "se"
+    ],
+    "kunyomi": "yo"
+  },
+  {
+    "index": 243,
+    "kanji": "両",
+    "grade": 3,
+    "strokes": 6,
+    "meaning": "both",
+    "onyomi": "ryō",
+    "kunyomi": [
+      "teru",
+      "futatsu"
+    ]
+  },
+  {
+    "index": 244,
+    "kanji": "主",
+    "grade": 3,
+    "strokes": 5,
+    "meaning": [
+      "master",
+      "main"
+    ],
+    "onyomi": "shu",
+    "kunyomi": [
+      "nushi",
+      "omo"
+    ]
+  },
+  {
+    "index": 245,
+    "kanji": "乗",
+    "grade": 3,
+    "strokes": 9,
+    "meaning": "ride",
+    "onyomi": "jō",
+    "kunyomi": "no-ru"
+  },
+  {
+    "index": 246,
+    "kanji": "予",
+    "grade": 3,
+    "strokes": 4,
+    "meaning": "beforehand",
+    "onyomi": "yo",
+    "kunyomi": "arakaji-me"
+  },
+  {
+    "index": 247,
+    "kanji": "事",
+    "grade": 3,
+    "strokes": 8,
+    "meaning": "untangible thing",
+    "onyomi": "ji",
+    "kunyomi": "koto"
+  },
+  {
+    "index": 248,
+    "kanji": "仕",
+    "grade": 3,
+    "strokes": 5,
+    "meaning": "serve",
+    "onyomi": "shi",
+    "kunyomi": "tsuka-eru"
+  },
+  {
+    "index": 249,
+    "kanji": "他",
+    "grade": 3,
+    "strokes": 5,
+    "meaning": "other",
+    "onyomi": "ta",
+    "kunyomi": "hoka"
+  },
+  {
+    "index": 250,
+    "kanji": "代",
+    "grade": 3,
+    "strokes": 5,
+    "meaning": "substitute",
+    "onyomi": [
+      "dai",
+      "tai"
+    ],
+    "kunyomi": [
+      "ka-waru",
+      "yo"
+    ]
+  },
+  {
+    "index": 251,
+    "kanji": "住",
+    "grade": 3,
+    "strokes": 7,
+    "meaning": "dwell",
+    "onyomi": "jū",
+    "kunyomi": "su-mu"
+  },
+  {
+    "index": 252,
+    "kanji": "使",
+    "grade": 3,
+    "strokes": 8,
+    "meaning": "use",
+    "onyomi": "shi",
+    "kunyomi": "tsuka-u"
+  },
+  {
+    "index": 253,
+    "kanji": "係",
+    "grade": 3,
+    "strokes": 9,
+    "meaning": "person in charge",
+    "onyomi": "kei",
+    "kunyomi": [
+      "kakari",
+      "kaka-ru"
+    ]
+  },
+  {
+    "index": 254,
+    "kanji": "倍",
+    "grade": 3,
+    "strokes": 10,
+    "meaning": "double",
+    "onyomi": "bai",
+    "kunyomi": null
+  },
+  {
+    "index": 255,
+    "kanji": "全",
+    "grade": 3,
+    "strokes": 6,
+    "meaning": "whole",
+    "onyomi": "zen",
+    "kunyomi": "matta-ku"
+  },
+  {
+    "index": 256,
+    "kanji": "具",
+    "grade": 3,
+    "strokes": 8,
+    "meaning": "tool",
+    "onyomi": "gu",
+    "kunyomi": [
+      "sona-eru",
+      "tsubusa-ni"
+    ]
+  },
+  {
+    "index": 257,
+    "kanji": "写",
+    "grade": 3,
+    "strokes": 5,
+    "meaning": "copy",
+    "onyomi": "sha",
+    "kunyomi": "utsu-su"
+  },
+  {
+    "index": 258,
+    "kanji": "列",
+    "grade": 3,
+    "strokes": 6,
+    "meaning": "row",
+    "onyomi": "retsu",
+    "kunyomi": null
+  },
+  {
+    "index": 259,
+    "kanji": "助",
+    "grade": 3,
+    "strokes": 7,
+    "meaning": "help",
+    "onyomi": "jo",
+    "kunyomi": "tasu-keru"
+  },
+  {
+    "index": 260,
+    "kanji": "勉",
+    "grade": 3,
+    "strokes": 10,
+    "meaning": "diligence",
+    "onyomi": "ben",
+    "kunyomi": "tsuto-meru"
+  },
+  {
+    "index": 261,
+    "kanji": "動",
+    "grade": 3,
+    "strokes": 11,
+    "meaning": "move",
+    "onyomi": "dō",
+    "kunyomi": "ugo-ku"
+  },
+  {
+    "index": 262,
+    "kanji": "勝",
+    "grade": 3,
+    "strokes": 12,
+    "meaning": "win",
+    "onyomi": "shō",
+    "kunyomi": "ka-tsu"
+  },
+  {
+    "index": 263,
+    "kanji": "化",
+    "grade": 3,
+    "strokes": 4,
+    "meaning": "change",
+    "onyomi": "ka",
+    "kunyomi": "ba-keru"
+  },
+  {
+    "index": 264,
+    "kanji": "区",
+    "grade": 3,
+    "strokes": 4,
+    "meaning": "ward",
+    "onyomi": "ku",
+    "kunyomi": null
+  },
+  {
+    "index": 265,
+    "kanji": "医",
+    "grade": 3,
+    "strokes": 7,
+    "meaning": "doctor",
+    "onyomi": "i",
+    "kunyomi": [
+      "iya-su",
+      "i-suru"
+    ]
+  },
+  {
+    "index": 266,
+    "kanji": "去",
+    "grade": 3,
+    "strokes": 5,
+    "meaning": "leave",
+    "onyomi": [
+      "kyo",
+      "ko"
+    ],
+    "kunyomi": "sa-ru"
+  },
+  {
+    "index": 267,
+    "kanji": "反",
+    "grade": 3,
+    "strokes": 4,
+    "meaning": "anti-",
+    "onyomi": "han",
+    "kunyomi": "so-ru"
+  },
+  {
+    "index": 268,
+    "kanji": "取",
+    "grade": 3,
+    "strokes": 8,
+    "meaning": "take",
+    "onyomi": "shu",
+    "kunyomi": "to-ru"
+  },
+  {
+    "index": 269,
+    "kanji": "受",
+    "grade": 3,
+    "strokes": 8,
+    "meaning": "receive",
+    "onyomi": "ju",
+    "kunyomi": "u-keru"
+  },
+  {
+    "index": 270,
+    "kanji": "号",
+    "grade": 3,
+    "strokes": 5,
+    "meaning": "number",
+    "onyomi": "gō",
+    "kunyomi": [
+      "yobina",
+      "sake-bu"
+    ]
+  },
+  {
+    "index": 271,
+    "kanji": "向",
+    "grade": 3,
+    "strokes": 6,
+    "meaning": "face",
+    "onyomi": "kō",
+    "kunyomi": "mu-kau"
+  },
+  {
+    "index": 272,
+    "kanji": "君",
+    "grade": 3,
+    "strokes": 7,
+    "meaning": [
+      "you",
+      "monarch"
+    ],
+    "onyomi": "kun",
+    "kunyomi": "kimi"
+  },
+  {
+    "index": 273,
+    "kanji": "味",
+    "grade": 3,
+    "strokes": 8,
+    "meaning": "flavor",
+    "onyomi": "mi",
+    "kunyomi": [
+      "aji",
+      "aji-wau"
+    ]
+  },
+  {
+    "index": 274,
+    "kanji": "命",
+    "grade": 3,
+    "strokes": 8,
+    "meaning": [
+      "fate",
+      "life"
+    ],
+    "onyomi": "mei",
+    "kunyomi": "inochi"
+  },
+  {
+    "index": 275,
+    "kanji": "和",
+    "grade": 3,
+    "strokes": 8,
+    "meaning": [
+      "harmony",
+      "Japanese"
+    ],
+    "onyomi": "wa",
+    "kunyomi": [
+      "yawa-ragu",
+      "nago-yaka"
+    ]
+  },
+  {
+    "index": 276,
+    "kanji": "品",
+    "grade": 3,
+    "strokes": 9,
+    "meaning": "article",
+    "onyomi": "hin",
+    "kunyomi": "shina"
+  },
+  {
+    "index": 277,
+    "kanji": "員",
+    "grade": 3,
+    "strokes": 10,
+    "meaning": "employee",
+    "onyomi": "in",
+    "kunyomi": null
+  },
+  {
+    "index": 278,
+    "kanji": "商",
+    "grade": 3,
+    "strokes": 11,
+    "meaning": "commerce",
+    "onyomi": "shō",
+    "kunyomi": null
+  },
+  {
+    "index": 279,
+    "kanji": "問",
+    "grade": 3,
+    "strokes": 11,
+    "meaning": "question",
+    "onyomi": "mon",
+    "kunyomi": [
+      "to-u",
+      "ton"
+    ]
+  },
+  {
+    "index": 280,
+    "kanji": "坂",
+    "grade": 3,
+    "strokes": 7,
+    "meaning": "slope",
+    "onyomi": "han",
+    "kunyomi": "saka"
+  },
+  {
+    "index": 281,
+    "kanji": "央",
+    "grade": 3,
+    "strokes": 5,
+    "meaning": "center",
+    "onyomi": "ō",
+    "kunyomi": null
+  },
+  {
+    "index": 282,
+    "kanji": "始",
+    "grade": 3,
+    "strokes": 8,
+    "meaning": "begin",
+    "onyomi": "shi",
+    "kunyomi": "haji-meru"
+  },
+  {
+    "index": 283,
+    "kanji": "委",
+    "grade": 3,
+    "strokes": 8,
+    "meaning": "committee",
+    "onyomi": "i",
+    "kunyomi": "yuda-neru"
+  },
+  {
+    "index": 284,
+    "kanji": "守",
+    "grade": 3,
+    "strokes": 6,
+    "meaning": "protect",
+    "onyomi": "shu",
+    "kunyomi": "mamo-ru"
+  },
+  {
+    "index": 285,
+    "kanji": "安",
+    "grade": 3,
+    "strokes": 6,
+    "meaning": [
+      "cheap",
+      "calm"
+    ],
+    "onyomi": "an",
+    "kunyomi": "yasu-i"
+  },
+  {
+    "index": 286,
+    "kanji": "定",
+    "grade": 3,
+    "strokes": 8,
+    "meaning": "determine",
+    "onyomi": [
+      "tei",
+      "jō"
+    ],
+    "kunyomi": "sada-meru"
+  },
+  {
+    "index": 287,
+    "kanji": "実",
+    "grade": 3,
+    "strokes": 8,
+    "meaning": [
+      "fruit",
+      "realization"
+    ],
+    "onyomi": "jitsu",
+    "kunyomi": [
+      "mi",
+      "mino-ru"
+    ]
+  },
+  {
+    "index": 288,
+    "kanji": "客",
+    "grade": 3,
+    "strokes": 9,
+    "meaning": "guest",
+    "onyomi": "kyaku",
+    "kunyomi": null
+  },
+  {
+    "index": 289,
+    "kanji": "宮",
+    "grade": 3,
+    "strokes": 10,
+    "meaning": [
+      "Shinto shrine",
+      "prince"
+    ],
+    "onyomi": [
+      "kyū",
+      "gū"
+    ],
+    "kunyomi": "miya"
+  },
+  {
+    "index": 290,
+    "kanji": "宿",
+    "grade": 3,
+    "strokes": 11,
+    "meaning": "inn",
+    "onyomi": "shuku",
+    "kunyomi": [
+      "yado",
+      "yado-ru"
+    ]
+  },
+  {
+    "index": 291,
+    "kanji": "寒",
+    "grade": 3,
+    "strokes": 12,
+    "meaning": "cold (weather)",
+    "onyomi": "kan",
+    "kunyomi": "samu-i"
+  },
+  {
+    "index": 292,
+    "kanji": "対",
+    "grade": 3,
+    "strokes": 7,
+    "meaning": [
+      "opposite",
+      "against"
+    ],
+    "onyomi": [
+      "tai",
+      "tsui"
+    ],
+    "kunyomi": [
+      "aite",
+      "soro-i"
+    ]
+  },
+  {
+    "index": 293,
+    "kanji": "局",
+    "grade": 3,
+    "strokes": 7,
+    "meaning": "office",
+    "onyomi": "kyoku",
+    "kunyomi": "tsubone"
+  },
+  {
+    "index": 294,
+    "kanji": "屋",
+    "grade": 3,
+    "strokes": 9,
+    "meaning": "roof",
+    "onyomi": "oku",
+    "kunyomi": "ya"
+  },
+  {
+    "index": 295,
+    "kanji": "岸",
+    "grade": 3,
+    "strokes": 8,
+    "meaning": "shore",
+    "onyomi": "gan",
+    "kunyomi": "kishi"
+  },
+  {
+    "index": 296,
+    "kanji": "島",
+    "grade": 3,
+    "strokes": 10,
+    "meaning": "island",
+    "onyomi": "tō",
+    "kunyomi": "shima"
+  },
+  {
+    "index": 297,
+    "kanji": "州",
+    "grade": 3,
+    "strokes": 6,
+    "meaning": [
+      "state",
+      "province"
+    ],
+    "onyomi": "shū",
+    "kunyomi": "su"
+  },
+  {
+    "index": 298,
+    "kanji": "帳",
+    "grade": 3,
+    "strokes": 11,
+    "meaning": "notebook",
+    "onyomi": "chō",
+    "kunyomi": "tobari"
+  },
+  {
+    "index": 299,
+    "kanji": "平",
+    "grade": 3,
+    "strokes": 5,
+    "meaning": "flat",
+    "onyomi": [
+      "hei",
+      "byō"
+    ],
+    "kunyomi": [
+      "tai-ra",
+      "hira"
+    ]
+  },
+  {
+    "index": 300,
+    "kanji": "幸",
+    "grade": 3,
+    "strokes": 8,
+    "meaning": "happiness",
+    "onyomi": "kō",
+    "kunyomi": [
+      "saiwa-i",
+      "shiawa-se"
+    ]
+  },
+  {
+    "index": 301,
+    "kanji": "度",
+    "grade": 3,
+    "strokes": 9,
+    "meaning": "degree",
+    "onyomi": "do",
+    "kunyomi": "tabi"
+  },
+  {
+    "index": 302,
+    "kanji": "庫",
+    "grade": 3,
+    "strokes": 10,
+    "meaning": "warehouse",
+    "onyomi": [
+      "ko",
+      "ku"
+    ],
+    "kunyomi": "kura"
+  },
+  {
+    "index": 303,
+    "kanji": "庭",
+    "grade": 3,
+    "strokes": 10,
+    "meaning": "yard",
+    "onyomi": "tei",
+    "kunyomi": "niwa"
+  },
+  {
+    "index": 304,
+    "kanji": "式",
+    "grade": 3,
+    "strokes": 6,
+    "meaning": [
+      "style",
+      "ceremony",
+      "numerical formula"
+    ],
+    "onyomi": "shiki",
+    "kunyomi": null
+  },
+  {
+    "index": 305,
+    "kanji": "役",
+    "grade": 3,
+    "strokes": 7,
+    "meaning": "role",
+    "onyomi": "yaku",
+    "kunyomi": null
+  },
+  {
+    "index": 306,
+    "kanji": "待",
+    "grade": 3,
+    "strokes": 9,
+    "meaning": "wait",
+    "onyomi": "tai",
+    "kunyomi": "ma-tsu"
+  },
+  {
+    "index": 307,
+    "kanji": "急",
+    "grade": 3,
+    "strokes": 9,
+    "meaning": "hurry",
+    "onyomi": "kyū",
+    "kunyomi": "iso-gu"
+  },
+  {
+    "index": 308,
+    "kanji": "息",
+    "grade": 3,
+    "strokes": 10,
+    "meaning": "breath",
+    "onyomi": "soku",
+    "kunyomi": "iki"
+  },
+  {
+    "index": 309,
+    "kanji": "悪",
+    "grade": 3,
+    "strokes": 11,
+    "meaning": "bad",
+    "onyomi": "aku",
+    "kunyomi": "waru-i"
+  },
+  {
+    "index": 310,
+    "kanji": "悲",
+    "grade": 3,
+    "strokes": 12,
+    "meaning": "sad",
+    "onyomi": "hi",
+    "kunyomi": "kana-shii"
+  },
+  {
+    "index": 311,
+    "kanji": "想",
+    "grade": 3,
+    "strokes": 13,
+    "meaning": "thought",
+    "onyomi": "sō",
+    "kunyomi": null
+  },
+  {
+    "index": 312,
+    "kanji": "意",
+    "grade": 3,
+    "strokes": 13,
+    "meaning": "idea",
+    "onyomi": "i",
+    "kunyomi": null
+  },
+  {
+    "index": 313,
+    "kanji": "感",
+    "grade": 3,
+    "strokes": 13,
+    "meaning": "feel",
+    "onyomi": "kan",
+    "kunyomi": null
+  },
+  {
+    "index": 314,
+    "kanji": "所",
+    "grade": 3,
+    "strokes": 8,
+    "meaning": "place",
+    "onyomi": "sho",
+    "kunyomi": "tokoro"
+  },
+  {
+    "index": 315,
+    "kanji": "打",
+    "grade": 3,
+    "strokes": 5,
+    "meaning": "hit",
+    "onyomi": "da",
+    "kunyomi": "u-tsu"
+  },
+  {
+    "index": 316,
+    "kanji": "投",
+    "grade": 3,
+    "strokes": 7,
+    "meaning": "throw",
+    "onyomi": "tō",
+    "kunyomi": "na-geru"
+  },
+  {
+    "index": 317,
+    "kanji": "拾",
+    "grade": 3,
+    "strokes": 9,
+    "meaning": "pick up",
+    "onyomi": "shū",
+    "kunyomi": "hiro-u"
+  },
+  {
+    "index": 318,
+    "kanji": "持",
+    "grade": 3,
+    "strokes": 9,
+    "meaning": "hold",
+    "onyomi": "ji",
+    "kunyomi": "mo-tsu"
+  },
+  {
+    "index": 319,
+    "kanji": "指",
+    "grade": 3,
+    "strokes": 9,
+    "meaning": "finger",
+    "onyomi": "shi",
+    "kunyomi": [
+      "yubi",
+      "sa-su"
+    ]
+  },
+  {
+    "index": 320,
+    "kanji": "放",
+    "grade": 3,
+    "strokes": 8,
+    "meaning": "release",
+    "onyomi": "hō",
+    "kunyomi": "hana-su"
+  },
+  {
+    "index": 321,
+    "kanji": "整",
+    "grade": 3,
+    "strokes": 16,
+    "meaning": "organize",
+    "onyomi": "sei",
+    "kunyomi": "totono-eru"
+  },
+  {
+    "index": 322,
+    "kanji": "旅",
+    "grade": 3,
+    "strokes": 10,
+    "meaning": "trip",
+    "onyomi": "ryo",
+    "kunyomi": "tabi"
+  },
+  {
+    "index": 323,
+    "kanji": "族",
+    "grade": 3,
+    "strokes": 11,
+    "meaning": "tribe",
+    "onyomi": "zoku",
+    "kunyomi": null
+  },
+  {
+    "index": 324,
+    "kanji": "昔",
+    "grade": 3,
+    "strokes": 8,
+    "meaning": "long ago",
+    "onyomi": [
+      "seki",
+      "shaku"
+    ],
+    "kunyomi": "mukashi"
+  },
+  {
+    "index": 325,
+    "kanji": "昭",
+    "grade": 3,
+    "strokes": 9,
+    "meaning": "shine",
+    "onyomi": "shō",
+    "kunyomi": null
+  },
+  {
+    "index": 326,
+    "kanji": "暑",
+    "grade": 3,
+    "strokes": 12,
+    "meaning": "hot",
+    "onyomi": "sho",
+    "kunyomi": "atsu-i"
+  },
+  {
+    "index": 327,
+    "kanji": "暗",
+    "grade": 3,
+    "strokes": 13,
+    "meaning": "dark",
+    "onyomi": "an",
+    "kunyomi": "kura-i"
+  },
+  {
+    "index": 328,
+    "kanji": "曲",
+    "grade": 3,
+    "strokes": 6,
+    "meaning": [
+      "melody",
+      "curve"
+    ],
+    "onyomi": "kyoku",
+    "kunyomi": "ma-garu"
+  },
+  {
+    "index": 329,
+    "kanji": "有",
+    "grade": 3,
+    "strokes": 6,
+    "meaning": "possess",
+    "onyomi": "yū",
+    "kunyomi": "a-ru"
+  },
+  {
+    "index": 330,
+    "kanji": "服",
+    "grade": 3,
+    "strokes": 8,
+    "meaning": "clothes",
+    "onyomi": "fuku",
+    "kunyomi": null
+  },
+  {
+    "index": 331,
+    "kanji": "期",
+    "grade": 3,
+    "strokes": 12,
+    "meaning": "period of time",
+    "onyomi": "ki",
+    "kunyomi": null
+  },
+  {
+    "index": 332,
+    "kanji": "板",
+    "grade": 3,
+    "strokes": 8,
+    "meaning": "board",
+    "onyomi": [
+      "han",
+      "ban"
+    ],
+    "kunyomi": "ita"
+  },
+  {
+    "index": 333,
+    "kanji": "柱",
+    "grade": 3,
+    "strokes": 9,
+    "meaning": "pillar",
+    "onyomi": "chū",
+    "kunyomi": "hashira"
+  },
+  {
+    "index": 334,
+    "kanji": "根",
+    "grade": 3,
+    "strokes": 10,
+    "meaning": "root",
+    "onyomi": "kon",
+    "kunyomi": "ne"
+  },
+  {
+    "index": 335,
+    "kanji": "植",
+    "grade": 3,
+    "strokes": 12,
+    "meaning": "plant",
+    "onyomi": "shoku",
+    "kunyomi": "u-eru"
+  },
+  {
+    "index": 336,
+    "kanji": "業",
+    "grade": 3,
+    "strokes": 13,
+    "meaning": "business",
+    "onyomi": "gyō",
+    "kunyomi": null
+  },
+  {
+    "index": 337,
+    "kanji": "様",
+    "grade": 3,
+    "strokes": 14,
+    "meaning": "appearance",
+    "onyomi": "yō",
+    "kunyomi": "sama"
+  },
+  {
+    "index": 338,
+    "kanji": "横",
+    "grade": 3,
+    "strokes": 15,
+    "meaning": "horizontal",
+    "onyomi": "ō",
+    "kunyomi": "yoko"
+  },
+  {
+    "index": 339,
+    "kanji": "橋",
+    "grade": 3,
+    "strokes": 16,
+    "meaning": "bridge",
+    "onyomi": "kyō",
+    "kunyomi": "hashi"
+  },
+  {
+    "index": 340,
+    "kanji": "次",
+    "grade": 3,
+    "strokes": 6,
+    "meaning": "next",
+    "onyomi": "ji",
+    "kunyomi": [
+      "tsugi",
+      "tsu-gu"
+    ]
+  },
+  {
+    "index": 341,
+    "kanji": "歯",
+    "grade": 3,
+    "strokes": 12,
+    "meaning": "tooth",
+    "onyomi": "shi",
+    "kunyomi": "ha"
+  },
+  {
+    "index": 342,
+    "kanji": "死",
+    "grade": 3,
+    "strokes": 6,
+    "meaning": "death",
+    "onyomi": "shi",
+    "kunyomi": "shi-nu"
+  },
+  {
+    "index": 343,
+    "kanji": "氷",
+    "grade": 3,
+    "strokes": 5,
+    "meaning": "ice",
+    "onyomi": "hyō",
+    "kunyomi": "kōri"
+  },
+  {
+    "index": 344,
+    "kanji": "決",
+    "grade": 3,
+    "strokes": 7,
+    "meaning": "decide",
+    "onyomi": "ketsu",
+    "kunyomi": "ki-meru"
+  },
+  {
+    "index": 345,
+    "kanji": "油",
+    "grade": 3,
+    "strokes": 8,
+    "meaning": "oil",
+    "onyomi": "yu",
+    "kunyomi": "abura"
+  },
+  {
+    "index": 346,
+    "kanji": "波",
+    "grade": 3,
+    "strokes": 8,
+    "meaning": "wave",
+    "onyomi": "ha",
+    "kunyomi": "nami"
+  },
+  {
+    "index": 347,
+    "kanji": "注",
+    "grade": 3,
+    "strokes": 8,
+    "meaning": "pour",
+    "onyomi": "chū",
+    "kunyomi": "soso-gu"
+  },
+  {
+    "index": 348,
+    "kanji": "泳",
+    "grade": 3,
+    "strokes": 8,
+    "meaning": "swim",
+    "onyomi": "ei",
+    "kunyomi": "oyo-gu"
+  },
+  {
+    "index": 349,
+    "kanji": "洋",
+    "grade": 3,
+    "strokes": 9,
+    "meaning": "ocean",
+    "onyomi": "yō",
+    "kunyomi": null
+  },
+  {
+    "index": 350,
+    "kanji": "流",
+    "grade": 3,
+    "strokes": 10,
+    "meaning": "stream",
+    "onyomi": "ryū",
+    "kunyomi": "naga-reru"
+  },
+  {
+    "index": 351,
+    "kanji": "消",
+    "grade": 3,
+    "strokes": 10,
+    "meaning": "extinguish",
+    "onyomi": "shō",
+    "kunyomi": [
+      "ki-eru",
+      "ke-su"
+    ]
+  },
+  {
+    "index": 352,
+    "kanji": "深",
+    "grade": 3,
+    "strokes": 11,
+    "meaning": "deep",
+    "onyomi": "shin",
+    "kunyomi": "fuka-i"
+  },
+  {
+    "index": 353,
+    "kanji": "温",
+    "grade": 3,
+    "strokes": 12,
+    "meaning": "warm",
+    "onyomi": "on",
+    "kunyomi": "atata-kai"
+  },
+  {
+    "index": 354,
+    "kanji": "港",
+    "grade": 3,
+    "strokes": 12,
+    "meaning": "harbor",
+    "onyomi": "kō",
+    "kunyomi": "minato"
+  },
+  {
+    "index": 355,
+    "kanji": "湖",
+    "grade": 3,
+    "strokes": 12,
+    "meaning": "lake",
+    "onyomi": "ko",
+    "kunyomi": "mizūmi"
+  },
+  {
+    "index": 356,
+    "kanji": "湯",
+    "grade": 3,
+    "strokes": 12,
+    "meaning": "hot water",
+    "onyomi": "tō",
+    "kunyomi": "yu"
+  },
+  {
+    "index": 357,
+    "kanji": "漢",
+    "grade": 3,
+    "strokes": 13,
+    "meaning": "Chinese",
+    "onyomi": "kan",
+    "kunyomi": null
+  },
+  {
+    "index": 358,
+    "kanji": "炭",
+    "grade": 3,
+    "strokes": 9,
+    "meaning": "charcoal",
+    "onyomi": "tan",
+    "kunyomi": "sumi"
+  },
+  {
+    "index": 359,
+    "kanji": "物",
+    "grade": 3,
+    "strokes": 8,
+    "meaning": "(tangible) thing",
+    "onyomi": [
+      "butsu",
+      "motsu"
+    ],
+    "kunyomi": "mono"
+  },
+  {
+    "index": 360,
+    "kanji": "球",
+    "grade": 3,
+    "strokes": 11,
+    "meaning": "ball",
+    "onyomi": "kyū",
+    "kunyomi": "tama"
+  },
+  {
+    "index": 361,
+    "kanji": "由",
+    "grade": 3,
+    "strokes": 5,
+    "meaning": "reason",
+    "onyomi": [
+      "yū",
+      "yu"
+    ],
+    "kunyomi": "yoshi"
+  },
+  {
+    "index": 362,
+    "kanji": "申",
+    "grade": 3,
+    "strokes": 5,
+    "meaning": "say",
+    "onyomi": "shin",
+    "kunyomi": "mō-su"
+  },
+  {
+    "index": 363,
+    "kanji": "界",
+    "grade": 3,
+    "strokes": 9,
+    "meaning": "world",
+    "onyomi": "kai",
+    "kunyomi": null
+  },
+  {
+    "index": 364,
+    "kanji": "畑",
+    "grade": 3,
+    "strokes": 9,
+    "meaning": "farm",
+    "onyomi": null,
+    "kunyomi": [
+      "hata",
+      "hatake"
+    ]
+  },
+  {
+    "index": 365,
+    "kanji": "病",
+    "grade": 3,
+    "strokes": 10,
+    "meaning": "sick",
+    "onyomi": "byō",
+    "kunyomi": "yamai"
+  },
+  {
+    "index": 366,
+    "kanji": "発",
+    "grade": 3,
+    "strokes": 9,
+    "meaning": "departure",
+    "onyomi": "hatsu",
+    "kunyomi": null
+  },
+  {
+    "index": 367,
+    "kanji": "登",
+    "grade": 3,
+    "strokes": 12,
+    "meaning": "climb",
+    "onyomi": [
+      "tō",
+      "to"
+    ],
+    "kunyomi": "nobo-ru"
+  },
+  {
+    "index": 368,
+    "kanji": "皮",
+    "grade": 3,
+    "strokes": 5,
+    "meaning": "skin",
+    "onyomi": "hi",
+    "kunyomi": "kawa"
+  },
+  {
+    "index": 369,
+    "kanji": "皿",
+    "grade": 3,
+    "strokes": 5,
+    "meaning": "dish",
+    "onyomi": "bei",
+    "kunyomi": "sara"
+  },
+  {
+    "index": 370,
+    "kanji": "相",
+    "grade": 3,
+    "strokes": 9,
+    "meaning": "mutual",
+    "onyomi": "sō",
+    "kunyomi": "ai"
+  },
+  {
+    "index": 371,
+    "kanji": "県",
+    "grade": 3,
+    "strokes": 9,
+    "meaning": "prefecture",
+    "onyomi": "ken",
+    "kunyomi": "ka-keru"
+  },
+  {
+    "index": 372,
+    "kanji": "真",
+    "grade": 3,
+    "strokes": 10,
+    "meaning": "true",
+    "onyomi": "shin",
+    "kunyomi": "ma"
+  },
+  {
+    "index": 373,
+    "kanji": "着",
+    "grade": 3,
+    "strokes": 12,
+    "meaning": "wear",
+    "onyomi": "chaku",
+    "kunyomi": [
+      "ki-ru",
+      "tsu-ku"
+    ]
+  },
+  {
+    "index": 374,
+    "kanji": "短",
+    "grade": 3,
+    "strokes": 12,
+    "meaning": "short",
+    "onyomi": "tan",
+    "kunyomi": "mijika-i"
+  },
+  {
+    "index": 375,
+    "kanji": "研",
+    "grade": 3,
+    "strokes": 9,
+    "meaning": "sharpen",
+    "onyomi": "ken",
+    "kunyomi": "to-gu"
+  },
+  {
+    "index": 376,
+    "kanji": "礼",
+    "grade": 3,
+    "strokes": 5,
+    "meaning": "salute",
+    "onyomi": "rei",
+    "kunyomi": null
+  },
+  {
+    "index": 377,
+    "kanji": "神",
+    "grade": 3,
+    "strokes": 9,
+    "meaning": "deity",
+    "onyomi": [
+      "shin",
+      "jin"
+    ],
+    "kunyomi": "kami"
+  },
+  {
+    "index": 378,
+    "kanji": "祭",
+    "grade": 3,
+    "strokes": 11,
+    "meaning": "festival",
+    "onyomi": "sai",
+    "kunyomi": "matsu-ri"
+  },
+  {
+    "index": 379,
+    "kanji": "福",
+    "grade": 3,
+    "strokes": 13,
+    "meaning": "luck",
+    "onyomi": "fuku",
+    "kunyomi": null
+  },
+  {
+    "index": 380,
+    "kanji": "秒",
+    "grade": 3,
+    "strokes": 9,
+    "meaning": "second",
+    "onyomi": "byō",
+    "kunyomi": null
+  },
+  {
+    "index": 381,
+    "kanji": "究",
+    "grade": 3,
+    "strokes": 7,
+    "meaning": "research",
+    "onyomi": "kyū",
+    "kunyomi": "kiwa-meru"
+  },
+  {
+    "index": 382,
+    "kanji": "章",
+    "grade": 3,
+    "strokes": 11,
+    "meaning": "chapter",
+    "onyomi": "shō",
+    "kunyomi": null
+  },
+  {
+    "index": 383,
+    "kanji": "童",
+    "grade": 3,
+    "strokes": 12,
+    "meaning": "juvenile",
+    "onyomi": "dō",
+    "kunyomi": "warabe"
+  },
+  {
+    "index": 384,
+    "kanji": "笛",
+    "grade": 3,
+    "strokes": 11,
+    "meaning": "whistle",
+    "onyomi": "teki",
+    "kunyomi": "fue"
+  },
+  {
+    "index": 385,
+    "kanji": "第",
+    "grade": 3,
+    "strokes": 11,
+    "meaning": "ordinal",
+    "onyomi": "dai",
+    "kunyomi": null
+  },
+  {
+    "index": 386,
+    "kanji": "筆",
+    "grade": 3,
+    "strokes": 12,
+    "meaning": "writing brush",
+    "onyomi": "hitsu",
+    "kunyomi": "fude"
+  },
+  {
+    "index": 387,
+    "kanji": "等",
+    "grade": 3,
+    "strokes": 12,
+    "meaning": "class",
+    "onyomi": "tō",
+    "kunyomi": "hito-shii"
+  },
+  {
+    "index": 388,
+    "kanji": "箱",
+    "grade": 3,
+    "strokes": 15,
+    "meaning": "box",
+    "onyomi": "sō",
+    "kunyomi": "hako"
+  },
+  {
+    "index": 389,
+    "kanji": "級",
+    "grade": 3,
+    "strokes": 9,
+    "meaning": "rank",
+    "onyomi": "kyū",
+    "kunyomi": null
+  },
+  {
+    "index": 390,
+    "kanji": "終",
+    "grade": 3,
+    "strokes": 11,
+    "meaning": "end",
+    "onyomi": "shū",
+    "kunyomi": "o-waru"
+  },
+  {
+    "index": 391,
+    "kanji": "緑",
+    "grade": 3,
+    "strokes": 14,
+    "meaning": "green",
+    "onyomi": "ryoku",
+    "kunyomi": "midori"
+  },
+  {
+    "index": 392,
+    "kanji": "練",
+    "grade": 3,
+    "strokes": 14,
+    "meaning": "practice",
+    "onyomi": "ren",
+    "kunyomi": "ne-ru"
+  },
+  {
+    "index": 393,
+    "kanji": "羊",
+    "grade": 3,
+    "strokes": 6,
+    "meaning": "sheep",
+    "onyomi": "yō",
+    "kunyomi": "hitsuji"
+  },
+  {
+    "index": 394,
+    "kanji": "美",
+    "grade": 3,
+    "strokes": 9,
+    "meaning": "beauty",
+    "onyomi": "bi",
+    "kunyomi": "utsuku-shii"
+  },
+  {
+    "index": 395,
+    "kanji": "習",
+    "grade": 3,
+    "strokes": 11,
+    "meaning": "learn",
+    "onyomi": "shū",
+    "kunyomi": "nara-u"
+  },
+  {
+    "index": 396,
+    "kanji": "者",
+    "grade": 3,
+    "strokes": 8,
+    "meaning": "someone",
+    "onyomi": "sha",
+    "kunyomi": "mono"
+  },
+  {
+    "index": 397,
+    "kanji": "育",
+    "grade": 3,
+    "strokes": 8,
+    "meaning": "nurture",
+    "onyomi": "iku",
+    "kunyomi": "soda-tsu"
+  },
+  {
+    "index": 398,
+    "kanji": "苦",
+    "grade": 3,
+    "strokes": 8,
+    "meaning": "suffer",
+    "onyomi": "ku",
+    "kunyomi": [
+      "kuru-shii",
+      "niga-i"
+    ]
+  },
+  {
+    "index": 399,
+    "kanji": "荷",
+    "grade": 3,
+    "strokes": 10,
+    "meaning": "luggage",
+    "onyomi": "ka",
+    "kunyomi": "ni"
+  },
+  {
+    "index": 400,
+    "kanji": "落",
+    "grade": 3,
+    "strokes": 12,
+    "meaning": "fall",
+    "onyomi": "raku",
+    "kunyomi": "o-chiru"
+  },
+  {
+    "index": 401,
+    "kanji": "葉",
+    "grade": 3,
+    "strokes": 12,
+    "meaning": "leaf",
+    "onyomi": "yō",
+    "kunyomi": "ha"
+  },
+  {
+    "index": 402,
+    "kanji": "薬",
+    "grade": 3,
+    "strokes": 16,
+    "meaning": "medicine",
+    "onyomi": "yaku",
+    "kunyomi": "kusuri"
+  },
+  {
+    "index": 403,
+    "kanji": "血",
+    "grade": 3,
+    "strokes": 6,
+    "meaning": "blood",
+    "onyomi": "ketsu",
+    "kunyomi": "chi"
+  },
+  {
+    "index": 404,
+    "kanji": "表",
+    "grade": 3,
+    "strokes": 8,
+    "meaning": "express",
+    "onyomi": "hyō",
+    "kunyomi": [
+      "omote",
+      "arawa-su"
+    ]
+  },
+  {
+    "index": 405,
+    "kanji": "詩",
+    "grade": 3,
+    "strokes": 13,
+    "meaning": "poem",
+    "onyomi": "shi",
+    "kunyomi": "uta"
+  },
+  {
+    "index": 406,
+    "kanji": "調",
+    "grade": 3,
+    "strokes": 15,
+    "meaning": "tone",
+    "onyomi": "chō",
+    "kunyomi": "shira-beru"
+  },
+  {
+    "index": 407,
+    "kanji": "談",
+    "grade": 3,
+    "strokes": 15,
+    "meaning": "discuss",
+    "onyomi": "dan",
+    "kunyomi": null
+  },
+  {
+    "index": 408,
+    "kanji": "豆",
+    "grade": 3,
+    "strokes": 7,
+    "meaning": "beans",
+    "onyomi": [
+      "tō",
+      "zu"
+    ],
+    "kunyomi": "mame"
+  },
+  {
+    "index": 409,
+    "kanji": "負",
+    "grade": 3,
+    "strokes": 9,
+    "meaning": "lose",
+    "onyomi": "fu",
+    "kunyomi": [
+      "ma-keru",
+      "o-u"
+    ]
+  },
+  {
+    "index": 410,
+    "kanji": "起",
+    "grade": 3,
+    "strokes": 10,
+    "meaning": "awaken",
+    "onyomi": "ki",
+    "kunyomi": "o-kiru"
+  },
+  {
+    "index": 411,
+    "kanji": "路",
+    "grade": 3,
+    "strokes": 13,
+    "meaning": "path",
+    "onyomi": "ro",
+    "kunyomi": "ji"
+  },
+  {
+    "index": 412,
+    "kanji": "身",
+    "grade": 3,
+    "strokes": 7,
+    "meaning": "body",
+    "onyomi": "shin",
+    "kunyomi": "mi"
+  },
+  {
+    "index": 413,
+    "kanji": "転",
+    "grade": 3,
+    "strokes": 11,
+    "meaning": "revolve",
+    "onyomi": "ten",
+    "kunyomi": "koro-bu"
+  },
+  {
+    "index": 414,
+    "kanji": "軽",
+    "grade": 3,
+    "strokes": 12,
+    "meaning": "light",
+    "onyomi": "kei",
+    "kunyomi": "karu-i"
+  },
+  {
+    "index": 415,
+    "kanji": "農",
+    "grade": 3,
+    "strokes": 13,
+    "meaning": "agriculture",
+    "onyomi": "nō",
+    "kunyomi": null
+  },
+  {
+    "index": 416,
+    "kanji": "返",
+    "grade": 3,
+    "strokes": 7,
+    "meaning": "repay",
+    "onyomi": "hen",
+    "kunyomi": "kae-su"
+  },
+  {
+    "index": 417,
+    "kanji": "追",
+    "grade": 3,
+    "strokes": 9,
+    "meaning": "follow",
+    "onyomi": "tsui",
+    "kunyomi": "o-u"
+  },
+  {
+    "index": 418,
+    "kanji": "送",
+    "grade": 3,
+    "strokes": 9,
+    "meaning": "send",
+    "onyomi": "sō",
+    "kunyomi": "oku-ru"
+  },
+  {
+    "index": 419,
+    "kanji": "速",
+    "grade": 3,
+    "strokes": 10,
+    "meaning": "fast",
+    "onyomi": "soku",
+    "kunyomi": "haya-i"
+  },
+  {
+    "index": 420,
+    "kanji": "進",
+    "grade": 3,
+    "strokes": 11,
+    "meaning": "progress",
+    "onyomi": "shin",
+    "kunyomi": "susu-mu"
+  },
+  {
+    "index": 421,
+    "kanji": "遊",
+    "grade": 3,
+    "strokes": 12,
+    "meaning": "play",
+    "onyomi": "yū",
+    "kunyomi": "aso-bu"
+  },
+  {
+    "index": 422,
+    "kanji": "運",
+    "grade": 3,
+    "strokes": 12,
+    "meaning": "carry",
+    "onyomi": "un",
+    "kunyomi": "hako-bu"
+  },
+  {
+    "index": 423,
+    "kanji": "部",
+    "grade": 3,
+    "strokes": 11,
+    "meaning": "part",
+    "onyomi": "bu",
+    "kunyomi": null
+  },
+  {
+    "index": 424,
+    "kanji": "都",
+    "grade": 3,
+    "strokes": 11,
+    "meaning": "metropolis",
+    "onyomi": [
+      "to",
+      "tsu"
+    ],
+    "kunyomi": "miyako"
+  },
+  {
+    "index": 425,
+    "kanji": "配",
+    "grade": 3,
+    "strokes": 10,
+    "meaning": "distribute",
+    "onyomi": "hai",
+    "kunyomi": "kuba-ru"
+  },
+  {
+    "index": 426,
+    "kanji": "酒",
+    "grade": 3,
+    "strokes": 10,
+    "meaning": "liquor",
+    "onyomi": "shu",
+    "kunyomi": [
+      "sake",
+      "saka"
+    ]
+  },
+  {
+    "index": 427,
+    "kanji": "重",
+    "grade": 3,
+    "strokes": 9,
+    "meaning": [
+      "heavy",
+      "gravity",
+      "pile"
+    ],
+    "onyomi": [
+      "jū",
+      "chō"
+    ],
+    "kunyomi": [
+      "omo-i",
+      "kasa-neru"
+    ]
+  },
+  {
+    "index": 428,
+    "kanji": "鉄",
+    "grade": 3,
+    "strokes": 13,
+    "meaning": "iron",
+    "onyomi": "tetsu",
+    "kunyomi": "kurogane"
+  },
+  {
+    "index": 429,
+    "kanji": "銀",
+    "grade": 3,
+    "strokes": 14,
+    "meaning": "silver",
+    "onyomi": "gin",
+    "kunyomi": "shirogane"
+  },
+  {
+    "index": 430,
+    "kanji": "開",
+    "grade": 3,
+    "strokes": 12,
+    "meaning": "open",
+    "onyomi": "kai",
+    "kunyomi": [
+      "hira-ku",
+      "a-ku"
+    ]
+  },
+  {
+    "index": 431,
+    "kanji": "院",
+    "grade": 3,
+    "strokes": 10,
+    "meaning": "institution",
+    "onyomi": "in",
+    "kunyomi": null
+  },
+  {
+    "index": 432,
+    "kanji": "陽",
+    "grade": 3,
+    "strokes": 12,
+    "meaning": "sun",
+    "onyomi": "yō",
+    "kunyomi": "hi"
+  },
+  {
+    "index": 433,
+    "kanji": "階",
+    "grade": 3,
+    "strokes": 12,
+    "meaning": "storey",
+    "onyomi": "kai",
+    "kunyomi": "kizahashi"
+  },
+  {
+    "index": 434,
+    "kanji": "集",
+    "grade": 3,
+    "strokes": 12,
+    "meaning": "gather",
+    "onyomi": "shū",
+    "kunyomi": "atsu-maru"
+  },
+  {
+    "index": 435,
+    "kanji": "面",
+    "grade": 3,
+    "strokes": 9,
+    "meaning": "surface",
+    "onyomi": "men",
+    "kunyomi": [
+      "omote",
+      "tsura"
+    ]
+  },
+  {
+    "index": 436,
+    "kanji": "題",
+    "grade": 3,
+    "strokes": 18,
+    "meaning": "topic",
+    "onyomi": "dai",
+    "kunyomi": null
+  },
+  {
+    "index": 437,
+    "kanji": "飲",
+    "grade": 3,
+    "strokes": 12,
+    "meaning": "drink",
+    "onyomi": "in",
+    "kunyomi": "no-mu"
+  },
+  {
+    "index": 438,
+    "kanji": "館",
+    "grade": 3,
+    "strokes": 16,
+    "meaning": "public building",
+    "onyomi": "kan",
+    "kunyomi": "tate"
+  },
+  {
+    "index": 439,
+    "kanji": "駅",
+    "grade": 3,
+    "strokes": 14,
+    "meaning": "station",
+    "onyomi": "eki",
+    "kunyomi": null
+  },
+  {
+    "index": 440,
+    "kanji": "鼻",
+    "grade": 3,
+    "strokes": 14,
+    "meaning": "nose",
+    "onyomi": "bi",
+    "kunyomi": "hana"
+  },
+  {
+    "index": 441,
+    "kanji": "不",
+    "grade": 4,
+    "strokes": 4,
+    "meaning": "not",
+    "onyomi": [
+      "fu",
+      "bu"
+    ],
+    "kunyomi": null
+  },
+  {
+    "index": 442,
+    "kanji": "争",
+    "grade": 4,
+    "strokes": 6,
+    "meaning": "conflict",
+    "onyomi": "sō",
+    "kunyomi": "araso-u"
+  },
+  {
+    "index": 443,
+    "kanji": "付",
+    "grade": 4,
+    "strokes": 5,
+    "meaning": "attach",
+    "onyomi": "fu",
+    "kunyomi": "tsu-ku"
+  },
+  {
+    "index": 444,
+    "kanji": "令",
+    "grade": 4,
+    "strokes": 5,
+    "meaning": "orders",
+    "onyomi": "rei",
+    "kunyomi": null
+  },
+  {
+    "index": 445,
+    "kanji": "以",
+    "grade": 4,
+    "strokes": 5,
+    "meaning": "since",
+    "onyomi": "i",
+    "kunyomi": null
+  },
+  {
+    "index": 446,
+    "kanji": "仲",
+    "grade": 4,
+    "strokes": 6,
+    "meaning": "go-between",
+    "onyomi": "chū",
+    "kunyomi": "naka"
+  },
+  {
+    "index": 447,
+    "kanji": "伝",
+    "grade": 4,
+    "strokes": 6,
+    "meaning": "transmit",
+    "onyomi": "den",
+    "kunyomi": "tsuta-eru"
+  },
+  {
+    "index": 448,
+    "kanji": "位",
+    "grade": 4,
+    "strokes": 7,
+    "meaning": "rank",
+    "onyomi": "i",
+    "kunyomi": "kurai"
+  },
+  {
+    "index": 449,
+    "kanji": "低",
+    "grade": 4,
+    "strokes": 7,
+    "meaning": "low",
+    "onyomi": "tei",
+    "kunyomi": "hiku-i"
+  },
+  {
+    "index": 450,
+    "kanji": "例",
+    "grade": 4,
+    "strokes": 8,
+    "meaning": "example",
+    "onyomi": "rei",
+    "kunyomi": "tato-eru"
+  },
+  {
+    "index": 451,
+    "kanji": "便",
+    "grade": 4,
+    "strokes": 9,
+    "meaning": [
+      "convenience",
+      "letter"
+    ],
+    "onyomi": [
+      "ben",
+      "bin"
+    ],
+    "kunyomi": "tayo-ri"
+  },
+  {
+    "index": 452,
+    "kanji": "信",
+    "grade": 4,
+    "strokes": 9,
+    "meaning": "trust",
+    "onyomi": "shin",
+    "kunyomi": null
+  },
+  {
+    "index": 453,
+    "kanji": "倉",
+    "grade": 4,
+    "strokes": 10,
+    "meaning": "storage",
+    "onyomi": "sō",
+    "kunyomi": "kura"
+  },
+  {
+    "index": 454,
+    "kanji": "候",
+    "grade": 4,
+    "strokes": 10,
+    "meaning": "climate",
+    "onyomi": "kō",
+    "kunyomi": null
+  },
+  {
+    "index": 455,
+    "kanji": "借",
+    "grade": 4,
+    "strokes": 10,
+    "meaning": "borrow",
+    "onyomi": "shaku",
+    "kunyomi": "ka-riru"
+  },
+  {
+    "index": 456,
+    "kanji": "停",
+    "grade": 4,
+    "strokes": 11,
+    "meaning": "halt",
+    "onyomi": "tei",
+    "kunyomi": [
+      "to-maru",
+      "to-meru"
+    ]
+  },
+  {
+    "index": 457,
+    "kanji": "健",
+    "grade": 4,
+    "strokes": 11,
+    "meaning": "healthy",
+    "onyomi": "ken",
+    "kunyomi": "suko-yaka"
+  },
+  {
+    "index": 458,
+    "kanji": "側",
+    "grade": 4,
+    "strokes": 11,
+    "meaning": "side",
+    "onyomi": "soku",
+    "kunyomi": "kawa"
+  },
+  {
+    "index": 459,
+    "kanji": "働",
+    "grade": 4,
+    "strokes": 13,
+    "meaning": "work",
+    "onyomi": "dō",
+    "kunyomi": "hatara-ku"
+  },
+  {
+    "index": 460,
+    "kanji": "億",
+    "grade": 4,
+    "strokes": 15,
+    "meaning": "hundred million",
+    "onyomi": "oku",
+    "kunyomi": null
+  },
+  {
+    "index": 461,
+    "kanji": "兆",
+    "grade": 4,
+    "strokes": 6,
+    "meaning": [
+      "portent",
+      "trillion"
+    ],
+    "onyomi": "chō",
+    "kunyomi": "kiza-shi"
+  },
+  {
+    "index": 462,
+    "kanji": "児",
+    "grade": 4,
+    "strokes": 7,
+    "meaning": "offspring",
+    "onyomi": [
+      "ji",
+      "ni"
+    ],
+    "kunyomi": "ko"
+  },
+  {
+    "index": 463,
+    "kanji": "共",
+    "grade": 4,
+    "strokes": 6,
+    "meaning": "together",
+    "onyomi": "kyō",
+    "kunyomi": "tomo"
+  },
+  {
+    "index": 464,
+    "kanji": "兵",
+    "grade": 4,
+    "strokes": 7,
+    "meaning": "soldier",
+    "onyomi": [
+      "hei",
+      "hyō"
+    ],
+    "kunyomi": "tsuwamono"
+  },
+  {
+    "index": 465,
+    "kanji": "典",
+    "grade": 4,
+    "strokes": 8,
+    "meaning": "code",
+    "onyomi": "ten",
+    "kunyomi": null
+  },
+  {
+    "index": 466,
+    "kanji": "冷",
+    "grade": 4,
+    "strokes": 7,
+    "meaning": "cool",
+    "onyomi": "rei",
+    "kunyomi": [
+      "tsume-tai",
+      "hi-eru",
+      "sa-meru"
+    ]
+  },
+  {
+    "index": 467,
+    "kanji": "初",
+    "grade": 4,
+    "strokes": 7,
+    "meaning": "first",
+    "onyomi": "sho",
+    "kunyomi": [
+      "hatsu",
+      "haji-me"
+    ]
+  },
+  {
+    "index": 468,
+    "kanji": "別",
+    "grade": 4,
+    "strokes": 7,
+    "meaning": "separate",
+    "onyomi": "betsu",
+    "kunyomi": "waka-reru"
+  },
+  {
+    "index": 469,
+    "kanji": "利",
+    "grade": 4,
+    "strokes": 7,
+    "meaning": "profit",
+    "onyomi": "ri",
+    "kunyomi": null
+  },
+  {
+    "index": 470,
+    "kanji": "刷",
+    "grade": 4,
+    "strokes": 8,
+    "meaning": "printing",
+    "onyomi": "satsu",
+    "kunyomi": "su-ru"
+  },
+  {
+    "index": 471,
+    "kanji": "副",
+    "grade": 4,
+    "strokes": 11,
+    "meaning": "vice-",
+    "onyomi": "fuku",
+    "kunyomi": null
+  },
+  {
+    "index": 472,
+    "kanji": "功",
+    "grade": 4,
+    "strokes": 5,
+    "meaning": "achievement",
+    "onyomi": "kō",
+    "kunyomi": null
+  },
+  {
+    "index": 473,
+    "kanji": "加",
+    "grade": 4,
+    "strokes": 5,
+    "meaning": "add",
+    "onyomi": "ka",
+    "kunyomi": "kuwa-eru"
+  },
+  {
+    "index": 474,
+    "kanji": "努",
+    "grade": 4,
+    "strokes": 7,
+    "meaning": "toil",
+    "onyomi": "do",
+    "kunyomi": "tsuto-meru"
+  },
+  {
+    "index": 475,
+    "kanji": "労",
+    "grade": 4,
+    "strokes": 7,
+    "meaning": "labor",
+    "onyomi": "rō",
+    "kunyomi": "negira-u"
+  },
+  {
+    "index": 476,
+    "kanji": "勇",
+    "grade": 4,
+    "strokes": 9,
+    "meaning": "courage",
+    "onyomi": "yū",
+    "kunyomi": "isa-mu"
+  },
+  {
+    "index": 477,
+    "kanji": "包",
+    "grade": 4,
+    "strokes": 5,
+    "meaning": "wrap",
+    "onyomi": "hō",
+    "kunyomi": "tsutsu-mu"
+  },
+  {
+    "index": 478,
+    "kanji": "卒",
+    "grade": 4,
+    "strokes": 8,
+    "meaning": "graduate",
+    "onyomi": "sotsu",
+    "kunyomi": null
+  },
+  {
+    "index": 479,
+    "kanji": "協",
+    "grade": 4,
+    "strokes": 8,
+    "meaning": "cooperation",
+    "onyomi": "kyō",
+    "kunyomi": null
+  },
+  {
+    "index": 480,
+    "kanji": "単",
+    "grade": 4,
+    "strokes": 9,
+    "meaning": "simple",
+    "onyomi": "tan",
+    "kunyomi": null
+  },
+  {
+    "index": 481,
+    "kanji": "博",
+    "grade": 4,
+    "strokes": 12,
+    "meaning": [
+      "wide knowledge",
+      "Dr."
+    ],
+    "onyomi": "haku",
+    "kunyomi": null
+  },
+  {
+    "index": 482,
+    "kanji": "印",
+    "grade": 4,
+    "strokes": 6,
+    "meaning": "mark",
+    "onyomi": "in",
+    "kunyomi": "shirushi"
+  },
+  {
+    "index": 483,
+    "kanji": "参",
+    "grade": 4,
+    "strokes": 8,
+    "meaning": "participate",
+    "onyomi": "san",
+    "kunyomi": "mai-ru"
+  },
+  {
+    "index": 484,
+    "kanji": "史",
+    "grade": 4,
+    "strokes": 5,
+    "meaning": "history",
+    "onyomi": "shi",
+    "kunyomi": null
+  },
+  {
+    "index": 485,
+    "kanji": "司",
+    "grade": 4,
+    "strokes": 5,
+    "meaning": "director",
+    "onyomi": "shi",
+    "kunyomi": null
+  },
+  {
+    "index": 486,
+    "kanji": "各",
+    "grade": 4,
+    "strokes": 6,
+    "meaning": "each",
+    "onyomi": "kaku",
+    "kunyomi": "ono-ono"
+  },
+  {
+    "index": 487,
+    "kanji": "告",
+    "grade": 4,
+    "strokes": 7,
+    "meaning": "tell",
+    "onyomi": "koku",
+    "kunyomi": "tsu-geru"
+  },
+  {
+    "index": 488,
+    "kanji": "周",
+    "grade": 4,
+    "strokes": 8,
+    "meaning": "circumference",
+    "onyomi": "shū",
+    "kunyomi": "mawa-ri"
+  },
+  {
+    "index": 489,
+    "kanji": "唱",
+    "grade": 4,
+    "strokes": 11,
+    "meaning": "chant",
+    "onyomi": "shō",
+    "kunyomi": "tona-eru"
+  },
+  {
+    "index": 490,
+    "kanji": "喜",
+    "grade": 4,
+    "strokes": 12,
+    "meaning": "rejoice",
+    "onyomi": "ki",
+    "kunyomi": "yoroko-bu"
+  },
+  {
+    "index": 491,
+    "kanji": "器",
+    "grade": 4,
+    "strokes": 15,
+    "meaning": "container",
+    "onyomi": "ki",
+    "kunyomi": "utsuwa"
+  },
+  {
+    "index": 492,
+    "kanji": "囲",
+    "grade": 4,
+    "strokes": 7,
+    "meaning": "surround",
+    "onyomi": "i",
+    "kunyomi": "kako-u"
+  },
+  {
+    "index": 493,
+    "kanji": "固",
+    "grade": 4,
+    "strokes": 8,
+    "meaning": "harden",
+    "onyomi": "ko",
+    "kunyomi": "kata-maru"
+  },
+  {
+    "index": 494,
+    "kanji": "型",
+    "grade": 4,
+    "strokes": 9,
+    "meaning": "model",
+    "onyomi": "kei",
+    "kunyomi": "kata"
+  },
+  {
+    "index": 495,
+    "kanji": "堂",
+    "grade": 4,
+    "strokes": 11,
+    "meaning": "public chamber",
+    "onyomi": "dō",
+    "kunyomi": null
+  },
+  {
+    "index": 496,
+    "kanji": "塩",
+    "grade": 4,
+    "strokes": 13,
+    "meaning": "salt",
+    "onyomi": "en",
+    "kunyomi": "shio"
+  },
+  {
+    "index": 497,
+    "kanji": "士",
+    "grade": 4,
+    "strokes": 3,
+    "meaning": "gentleman",
+    "onyomi": "shi",
+    "kunyomi": null
+  },
+  {
+    "index": 498,
+    "kanji": "変",
+    "grade": 4,
+    "strokes": 9,
+    "meaning": [
+      "change",
+      "strange"
+    ],
+    "onyomi": "hen",
+    "kunyomi": "ka-waru"
+  },
+  {
+    "index": 499,
+    "kanji": "夫",
+    "grade": 4,
+    "strokes": 4,
+    "meaning": "husband",
+    "onyomi": "fu fuu bu",
+    "kunyomi": "otto"
+  },
+  {
+    "index": 500,
+    "kanji": "失",
+    "grade": 4,
+    "strokes": 5,
+    "meaning": "lose",
+    "onyomi": "shitsu",
+    "kunyomi": "ushina-u"
+  },
+  {
+    "index": 501,
+    "kanji": "好",
+    "grade": 4,
+    "strokes": 6,
+    "meaning": "like",
+    "onyomi": "kō",
+    "kunyomi": [
+      "su-ku",
+      "kono-mu"
+    ]
+  },
+  {
+    "index": 502,
+    "kanji": "季",
+    "grade": 4,
+    "strokes": 8,
+    "meaning": "seasons",
+    "onyomi": "ki",
+    "kunyomi": null
+  },
+  {
+    "index": 503,
+    "kanji": "孫",
+    "grade": 4,
+    "strokes": 10,
+    "meaning": "grandchild",
+    "onyomi": "son",
+    "kunyomi": "mago"
+  },
+  {
+    "index": 504,
+    "kanji": "完",
+    "grade": 4,
+    "strokes": 7,
+    "meaning": "perfect",
+    "onyomi": "kan",
+    "kunyomi": null
+  },
+  {
+    "index": 505,
+    "kanji": "官",
+    "grade": 4,
+    "strokes": 8,
+    "meaning": "government official",
+    "onyomi": "kan",
+    "kunyomi": null
+  },
+  {
+    "index": 506,
+    "kanji": "害",
+    "grade": 4,
+    "strokes": 10,
+    "meaning": "harm",
+    "onyomi": "gai",
+    "kunyomi": null
+  },
+  {
+    "index": 507,
+    "kanji": "察",
+    "grade": 4,
+    "strokes": 14,
+    "meaning": "guess",
+    "onyomi": "satsu",
+    "kunyomi": null
+  },
+  {
+    "index": 508,
+    "kanji": "巣",
+    "grade": 4,
+    "strokes": 11,
+    "meaning": "nest",
+    "onyomi": "sō",
+    "kunyomi": "su"
+  },
+  {
+    "index": 509,
+    "kanji": "差",
+    "grade": 4,
+    "strokes": 10,
+    "meaning": "distinction",
+    "onyomi": "sa",
+    "kunyomi": null
+  },
+  {
+    "index": 510,
+    "kanji": "希",
+    "grade": 4,
+    "strokes": 7,
+    "meaning": "hope",
+    "onyomi": "ki",
+    "kunyomi": "mare"
+  },
+  {
+    "index": 511,
+    "kanji": "席",
+    "grade": 4,
+    "strokes": 10,
+    "meaning": "seat",
+    "onyomi": "seki",
+    "kunyomi": null
+  },
+  {
+    "index": 512,
+    "kanji": "帯",
+    "grade": 4,
+    "strokes": 10,
+    "meaning": "sash",
+    "onyomi": "tai",
+    "kunyomi": "obi"
+  },
+  {
+    "index": 513,
+    "kanji": "底",
+    "grade": 4,
+    "strokes": 8,
+    "meaning": "bottom",
+    "onyomi": "tei",
+    "kunyomi": "soko"
+  },
+  {
+    "index": 514,
+    "kanji": "府",
+    "grade": 4,
+    "strokes": 8,
+    "meaning": "urban prefecture",
+    "onyomi": "fu",
+    "kunyomi": null
+  },
+  {
+    "index": 515,
+    "kanji": "康",
+    "grade": 4,
+    "strokes": 11,
+    "meaning": "ease",
+    "onyomi": "kō",
+    "kunyomi": null
+  },
+  {
+    "index": 516,
+    "kanji": "建",
+    "grade": 4,
+    "strokes": 9,
+    "meaning": "build",
+    "onyomi": "ken",
+    "kunyomi": "ta-teru"
+  },
+  {
+    "index": 517,
+    "kanji": "径",
+    "grade": 4,
+    "strokes": 8,
+    "meaning": "diameter",
+    "onyomi": "kei",
+    "kunyomi": null
+  },
+  {
+    "index": 518,
+    "kanji": "徒",
+    "grade": 4,
+    "strokes": 10,
+    "meaning": "junior",
+    "onyomi": "to",
+    "kunyomi": null
+  },
+  {
+    "index": 519,
+    "kanji": "得",
+    "grade": 4,
+    "strokes": 11,
+    "meaning": "acquire",
+    "onyomi": "toku",
+    "kunyomi": "e-ru"
+  },
+  {
+    "index": 520,
+    "kanji": "必",
+    "grade": 4,
+    "strokes": 5,
+    "meaning": "inevitable",
+    "onyomi": "hitsu",
+    "kunyomi": "kanara-zu"
+  },
+  {
+    "index": 521,
+    "kanji": "念",
+    "grade": 4,
+    "strokes": 8,
+    "meaning": "thought",
+    "onyomi": "nen",
+    "kunyomi": null
+  },
+  {
+    "index": 522,
+    "kanji": "愛",
+    "grade": 4,
+    "strokes": 13,
+    "meaning": "love",
+    "onyomi": "ai",
+    "kunyomi": null
+  },
+  {
+    "index": 523,
+    "kanji": "成",
+    "grade": 4,
+    "strokes": 6,
+    "meaning": "become",
+    "onyomi": "sei",
+    "kunyomi": "na-ru"
+  },
+  {
+    "index": 524,
+    "kanji": "戦",
+    "grade": 4,
+    "strokes": 13,
+    "meaning": "war",
+    "onyomi": "sen",
+    "kunyomi": [
+      "ikusa",
+      "tataka-u"
+    ]
+  },
+  {
+    "index": 525,
+    "kanji": "折",
+    "grade": 4,
+    "strokes": 7,
+    "meaning": "fold",
+    "onyomi": "setsu",
+    "kunyomi": "o-ru"
+  },
+  {
+    "index": 526,
+    "kanji": "挙",
+    "grade": 4,
+    "strokes": 10,
+    "meaning": "raise",
+    "onyomi": "kyo",
+    "kunyomi": "a-geru"
+  },
+  {
+    "index": 527,
+    "kanji": "改",
+    "grade": 4,
+    "strokes": 7,
+    "meaning": "reformation",
+    "onyomi": "kai",
+    "kunyomi": "arata-meru"
+  },
+  {
+    "index": 528,
+    "kanji": "救",
+    "grade": 4,
+    "strokes": 11,
+    "meaning": "salvation",
+    "onyomi": "kyū",
+    "kunyomi": "suku-u"
+  },
+  {
+    "index": 529,
+    "kanji": "敗",
+    "grade": 4,
+    "strokes": 11,
+    "meaning": "failure",
+    "onyomi": "hai",
+    "kunyomi": "yabu-reru"
+  },
+  {
+    "index": 530,
+    "kanji": "散",
+    "grade": 4,
+    "strokes": 12,
+    "meaning": "scatter",
+    "onyomi": "san",
+    "kunyomi": "chi-ru"
+  },
+  {
+    "index": 531,
+    "kanji": "料",
+    "grade": 4,
+    "strokes": 10,
+    "meaning": "fee",
+    "onyomi": "ryō",
+    "kunyomi": null
+  },
+  {
+    "index": 532,
+    "kanji": "旗",
+    "grade": 4,
+    "strokes": 14,
+    "meaning": "flag",
+    "onyomi": "ki",
+    "kunyomi": "hata"
+  },
+  {
+    "index": 533,
+    "kanji": "昨",
+    "grade": 4,
+    "strokes": 9,
+    "meaning": "yesterday",
+    "onyomi": "saku",
+    "kunyomi": null
+  },
+  {
+    "index": 534,
+    "kanji": "景",
+    "grade": 4,
+    "strokes": 12,
+    "meaning": "scenery",
+    "onyomi": "kei",
+    "kunyomi": null
+  },
+  {
+    "index": 535,
+    "kanji": "最",
+    "grade": 4,
+    "strokes": 12,
+    "meaning": "superlative",
+    "onyomi": "sai",
+    "kunyomi": [
+      "mo",
+      "motto-mo"
+    ]
+  },
+  {
+    "index": 536,
+    "kanji": "望",
+    "grade": 4,
+    "strokes": 11,
+    "meaning": "hope",
+    "onyomi": "bō",
+    "kunyomi": "nozo-mu"
+  },
+  {
+    "index": 537,
+    "kanji": "未",
+    "grade": 4,
+    "strokes": 5,
+    "meaning": "un-",
+    "onyomi": "mi",
+    "kunyomi": "ima-da"
+  },
+  {
+    "index": 538,
+    "kanji": "末",
+    "grade": 4,
+    "strokes": 5,
+    "meaning": "end",
+    "onyomi": "matsu",
+    "kunyomi": "sue"
+  },
+  {
+    "index": 539,
+    "kanji": "札",
+    "grade": 4,
+    "strokes": 5,
+    "meaning": "tag",
+    "onyomi": "satsu",
+    "kunyomi": "fuda"
+  },
+  {
+    "index": 540,
+    "kanji": "材",
+    "grade": 4,
+    "strokes": 7,
+    "meaning": [
+      "lumber",
+      "material"
+    ],
+    "onyomi": "zai",
+    "kunyomi": null
+  },
+  {
+    "index": 541,
+    "kanji": "束",
+    "grade": 4,
+    "strokes": 7,
+    "meaning": "bundle",
+    "onyomi": "soku",
+    "kunyomi": [
+      "taba",
+      "tsuka"
+    ]
+  },
+  {
+    "index": 542,
+    "kanji": "松",
+    "grade": 4,
+    "strokes": 8,
+    "meaning": "pine",
+    "onyomi": "shō",
+    "kunyomi": "matsu"
+  },
+  {
+    "index": 543,
+    "kanji": "果",
+    "grade": 4,
+    "strokes": 8,
+    "meaning": [
+      "accomplish",
+      "fruit"
+    ],
+    "onyomi": "ka",
+    "kunyomi": "ha-tasu"
+  },
+  {
+    "index": 544,
+    "kanji": "栄",
+    "grade": 4,
+    "strokes": 9,
+    "meaning": "prosperity",
+    "onyomi": "ei",
+    "kunyomi": "saka-eru"
+  },
+  {
+    "index": 545,
+    "kanji": "案",
+    "grade": 4,
+    "strokes": 10,
+    "meaning": "plan",
+    "onyomi": "an",
+    "kunyomi": null
+  },
+  {
+    "index": 546,
+    "kanji": "梅",
+    "grade": 4,
+    "strokes": 10,
+    "meaning": "plum",
+    "onyomi": "bai",
+    "kunyomi": "ume"
+  },
+  {
+    "index": 547,
+    "kanji": "械",
+    "grade": 4,
+    "strokes": 11,
+    "meaning": "contraption",
+    "onyomi": "kai",
+    "kunyomi": null
+  },
+  {
+    "index": 548,
+    "kanji": "極",
+    "grade": 4,
+    "strokes": 12,
+    "meaning": "poles",
+    "onyomi": "kyoku",
+    "kunyomi": "kiwa-meru"
+  },
+  {
+    "index": 549,
+    "kanji": "標",
+    "grade": 4,
+    "strokes": 15,
+    "meaning": "signpost",
+    "onyomi": "hyō",
+    "kunyomi": null
+  },
+  {
+    "index": 550,
+    "kanji": "機",
+    "grade": 4,
+    "strokes": 16,
+    "meaning": "machine",
+    "onyomi": "ki",
+    "kunyomi": "hata"
+  },
+  {
+    "index": 551,
+    "kanji": "欠",
+    "grade": 4,
+    "strokes": 4,
+    "meaning": "lack",
+    "onyomi": "ketsu",
+    "kunyomi": "ka-keru"
+  },
+  {
+    "index": 552,
+    "kanji": "歴",
+    "grade": 4,
+    "strokes": 14,
+    "meaning": "curriculum",
+    "onyomi": "reki",
+    "kunyomi": null
+  },
+  {
+    "index": 553,
+    "kanji": "残",
+    "grade": 4,
+    "strokes": 10,
+    "meaning": "remainder",
+    "onyomi": "zan",
+    "kunyomi": "noko-ru"
+  },
+  {
+    "index": 554,
+    "kanji": "殺",
+    "grade": 4,
+    "strokes": 10,
+    "meaning": "kill",
+    "onyomi": "satsu",
+    "kunyomi": "koro-su"
+  },
+  {
+    "index": 555,
+    "kanji": "毒",
+    "grade": 4,
+    "strokes": 8,
+    "meaning": "poison",
+    "onyomi": "doku",
+    "kunyomi": null
+  },
+  {
+    "index": 556,
+    "kanji": "氏",
+    "grade": 4,
+    "strokes": 4,
+    "meaning": "surname",
+    "onyomi": "shi",
+    "kunyomi": "uji"
+  },
+  {
+    "index": 557,
+    "kanji": "民",
+    "grade": 4,
+    "strokes": 5,
+    "meaning": "people",
+    "onyomi": "min",
+    "kunyomi": "tami"
+  },
+  {
+    "index": 558,
+    "kanji": "求",
+    "grade": 4,
+    "strokes": 7,
+    "meaning": "request",
+    "onyomi": "kyū",
+    "kunyomi": "moto-mu"
+  },
+  {
+    "index": 559,
+    "kanji": "治",
+    "grade": 4,
+    "strokes": 8,
+    "meaning": "govern",
+    "onyomi": [
+      "chi",
+      "ji"
+    ],
+    "kunyomi": [
+      "osa-meru",
+      "nao-ru"
+    ]
+  },
+  {
+    "index": 560,
+    "kanji": "法",
+    "grade": 4,
+    "strokes": 8,
+    "meaning": "method",
+    "onyomi": "hō",
+    "kunyomi": null
+  },
+  {
+    "index": 561,
+    "kanji": "泣",
+    "grade": 4,
+    "strokes": 8,
+    "meaning": "cry",
+    "onyomi": "kyū",
+    "kunyomi": "na-ku"
+  },
+  {
+    "index": 562,
+    "kanji": "浅",
+    "grade": 4,
+    "strokes": 9,
+    "meaning": "shallow",
+    "onyomi": "sen",
+    "kunyomi": "asa-i"
+  },
+  {
+    "index": 563,
+    "kanji": "浴",
+    "grade": 4,
+    "strokes": 10,
+    "meaning": [
+      "bathe",
+      "bask"
+    ],
+    "onyomi": "yoku",
+    "kunyomi": "a-biru"
+  },
+  {
+    "index": 564,
+    "kanji": "清",
+    "grade": 4,
+    "strokes": 11,
+    "meaning": "pure",
+    "onyomi": [
+      "sei",
+      "shō"
+    ],
+    "kunyomi": "kiyo-raka"
+  },
+  {
+    "index": 565,
+    "kanji": "満",
+    "grade": 4,
+    "strokes": 12,
+    "meaning": "full",
+    "onyomi": "man",
+    "kunyomi": "mi-chiru"
+  },
+  {
+    "index": 566,
+    "kanji": "漁",
+    "grade": 4,
+    "strokes": 14,
+    "meaning": "fishing",
+    "onyomi": [
+      "ryō",
+      "gyo"
+    ],
+    "kunyomi": "asa-ru"
+  },
+  {
+    "index": 567,
+    "kanji": "灯",
+    "grade": 4,
+    "strokes": 6,
+    "meaning": "lamp",
+    "onyomi": "tō",
+    "kunyomi": "hi"
+  },
+  {
+    "index": 568,
+    "kanji": "無",
+    "grade": 4,
+    "strokes": 12,
+    "meaning": "nothing",
+    "onyomi": [
+      "mu",
+      "bu"
+    ],
+    "kunyomi": "na-i"
+  },
+  {
+    "index": 569,
+    "kanji": "然",
+    "grade": 4,
+    "strokes": 12,
+    "meaning": "so",
+    "onyomi": [
+      "zen",
+      "nen"
+    ],
+    "kunyomi": "shika-shi"
+  },
+  {
+    "index": 570,
+    "kanji": "焼",
+    "grade": 4,
+    "strokes": 12,
+    "meaning": "bake",
+    "onyomi": "shō",
+    "kunyomi": "ya-ku"
+  },
+  {
+    "index": 571,
+    "kanji": "照",
+    "grade": 4,
+    "strokes": 13,
+    "meaning": "illuminate",
+    "onyomi": "shō",
+    "kunyomi": "te-rasu"
+  },
+  {
+    "index": 572,
+    "kanji": "熱",
+    "grade": 4,
+    "strokes": 15,
+    "meaning": "heat",
+    "onyomi": "netsu",
+    "kunyomi": "atsu-i"
+  },
+  {
+    "index": 573,
+    "kanji": "牧",
+    "grade": 4,
+    "strokes": 8,
+    "meaning": [
+      "pasture",
+      "breed"
+    ],
+    "onyomi": "boku",
+    "kunyomi": "maki"
+  },
+  {
+    "index": 574,
+    "kanji": "特",
+    "grade": 4,
+    "strokes": 10,
+    "meaning": "special",
+    "onyomi": "toku",
+    "kunyomi": null
+  },
+  {
+    "index": 575,
+    "kanji": "産",
+    "grade": 4,
+    "strokes": 11,
+    "meaning": "give birth",
+    "onyomi": "san",
+    "kunyomi": "u-mu"
+  },
+  {
+    "index": 576,
+    "kanji": "的",
+    "grade": 4,
+    "strokes": 8,
+    "meaning": "target",
+    "onyomi": "teki",
+    "kunyomi": "mato"
+  },
+  {
+    "index": 577,
+    "kanji": "省",
+    "grade": 4,
+    "strokes": 9,
+    "meaning": [
+      "government ministry",
+      "omit",
+      "look back"
+    ],
+    "onyomi": [
+      "shō",
+      "sei"
+    ],
+    "kunyomi": "habu-ku"
+  },
+  {
+    "index": 578,
+    "kanji": "祝",
+    "grade": 4,
+    "strokes": 9,
+    "meaning": "celebrate",
+    "onyomi": "shuku",
+    "kunyomi": "iwa-u"
+  },
+  {
+    "index": 579,
+    "kanji": "票",
+    "grade": 4,
+    "strokes": 11,
+    "meaning": "ballot",
+    "onyomi": "hyō",
+    "kunyomi": null
+  },
+  {
+    "index": 580,
+    "kanji": "種",
+    "grade": 4,
+    "strokes": 14,
+    "meaning": [
+      "species",
+      "seed"
+    ],
+    "onyomi": "shu",
+    "kunyomi": "tane"
+  },
+  {
+    "index": 581,
+    "kanji": "積",
+    "grade": 4,
+    "strokes": 16,
+    "meaning": [
+      "accumulate",
+      "pile"
+    ],
+    "onyomi": "seki",
+    "kunyomi": "tsu-mu"
+  },
+  {
+    "index": 582,
+    "kanji": "競",
+    "grade": 4,
+    "strokes": 20,
+    "meaning": "emulate",
+    "onyomi": "kyō",
+    "kunyomi": "kiso-u"
+  },
+  {
+    "index": 583,
+    "kanji": "笑",
+    "grade": 4,
+    "strokes": 10,
+    "meaning": "laugh",
+    "onyomi": "shō",
+    "kunyomi": "wara-u"
+  },
+  {
+    "index": 584,
+    "kanji": "管",
+    "grade": 4,
+    "strokes": 14,
+    "meaning": "pipe",
+    "onyomi": "kan",
+    "kunyomi": "kuda"
+  },
+  {
+    "index": 585,
+    "kanji": "節",
+    "grade": 4,
+    "strokes": 13,
+    "meaning": "node",
+    "onyomi": "setsu",
+    "kunyomi": "fushi"
+  },
+  {
+    "index": 586,
+    "kanji": "粉",
+    "grade": 4,
+    "strokes": 10,
+    "meaning": "flour",
+    "onyomi": "fun",
+    "kunyomi": [
+      "ko",
+      "kona"
+    ]
+  },
+  {
+    "index": 587,
+    "kanji": "紀",
+    "grade": 4,
+    "strokes": 9,
+    "meaning": "chronicle",
+    "onyomi": "ki",
+    "kunyomi": null
+  },
+  {
+    "index": 588,
+    "kanji": "約",
+    "grade": 4,
+    "strokes": 9,
+    "meaning": "promise",
+    "onyomi": "yaku",
+    "kunyomi": null
+  },
+  {
+    "index": 589,
+    "kanji": "結",
+    "grade": 4,
+    "strokes": 12,
+    "meaning": "tie",
+    "onyomi": "ketsu",
+    "kunyomi": [
+      "musu-bu",
+      "yu-u"
+    ]
+  },
+  {
+    "index": 590,
+    "kanji": "給",
+    "grade": 4,
+    "strokes": 12,
+    "meaning": "salary",
+    "onyomi": "kyū",
+    "kunyomi": "tama-u"
+  },
+  {
+    "index": 591,
+    "kanji": "続",
+    "grade": 4,
+    "strokes": 13,
+    "meaning": "continue",
+    "onyomi": "zoku",
+    "kunyomi": "tsuzu-ku"
+  },
+  {
+    "index": 592,
+    "kanji": "置",
+    "grade": 4,
+    "strokes": 13,
+    "meaning": "put",
+    "onyomi": "chi",
+    "kunyomi": "o-ku"
+  },
+  {
+    "index": 593,
+    "kanji": "老",
+    "grade": 4,
+    "strokes": 6,
+    "meaning": "old man",
+    "onyomi": "rō",
+    "kunyomi": "o-iru"
+  },
+  {
+    "index": 594,
+    "kanji": "胃",
+    "grade": 4,
+    "strokes": 9,
+    "meaning": "stomach",
+    "onyomi": "i",
+    "kunyomi": null
+  },
+  {
+    "index": 595,
+    "kanji": "脈",
+    "grade": 4,
+    "strokes": 10,
+    "meaning": "vein",
+    "onyomi": "myaku",
+    "kunyomi": null
+  },
+  {
+    "index": 596,
+    "kanji": "腸",
+    "grade": 4,
+    "strokes": 13,
+    "meaning": "intestines",
+    "onyomi": "chō",
+    "kunyomi": "harawata"
+  },
+  {
+    "index": 597,
+    "kanji": "臣",
+    "grade": 4,
+    "strokes": 7,
+    "meaning": "retainer",
+    "onyomi": "shin",
+    "kunyomi": null
+  },
+  {
+    "index": 598,
+    "kanji": "航",
+    "grade": 4,
+    "strokes": 10,
+    "meaning": "cruise",
+    "onyomi": "kō",
+    "kunyomi": null
+  },
+  {
+    "index": 599,
+    "kanji": "良",
+    "grade": 4,
+    "strokes": 7,
+    "meaning": "good",
+    "onyomi": "ryō",
+    "kunyomi": "yo-i"
+  },
+  {
+    "index": 600,
+    "kanji": "芸",
+    "grade": 4,
+    "strokes": 7,
+    "meaning": "art",
+    "onyomi": "gei",
+    "kunyomi": null
+  },
+  {
+    "index": 601,
+    "kanji": "芽",
+    "grade": 4,
+    "strokes": 8,
+    "meaning": "bud",
+    "onyomi": "ga",
+    "kunyomi": "me"
+  },
+  {
+    "index": 602,
+    "kanji": "英",
+    "grade": 4,
+    "strokes": 8,
+    "meaning": "England",
+    "onyomi": "ei",
+    "kunyomi": null
+  },
+  {
+    "index": 603,
+    "kanji": "菜",
+    "grade": 4,
+    "strokes": 11,
+    "meaning": "vegetable",
+    "onyomi": "sai",
+    "kunyomi": "na"
+  },
+  {
+    "index": 604,
+    "kanji": "街",
+    "grade": 4,
+    "strokes": 12,
+    "meaning": [
+      "street",
+      "city"
+    ],
+    "onyomi": "gai",
+    "kunyomi": "machi"
+  },
+  {
+    "index": 605,
+    "kanji": "衣",
+    "grade": 4,
+    "strokes": 6,
+    "meaning": "garment",
+    "onyomi": "i",
+    "kunyomi": "koromo"
+  },
+  {
+    "index": 606,
+    "kanji": "要",
+    "grade": 4,
+    "strokes": 9,
+    "meaning": "need",
+    "onyomi": "yō",
+    "kunyomi": "i-ru"
+  },
+  {
+    "index": 607,
+    "kanji": "覚",
+    "grade": 4,
+    "strokes": 12,
+    "meaning": "memorize",
+    "onyomi": "kaku",
+    "kunyomi": [
+      "obo-eru",
+      "sa-meru"
+    ]
+  },
+  {
+    "index": 608,
+    "kanji": "観",
+    "grade": 4,
+    "strokes": 18,
+    "meaning": "observe",
+    "onyomi": "kan",
+    "kunyomi": "mi-ru"
+  },
+  {
+    "index": 609,
+    "kanji": "訓",
+    "grade": 4,
+    "strokes": 10,
+    "meaning": "instruction",
+    "onyomi": "kun",
+    "kunyomi": null
+  },
+  {
+    "index": 610,
+    "kanji": "試",
+    "grade": 4,
+    "strokes": 13,
+    "meaning": "test",
+    "onyomi": "shi",
+    "kunyomi": [
+      "kokoro-miru",
+      "tame-su"
+    ]
+  },
+  {
+    "index": 611,
+    "kanji": "説",
+    "grade": 4,
+    "strokes": 14,
+    "meaning": "theory",
+    "onyomi": "setsu",
+    "kunyomi": "to-ku"
+  },
+  {
+    "index": 612,
+    "kanji": "課",
+    "grade": 4,
+    "strokes": 15,
+    "meaning": "section",
+    "onyomi": "ka",
+    "kunyomi": null
+  },
+  {
+    "index": 613,
+    "kanji": "議",
+    "grade": 4,
+    "strokes": 20,
+    "meaning": "deliberation",
+    "onyomi": "gi",
+    "kunyomi": null
+  },
+  {
+    "index": 614,
+    "kanji": "象",
+    "grade": 4,
+    "strokes": 12,
+    "meaning": [
+      "elephant",
+      "figure"
+    ],
+    "onyomi": [
+      "zō",
+      "shō"
+    ],
+    "kunyomi": null
+  },
+  {
+    "index": 615,
+    "kanji": "貨",
+    "grade": 4,
+    "strokes": 11,
+    "meaning": [
+      "currency",
+      "cargo"
+    ],
+    "onyomi": "ka",
+    "kunyomi": null
+  },
+  {
+    "index": 616,
+    "kanji": "貯",
+    "grade": 4,
+    "strokes": 12,
+    "meaning": "savings",
+    "onyomi": "cho",
+    "kunyomi": "ta-meru"
+  },
+  {
+    "index": 617,
+    "kanji": "費",
+    "grade": 4,
+    "strokes": 12,
+    "meaning": "expense",
+    "onyomi": "hi",
+    "kunyomi": "tsui-yasu"
+  },
+  {
+    "index": 618,
+    "kanji": "賞",
+    "grade": 4,
+    "strokes": 15,
+    "meaning": "prize",
+    "onyomi": "shō",
+    "kunyomi": null
+  },
+  {
+    "index": 619,
+    "kanji": "軍",
+    "grade": 4,
+    "strokes": 9,
+    "meaning": "army",
+    "onyomi": "gun",
+    "kunyomi": null
+  },
+  {
+    "index": 620,
+    "kanji": "輪",
+    "grade": 4,
+    "strokes": 15,
+    "meaning": "wheel",
+    "onyomi": "rin",
+    "kunyomi": "wa"
+  },
+  {
+    "index": 621,
+    "kanji": "辞",
+    "grade": 4,
+    "strokes": 13,
+    "meaning": [
+      "resign",
+      "speech",
+      "encyclopedia"
+    ],
+    "onyomi": "ji",
+    "kunyomi": [
+      "kotoba",
+      "ya-meru"
+    ]
+  },
+  {
+    "index": 622,
+    "kanji": "辺",
+    "grade": 4,
+    "strokes": 5,
+    "meaning": "environs",
+    "onyomi": "hen",
+    "kunyomi": "ata-ri"
+  },
+  {
+    "index": 623,
+    "kanji": "連",
+    "grade": 4,
+    "strokes": 10,
+    "meaning": "take along",
+    "onyomi": "ren",
+    "kunyomi": [
+      "tsu-reru",
+      "tsura-neru"
+    ]
+  },
+  {
+    "index": 624,
+    "kanji": "達",
+    "grade": 4,
+    "strokes": 12,
+    "meaning": "attain",
+    "onyomi": "tatsu",
+    "kunyomi": "tachi"
+  },
+  {
+    "index": 625,
+    "kanji": "選",
+    "grade": 4,
+    "strokes": 15,
+    "meaning": "choose",
+    "onyomi": "sen",
+    "kunyomi": "era-bu"
+  },
+  {
+    "index": 626,
+    "kanji": "郡",
+    "grade": 4,
+    "strokes": 10,
+    "meaning": "county",
+    "onyomi": "gun",
+    "kunyomi": null
+  },
+  {
+    "index": 627,
+    "kanji": "量",
+    "grade": 4,
+    "strokes": 12,
+    "meaning": "quantity",
+    "onyomi": "ryō",
+    "kunyomi": null
+  },
+  {
+    "index": 628,
+    "kanji": "録",
+    "grade": 4,
+    "strokes": 16,
+    "meaning": "transcript",
+    "onyomi": "roku",
+    "kunyomi": null
+  },
+  {
+    "index": 629,
+    "kanji": "鏡",
+    "grade": 4,
+    "strokes": 19,
+    "meaning": "mirror",
+    "onyomi": "kyō",
+    "kunyomi": "kagami"
+  },
+  {
+    "index": 630,
+    "kanji": "関",
+    "grade": 4,
+    "strokes": 14,
+    "meaning": "related",
+    "onyomi": "kan",
+    "kunyomi": "seki"
+  },
+  {
+    "index": 631,
+    "kanji": "陸",
+    "grade": 4,
+    "strokes": 11,
+    "meaning": "land",
+    "onyomi": "riku",
+    "kunyomi": null
+  },
+  {
+    "index": 632,
+    "kanji": "隊",
+    "grade": 4,
+    "strokes": 12,
+    "meaning": "squad",
+    "onyomi": "tai",
+    "kunyomi": null
+  },
+  {
+    "index": 633,
+    "kanji": "静",
+    "grade": 4,
+    "strokes": 14,
+    "meaning": "quiet",
+    "onyomi": "sei",
+    "kunyomi": "shizu-ka"
+  },
+  {
+    "index": 634,
+    "kanji": "順",
+    "grade": 4,
+    "strokes": 12,
+    "meaning": "obey",
+    "onyomi": "jun",
+    "kunyomi": null
+  },
+  {
+    "index": 635,
+    "kanji": "願",
+    "grade": 4,
+    "strokes": 19,
+    "meaning": "request",
+    "onyomi": "gan",
+    "kunyomi": "nega-u"
+  },
+  {
+    "index": 636,
+    "kanji": "類",
+    "grade": 4,
+    "strokes": 18,
+    "meaning": "sort",
+    "onyomi": "rui",
+    "kunyomi": null
+  },
+  {
+    "index": 637,
+    "kanji": "飛",
+    "grade": 4,
+    "strokes": 9,
+    "meaning": "fly",
+    "onyomi": "hi",
+    "kunyomi": "to-bu"
+  },
+  {
+    "index": 638,
+    "kanji": "飯",
+    "grade": 4,
+    "strokes": 12,
+    "meaning": "meal",
+    "onyomi": "han",
+    "kunyomi": "meshi"
+  },
+  {
+    "index": 639,
+    "kanji": "養",
+    "grade": 4,
+    "strokes": 15,
+    "meaning": "foster",
+    "onyomi": "yō",
+    "kunyomi": "yashina-u"
+  },
+  {
+    "index": 640,
+    "kanji": "験",
+    "grade": 4,
+    "strokes": 18,
+    "meaning": "verify",
+    "onyomi": "ken",
+    "kunyomi": null
+  },
+  {
+    "index": 641,
+    "kanji": "久",
+    "grade": 5,
+    "strokes": 3,
+    "meaning": "long time",
+    "onyomi": "kyū",
+    "kunyomi": "hisa"
+  },
+  {
+    "index": 642,
+    "kanji": "仏",
+    "grade": 5,
+    "strokes": 4,
+    "meaning": "Buddha",
+    "onyomi": [
+      "futsu",
+      "butsu"
+    ],
+    "kunyomi": "hotoke"
+  },
+  {
+    "index": 643,
+    "kanji": "仮",
+    "grade": 5,
+    "strokes": 6,
+    "meaning": "sham",
+    "onyomi": [
+      "ka",
+      "ke"
+    ],
+    "kunyomi": "kari"
+  },
+  {
+    "index": 644,
+    "kanji": "件",
+    "grade": 5,
+    "strokes": 6,
+    "meaning": "affair",
+    "onyomi": "ken",
+    "kunyomi": null
+  },
+  {
+    "index": 645,
+    "kanji": "任",
+    "grade": 5,
+    "strokes": 6,
+    "meaning": "responsibility",
+    "onyomi": "nin",
+    "kunyomi": "maka-seru"
+  },
+  {
+    "index": 646,
+    "kanji": "似",
+    "grade": 5,
+    "strokes": 7,
+    "meaning": "becoming",
+    "onyomi": "ji",
+    "kunyomi": "ni-ru"
+  },
+  {
+    "index": 647,
+    "kanji": "余",
+    "grade": 5,
+    "strokes": 7,
+    "meaning": "surplus",
+    "onyomi": "yo",
+    "kunyomi": "ama-ru"
+  },
+  {
+    "index": 648,
+    "kanji": "価",
+    "grade": 5,
+    "strokes": 8,
+    "meaning": "value",
+    "onyomi": "ka",
+    "kunyomi": "atai"
+  },
+  {
+    "index": 649,
+    "kanji": "保",
+    "grade": 5,
+    "strokes": 9,
+    "meaning": "preserve",
+    "onyomi": "ho",
+    "kunyomi": "tamo-tsu"
+  },
+  {
+    "index": 650,
+    "kanji": "修",
+    "grade": 5,
+    "strokes": 10,
+    "meaning": "discipline",
+    "onyomi": "shū",
+    "kunyomi": "osa-meru"
+  },
+  {
+    "index": 651,
+    "kanji": "俵",
+    "grade": 5,
+    "strokes": 10,
+    "meaning": "straw bag",
+    "onyomi": "hyō",
+    "kunyomi": "tawara"
+  },
+  {
+    "index": 652,
+    "kanji": "個",
+    "grade": 5,
+    "strokes": 10,
+    "meaning": "individual",
+    "onyomi": "ko",
+    "kunyomi": null
+  },
+  {
+    "index": 653,
+    "kanji": "備",
+    "grade": 5,
+    "strokes": 12,
+    "meaning": "provide",
+    "onyomi": "bi",
+    "kunyomi": "sona-eru"
+  },
+  {
+    "index": 654,
+    "kanji": "像",
+    "grade": 5,
+    "strokes": 14,
+    "meaning": "statue",
+    "onyomi": "zō",
+    "kunyomi": null
+  },
+  {
+    "index": 655,
+    "kanji": "再",
+    "grade": 5,
+    "strokes": 6,
+    "meaning": "again",
+    "onyomi": [
+      "sai",
+      "sa"
+    ],
+    "kunyomi": "futata-bi"
+  },
+  {
+    "index": 656,
+    "kanji": "刊",
+    "grade": 5,
+    "strokes": 5,
+    "meaning": "publish",
+    "onyomi": "kan",
+    "kunyomi": null
+  },
+  {
+    "index": 657,
+    "kanji": "判",
+    "grade": 5,
+    "strokes": 7,
+    "meaning": "judge",
+    "onyomi": "han",
+    "kunyomi": "waka-ru"
+  },
+  {
+    "index": 658,
+    "kanji": "制",
+    "grade": 5,
+    "strokes": 8,
+    "meaning": "control",
+    "onyomi": "sei",
+    "kunyomi": null
+  },
+  {
+    "index": 659,
+    "kanji": "券",
+    "grade": 5,
+    "strokes": 8,
+    "meaning": "ticket",
+    "onyomi": "ken",
+    "kunyomi": null
+  },
+  {
+    "index": 660,
+    "kanji": "則",
+    "grade": 5,
+    "strokes": 9,
+    "meaning": "rule",
+    "onyomi": "soku",
+    "kunyomi": "notto-ru"
+  },
+  {
+    "index": 661,
+    "kanji": "効",
+    "grade": 5,
+    "strokes": 8,
+    "meaning": "effect",
+    "onyomi": "kō",
+    "kunyomi": "ki-ku"
+  },
+  {
+    "index": 662,
+    "kanji": "務",
+    "grade": 5,
+    "strokes": 11,
+    "meaning": "duty",
+    "onyomi": "mu",
+    "kunyomi": "tsuto-meru"
+  },
+  {
+    "index": 663,
+    "kanji": "勢",
+    "grade": 5,
+    "strokes": 13,
+    "meaning": "energy",
+    "onyomi": "sei",
+    "kunyomi": "ikio-i"
+  },
+  {
+    "index": 664,
+    "kanji": "厚",
+    "grade": 5,
+    "strokes": 9,
+    "meaning": "rich",
+    "onyomi": "kō",
+    "kunyomi": "atsu-i"
+  },
+  {
+    "index": 665,
+    "kanji": "句",
+    "grade": 5,
+    "strokes": 5,
+    "meaning": "phrase",
+    "onyomi": "ku",
+    "kunyomi": null
+  },
+  {
+    "index": 666,
+    "kanji": "可",
+    "grade": 5,
+    "strokes": 5,
+    "meaning": "possible",
+    "onyomi": "ka",
+    "kunyomi": null
+  },
+  {
+    "index": 667,
+    "kanji": "営",
+    "grade": 5,
+    "strokes": 12,
+    "meaning": "manage",
+    "onyomi": "ei",
+    "kunyomi": "itona-mu"
+  },
+  {
+    "index": 668,
+    "kanji": "因",
+    "grade": 5,
+    "strokes": 6,
+    "meaning": "cause",
+    "onyomi": "in",
+    "kunyomi": "yo-ru"
+  },
+  {
+    "index": 669,
+    "kanji": "団",
+    "grade": 5,
+    "strokes": 6,
+    "meaning": "association",
+    "onyomi": [
+      "dan",
+      "ton"
+    ],
+    "kunyomi": null
+  },
+  {
+    "index": 670,
+    "kanji": "圧",
+    "grade": 5,
+    "strokes": 5,
+    "meaning": "pressure",
+    "onyomi": "atsu",
+    "kunyomi": null
+  },
+  {
+    "index": 671,
+    "kanji": "在",
+    "grade": 5,
+    "strokes": 6,
+    "meaning": "exist",
+    "onyomi": "zai",
+    "kunyomi": "a-ru"
+  },
+  {
+    "index": 672,
+    "kanji": "均",
+    "grade": 5,
+    "strokes": 7,
+    "meaning": "level",
+    "onyomi": "kin",
+    "kunyomi": null
+  },
+  {
+    "index": 673,
+    "kanji": "基",
+    "grade": 5,
+    "strokes": 11,
+    "meaning": "foundation",
+    "onyomi": "ki",
+    "kunyomi": "moto-zuku"
+  },
+  {
+    "index": 674,
+    "kanji": "報",
+    "grade": 5,
+    "strokes": 12,
+    "meaning": "report",
+    "onyomi": "hō",
+    "kunyomi": "muku-iru"
+  },
+  {
+    "index": 675,
+    "kanji": "境",
+    "grade": 5,
+    "strokes": 14,
+    "meaning": "boundary",
+    "onyomi": "kyō",
+    "kunyomi": "sakai"
+  },
+  {
+    "index": 676,
+    "kanji": "墓",
+    "grade": 5,
+    "strokes": 13,
+    "meaning": "grave",
+    "onyomi": "bo",
+    "kunyomi": "haka"
+  },
+  {
+    "index": 677,
+    "kanji": "増",
+    "grade": 5,
+    "strokes": 14,
+    "meaning": "increase",
+    "onyomi": "zō",
+    "kunyomi": [
+      "ma-su",
+      "fu-eru"
+    ]
+  },
+  {
+    "index": 678,
+    "kanji": "夢",
+    "grade": 5,
+    "strokes": 13,
+    "meaning": "dream",
+    "onyomi": "mu",
+    "kunyomi": "yume"
+  },
+  {
+    "index": 679,
+    "kanji": "妻",
+    "grade": 5,
+    "strokes": 8,
+    "meaning": "wife",
+    "onyomi": "sai",
+    "kunyomi": "tsuma"
+  },
+  {
+    "index": 680,
+    "kanji": "婦",
+    "grade": 5,
+    "strokes": 11,
+    "meaning": "lady",
+    "onyomi": "fu",
+    "kunyomi": null
+  },
+  {
+    "index": 681,
+    "kanji": "容",
+    "grade": 5,
+    "strokes": 10,
+    "meaning": "contain",
+    "onyomi": "yō",
+    "kunyomi": null
+  },
+  {
+    "index": 682,
+    "kanji": "寄",
+    "grade": 5,
+    "strokes": 11,
+    "meaning": "approach",
+    "onyomi": "ki",
+    "kunyomi": "yo-ru"
+  },
+  {
+    "index": 683,
+    "kanji": "富",
+    "grade": 5,
+    "strokes": 12,
+    "meaning": "abundant",
+    "onyomi": "fu",
+    "kunyomi": "tomi"
+  },
+  {
+    "index": 684,
+    "kanji": "導",
+    "grade": 5,
+    "strokes": 15,
+    "meaning": "guide",
+    "onyomi": "dō",
+    "kunyomi": "michibi-ku"
+  },
+  {
+    "index": 685,
+    "kanji": "居",
+    "grade": 5,
+    "strokes": 8,
+    "meaning": "reside",
+    "onyomi": "kyo",
+    "kunyomi": "i-ru"
+  },
+  {
+    "index": 686,
+    "kanji": "属",
+    "grade": 5,
+    "strokes": 12,
+    "meaning": "belong",
+    "onyomi": "zoku",
+    "kunyomi": null
+  },
+  {
+    "index": 687,
+    "kanji": "布",
+    "grade": 5,
+    "strokes": 5,
+    "meaning": "linen",
+    "onyomi": "fu",
+    "kunyomi": "nuno"
+  },
+  {
+    "index": 688,
+    "kanji": "師",
+    "grade": 5,
+    "strokes": 10,
+    "meaning": "expert",
+    "onyomi": "shi",
+    "kunyomi": null
+  },
+  {
+    "index": 689,
+    "kanji": "常",
+    "grade": 5,
+    "strokes": 11,
+    "meaning": "normal",
+    "onyomi": "jō",
+    "kunyomi": "tsune"
+  },
+  {
+    "index": 690,
+    "kanji": "幹",
+    "grade": 5,
+    "strokes": 13,
+    "meaning": "tree trunk",
+    "onyomi": "kan",
+    "kunyomi": "miki"
+  },
+  {
+    "index": 691,
+    "kanji": "序",
+    "grade": 5,
+    "strokes": 7,
+    "meaning": "preface",
+    "onyomi": "jo",
+    "kunyomi": null
+  },
+  {
+    "index": 692,
+    "kanji": "弁",
+    "grade": 5,
+    "strokes": 5,
+    "meaning": "valve",
+    "onyomi": "ben",
+    "kunyomi": null
+  },
+  {
+    "index": 693,
+    "kanji": "張",
+    "grade": 5,
+    "strokes": 11,
+    "meaning": "stretch",
+    "onyomi": "chō",
+    "kunyomi": "ha-ru"
+  },
+  {
+    "index": 694,
+    "kanji": "往",
+    "grade": 5,
+    "strokes": 8,
+    "meaning": "journey",
+    "onyomi": "ō",
+    "kunyomi": null
+  },
+  {
+    "index": 695,
+    "kanji": "復",
+    "grade": 5,
+    "strokes": 12,
+    "meaning": "recovery",
+    "onyomi": "fuku",
+    "kunyomi": null
+  },
+  {
+    "index": 696,
+    "kanji": "徳",
+    "grade": 5,
+    "strokes": 14,
+    "meaning": "virtue",
+    "onyomi": "toku",
+    "kunyomi": null
+  },
+  {
+    "index": 697,
+    "kanji": "志",
+    "grade": 5,
+    "strokes": 7,
+    "meaning": "intention",
+    "onyomi": "shi",
+    "kunyomi": "kokorozashi"
+  },
+  {
+    "index": 698,
+    "kanji": "応",
+    "grade": 5,
+    "strokes": 7,
+    "meaning": "respond",
+    "onyomi": "ō",
+    "kunyomi": null
+  },
+  {
+    "index": 699,
+    "kanji": "快",
+    "grade": 5,
+    "strokes": 7,
+    "meaning": "cheerful",
+    "onyomi": "kai",
+    "kunyomi": "kokoroyo-i"
+  },
+  {
+    "index": 700,
+    "kanji": "性",
+    "grade": 5,
+    "strokes": 8,
+    "meaning": "gender",
+    "onyomi": [
+      "sei",
+      "shō"
+    ],
+    "kunyomi": "saga"
+  },
+  {
+    "index": 701,
+    "kanji": "恩",
+    "grade": 5,
+    "strokes": 10,
+    "meaning": "grace",
+    "onyomi": "on",
+    "kunyomi": null
+  },
+  {
+    "index": 702,
+    "kanji": "情",
+    "grade": 5,
+    "strokes": 11,
+    "meaning": "feelings",
+    "onyomi": "jō",
+    "kunyomi": "nasa-ke"
+  },
+  {
+    "index": 703,
+    "kanji": "態",
+    "grade": 5,
+    "strokes": 14,
+    "meaning": "condition",
+    "onyomi": "tai",
+    "kunyomi": null
+  },
+  {
+    "index": 704,
+    "kanji": "慣",
+    "grade": 5,
+    "strokes": 14,
+    "meaning": "accustomed",
+    "onyomi": "kan",
+    "kunyomi": "na-reru"
+  },
+  {
+    "index": 705,
+    "kanji": "承",
+    "grade": 5,
+    "strokes": 8,
+    "meaning": "acquiesce",
+    "onyomi": "shō",
+    "kunyomi": "uketamawa-ru"
+  },
+  {
+    "index": 706,
+    "kanji": "技",
+    "grade": 5,
+    "strokes": 7,
+    "meaning": "skill",
+    "onyomi": "gi",
+    "kunyomi": "waza"
+  },
+  {
+    "index": 707,
+    "kanji": "招",
+    "grade": 5,
+    "strokes": 8,
+    "meaning": "beckon",
+    "onyomi": "shō",
+    "kunyomi": "mane-ku"
+  },
+  {
+    "index": 708,
+    "kanji": "授",
+    "grade": 5,
+    "strokes": 11,
+    "meaning": "instruct",
+    "onyomi": "ju",
+    "kunyomi": "sazu-keru"
+  },
+  {
+    "index": 709,
+    "kanji": "採",
+    "grade": 5,
+    "strokes": 11,
+    "meaning": "pick",
+    "onyomi": "sai",
+    "kunyomi": "to-ru"
+  },
+  {
+    "index": 710,
+    "kanji": "接",
+    "grade": 5,
+    "strokes": 11,
+    "meaning": "contact",
+    "onyomi": "setsu",
+    "kunyomi": "tsu-gu"
+  },
+  {
+    "index": 711,
+    "kanji": "提",
+    "grade": 5,
+    "strokes": 12,
+    "meaning": "propose",
+    "onyomi": "tei",
+    "kunyomi": "sa-geru"
+  },
+  {
+    "index": 712,
+    "kanji": "損",
+    "grade": 5,
+    "strokes": 13,
+    "meaning": "loss",
+    "onyomi": "son",
+    "kunyomi": "soko-neru"
+  },
+  {
+    "index": 713,
+    "kanji": "支",
+    "grade": 5,
+    "strokes": 4,
+    "meaning": "support",
+    "onyomi": "shi",
+    "kunyomi": "sasa-eru"
+  },
+  {
+    "index": 714,
+    "kanji": "政",
+    "grade": 5,
+    "strokes": 9,
+    "meaning": "politics",
+    "onyomi": "sei",
+    "kunyomi": "matsurigoto"
+  },
+  {
+    "index": 715,
+    "kanji": "故",
+    "grade": 5,
+    "strokes": 9,
+    "meaning": "circumstances",
+    "onyomi": "ko",
+    "kunyomi": "yue"
+  },
+  {
+    "index": 716,
+    "kanji": "敵",
+    "grade": 5,
+    "strokes": 15,
+    "meaning": "enemy",
+    "onyomi": "teki",
+    "kunyomi": "kataki"
+  },
+  {
+    "index": 717,
+    "kanji": "断",
+    "grade": 5,
+    "strokes": 11,
+    "meaning": "cut off",
+    "onyomi": "dan",
+    "kunyomi": [
+      "ta-tsu",
+      "kotowa-ru"
+    ]
+  },
+  {
+    "index": 718,
+    "kanji": "旧",
+    "grade": 5,
+    "strokes": 5,
+    "meaning": "old times",
+    "onyomi": "kyū",
+    "kunyomi": null
+  },
+  {
+    "index": 719,
+    "kanji": "易",
+    "grade": 5,
+    "strokes": 8,
+    "meaning": "easy",
+    "onyomi": "eki",
+    "kunyomi": "yasa-shii"
+  },
+  {
+    "index": 720,
+    "kanji": "暴",
+    "grade": 5,
+    "strokes": 15,
+    "meaning": "outburst",
+    "onyomi": "bō",
+    "kunyomi": "aba-ku"
+  },
+  {
+    "index": 721,
+    "kanji": "条",
+    "grade": 5,
+    "strokes": 7,
+    "meaning": "clause",
+    "onyomi": "jō",
+    "kunyomi": "kudari"
+  },
+  {
+    "index": 722,
+    "kanji": "枝",
+    "grade": 5,
+    "strokes": 8,
+    "meaning": "branch",
+    "onyomi": "shi",
+    "kunyomi": "eda"
+  },
+  {
+    "index": 723,
+    "kanji": "査",
+    "grade": 5,
+    "strokes": 9,
+    "meaning": "investigate",
+    "onyomi": "sa",
+    "kunyomi": null
+  },
+  {
+    "index": 724,
+    "kanji": "格",
+    "grade": 5,
+    "strokes": 10,
+    "meaning": "status",
+    "onyomi": "kaku",
+    "kunyomi": null
+  },
+  {
+    "index": 725,
+    "kanji": "桜",
+    "grade": 5,
+    "strokes": 10,
+    "meaning": "cherry",
+    "onyomi": "ō",
+    "kunyomi": "sakura"
+  },
+  {
+    "index": 726,
+    "kanji": "検",
+    "grade": 5,
+    "strokes": 12,
+    "meaning": "examine",
+    "onyomi": "ken",
+    "kunyomi": null
+  },
+  {
+    "index": 727,
+    "kanji": "構",
+    "grade": 5,
+    "strokes": 14,
+    "meaning": "construct",
+    "onyomi": "kō",
+    "kunyomi": "kama-eru"
+  },
+  {
+    "index": 728,
+    "kanji": "武",
+    "grade": 5,
+    "strokes": 8,
+    "meaning": "military",
+    "onyomi": [
+      "bu",
+      "mu"
+    ],
+    "kunyomi": null
+  },
+  {
+    "index": 729,
+    "kanji": "比",
+    "grade": 5,
+    "strokes": 4,
+    "meaning": "compare",
+    "onyomi": "hi",
+    "kunyomi": "kura-beru"
+  },
+  {
+    "index": 730,
+    "kanji": "永",
+    "grade": 5,
+    "strokes": 5,
+    "meaning": "eternity",
+    "onyomi": "ei",
+    "kunyomi": "naga-i"
+  },
+  {
+    "index": 731,
+    "kanji": "河",
+    "grade": 5,
+    "strokes": 8,
+    "meaning": "stream",
+    "onyomi": "ka",
+    "kunyomi": "kawa"
+  },
+  {
+    "index": 732,
+    "kanji": "液",
+    "grade": 5,
+    "strokes": 11,
+    "meaning": "fluid",
+    "onyomi": "eki",
+    "kunyomi": null
+  },
+  {
+    "index": 733,
+    "kanji": "混",
+    "grade": 5,
+    "strokes": 11,
+    "meaning": "mix",
+    "onyomi": "kon",
+    "kunyomi": "ma-zaru"
+  },
+  {
+    "index": 734,
+    "kanji": "減",
+    "grade": 5,
+    "strokes": 12,
+    "meaning": "decrease",
+    "onyomi": "gen",
+    "kunyomi": "he-ru"
+  },
+  {
+    "index": 735,
+    "kanji": "測",
+    "grade": 5,
+    "strokes": 12,
+    "meaning": "fathom",
+    "onyomi": "soku",
+    "kunyomi": "haka-ru"
+  },
+  {
+    "index": 736,
+    "kanji": "準",
+    "grade": 5,
+    "strokes": 13,
+    "meaning": "standard",
+    "onyomi": "jun",
+    "kunyomi": null
+  },
+  {
+    "index": 737,
+    "kanji": "演",
+    "grade": 5,
+    "strokes": 14,
+    "meaning": "perform",
+    "onyomi": "en",
+    "kunyomi": null
+  },
+  {
+    "index": 738,
+    "kanji": "潔",
+    "grade": 5,
+    "strokes": 15,
+    "meaning": "undefiled",
+    "onyomi": "ketsu",
+    "kunyomi": "isagiyo-i"
+  },
+  {
+    "index": 739,
+    "kanji": "災",
+    "grade": 5,
+    "strokes": 7,
+    "meaning": "disaster",
+    "onyomi": "sai",
+    "kunyomi": "wazawa-i"
+  },
+  {
+    "index": 740,
+    "kanji": "燃",
+    "grade": 5,
+    "strokes": 16,
+    "meaning": "burn",
+    "onyomi": "nen",
+    "kunyomi": "mo-eru"
+  },
+  {
+    "index": 741,
+    "kanji": "版",
+    "grade": 5,
+    "strokes": 8,
+    "meaning": "printing block",
+    "onyomi": "han",
+    "kunyomi": null
+  },
+  {
+    "index": 742,
+    "kanji": "犯",
+    "grade": 5,
+    "strokes": 5,
+    "meaning": "crime",
+    "onyomi": "han",
+    "kunyomi": "oka-su"
+  },
+  {
+    "index": 743,
+    "kanji": "状",
+    "grade": 5,
+    "strokes": 7,
+    "meaning": "form",
+    "onyomi": "jō",
+    "kunyomi": null
+  },
+  {
+    "index": 744,
+    "kanji": "独",
+    "grade": 5,
+    "strokes": 9,
+    "meaning": "alone",
+    "onyomi": "doku",
+    "kunyomi": "hito-ri"
+  },
+  {
+    "index": 745,
+    "kanji": "率",
+    "grade": 5,
+    "strokes": 11,
+    "meaning": "rate",
+    "onyomi": [
+      "ritsu",
+      "sotsu"
+    ],
+    "kunyomi": "hiki-iru"
+  },
+  {
+    "index": 746,
+    "kanji": "現",
+    "grade": 5,
+    "strokes": 11,
+    "meaning": "appear",
+    "onyomi": "gen",
+    "kunyomi": "arawa-reru"
+  },
+  {
+    "index": 747,
+    "kanji": "留",
+    "grade": 5,
+    "strokes": 10,
+    "meaning": "detain",
+    "onyomi": [
+      "ryū",
+      "ru"
+    ],
+    "kunyomi": "todo-maru"
+  },
+  {
+    "index": 748,
+    "kanji": "略",
+    "grade": 5,
+    "strokes": 11,
+    "meaning": "abbreviation",
+    "onyomi": "ryaku",
+    "kunyomi": null
+  },
+  {
+    "index": 749,
+    "kanji": "益",
+    "grade": 5,
+    "strokes": 10,
+    "meaning": "benefit",
+    "onyomi": "eki",
+    "kunyomi": null
+  },
+  {
+    "index": 750,
+    "kanji": "眼",
+    "grade": 5,
+    "strokes": 11,
+    "meaning": "eyeball",
+    "onyomi": "gan",
+    "kunyomi": "me"
+  },
+  {
+    "index": 751,
+    "kanji": "破",
+    "grade": 5,
+    "strokes": 10,
+    "meaning": "rend",
+    "onyomi": "ha",
+    "kunyomi": "yabu-ru"
+  },
+  {
+    "index": 752,
+    "kanji": "確",
+    "grade": 5,
+    "strokes": 15,
+    "meaning": "certain",
+    "onyomi": "kaku",
+    "kunyomi": "tashi-ka"
+  },
+  {
+    "index": 753,
+    "kanji": "示",
+    "grade": 5,
+    "strokes": 5,
+    "meaning": "indicate",
+    "onyomi": "shi",
+    "kunyomi": "shime-su"
+  },
+  {
+    "index": 754,
+    "kanji": "祖",
+    "grade": 5,
+    "strokes": 9,
+    "meaning": "ancestor",
+    "onyomi": "so",
+    "kunyomi": null
+  },
+  {
+    "index": 755,
+    "kanji": "禁",
+    "grade": 5,
+    "strokes": 13,
+    "meaning": "prohibition",
+    "onyomi": "kin",
+    "kunyomi": null
+  },
+  {
+    "index": 756,
+    "kanji": "移",
+    "grade": 5,
+    "strokes": 11,
+    "meaning": "shift",
+    "onyomi": "i",
+    "kunyomi": "utsu-ru"
+  },
+  {
+    "index": 757,
+    "kanji": "程",
+    "grade": 5,
+    "strokes": 12,
+    "meaning": "extent",
+    "onyomi": "tei",
+    "kunyomi": "hodo"
+  },
+  {
+    "index": 758,
+    "kanji": "税",
+    "grade": 5,
+    "strokes": 12,
+    "meaning": "tax",
+    "onyomi": "zei",
+    "kunyomi": null
+  },
+  {
+    "index": 759,
+    "kanji": "築",
+    "grade": 5,
+    "strokes": 16,
+    "meaning": "fabricate",
+    "onyomi": "chiku",
+    "kunyomi": "kizu-ku"
+  },
+  {
+    "index": 760,
+    "kanji": "精",
+    "grade": 5,
+    "strokes": 14,
+    "meaning": "refined",
+    "onyomi": "sei",
+    "kunyomi": null
+  },
+  {
+    "index": 761,
+    "kanji": "素",
+    "grade": 5,
+    "strokes": 10,
+    "meaning": "elementary",
+    "onyomi": [
+      "su",
+      "so"
+    ],
+    "kunyomi": "moto"
+  },
+  {
+    "index": 762,
+    "kanji": "経",
+    "grade": 5,
+    "strokes": 11,
+    "meaning": "manage",
+    "onyomi": [
+      "kei",
+      "kyō"
+    ],
+    "kunyomi": "he-ru"
+  },
+  {
+    "index": 763,
+    "kanji": "統",
+    "grade": 5,
+    "strokes": 12,
+    "meaning": "relationship",
+    "onyomi": "tō",
+    "kunyomi": "su-beru"
+  },
+  {
+    "index": 764,
+    "kanji": "絶",
+    "grade": 5,
+    "strokes": 12,
+    "meaning": "discontinue",
+    "onyomi": "zetsu",
+    "kunyomi": "ta-tsu"
+  },
+  {
+    "index": 765,
+    "kanji": "綿",
+    "grade": 5,
+    "strokes": 14,
+    "meaning": "cotton",
+    "onyomi": "men",
+    "kunyomi": "wata"
+  },
+  {
+    "index": 766,
+    "kanji": "総",
+    "grade": 5,
+    "strokes": 14,
+    "meaning": "whole",
+    "onyomi": "sō",
+    "kunyomi": null
+  },
+  {
+    "index": 767,
+    "kanji": "編",
+    "grade": 5,
+    "strokes": 15,
+    "meaning": "compile",
+    "onyomi": "hen",
+    "kunyomi": "a-mu"
+  },
+  {
+    "index": 768,
+    "kanji": "績",
+    "grade": 5,
+    "strokes": 17,
+    "meaning": "exploits",
+    "onyomi": "seki",
+    "kunyomi": null
+  },
+  {
+    "index": 769,
+    "kanji": "織",
+    "grade": 5,
+    "strokes": 18,
+    "meaning": "weave",
+    "onyomi": "shiki",
+    "kunyomi": "o-ru"
+  },
+  {
+    "index": 770,
+    "kanji": "罪",
+    "grade": 5,
+    "strokes": 13,
+    "meaning": "guilt",
+    "onyomi": "zai",
+    "kunyomi": "tsumi"
+  },
+  {
+    "index": 771,
+    "kanji": "群",
+    "grade": 5,
+    "strokes": 13,
+    "meaning": "flock",
+    "onyomi": "gun",
+    "kunyomi": "mu-reru"
+  },
+  {
+    "index": 772,
+    "kanji": "義",
+    "grade": 5,
+    "strokes": 13,
+    "meaning": "righteousness",
+    "onyomi": "gi",
+    "kunyomi": null
+  },
+  {
+    "index": 773,
+    "kanji": "耕",
+    "grade": 5,
+    "strokes": 10,
+    "meaning": "till",
+    "onyomi": "kō",
+    "kunyomi": "tagaya-su"
+  },
+  {
+    "index": 774,
+    "kanji": "職",
+    "grade": 5,
+    "strokes": 18,
+    "meaning": "employment",
+    "onyomi": "shoku",
+    "kunyomi": null
+  },
+  {
+    "index": 775,
+    "kanji": "肥",
+    "grade": 5,
+    "strokes": 8,
+    "meaning": "fertilizer",
+    "onyomi": "hi",
+    "kunyomi": "ko-yasu"
+  },
+  {
+    "index": 776,
+    "kanji": "能",
+    "grade": 5,
+    "strokes": 10,
+    "meaning": "ability",
+    "onyomi": "nō",
+    "kunyomi": null
+  },
+  {
+    "index": 777,
+    "kanji": "興",
+    "grade": 5,
+    "strokes": 16,
+    "meaning": "entertain",
+    "onyomi": "kyō",
+    "kunyomi": "oko-su"
+  },
+  {
+    "index": 778,
+    "kanji": "舌",
+    "grade": 5,
+    "strokes": 6,
+    "meaning": "tongue",
+    "onyomi": "zetsu",
+    "kunyomi": "shita"
+  },
+  {
+    "index": 779,
+    "kanji": "舎",
+    "grade": 5,
+    "strokes": 8,
+    "meaning": "cottage",
+    "onyomi": "sha",
+    "kunyomi": null
+  },
+  {
+    "index": 780,
+    "kanji": "術",
+    "grade": 5,
+    "strokes": 11,
+    "meaning": "art",
+    "onyomi": "jutsu",
+    "kunyomi": "sube"
+  },
+  {
+    "index": 781,
+    "kanji": "衛",
+    "grade": 5,
+    "strokes": 16,
+    "meaning": "defense",
+    "onyomi": "ei",
+    "kunyomi": null
+  },
+  {
+    "index": 782,
+    "kanji": "製",
+    "grade": 5,
+    "strokes": 14,
+    "meaning": "manufacture",
+    "onyomi": "sei",
+    "kunyomi": null
+  },
+  {
+    "index": 783,
+    "kanji": "複",
+    "grade": 5,
+    "strokes": 14,
+    "meaning": "duplicate",
+    "onyomi": "fuku",
+    "kunyomi": null
+  },
+  {
+    "index": 784,
+    "kanji": "規",
+    "grade": 5,
+    "strokes": 11,
+    "meaning": "rule",
+    "onyomi": "ki",
+    "kunyomi": null
+  },
+  {
+    "index": 785,
+    "kanji": "解",
+    "grade": 5,
+    "strokes": 13,
+    "meaning": "untie",
+    "onyomi": [
+      "ge",
+      "kai"
+    ],
+    "kunyomi": "to-ku"
+  },
+  {
+    "index": 786,
+    "kanji": "設",
+    "grade": 5,
+    "strokes": 11,
+    "meaning": "establish",
+    "onyomi": "setsu",
+    "kunyomi": "mou-keru"
+  },
+  {
+    "index": 787,
+    "kanji": "許",
+    "grade": 5,
+    "strokes": 11,
+    "meaning": "permit",
+    "onyomi": "kyo",
+    "kunyomi": "yuru-su"
+  },
+  {
+    "index": 788,
+    "kanji": "証",
+    "grade": 5,
+    "strokes": 12,
+    "meaning": "evidence",
+    "onyomi": "shō",
+    "kunyomi": "akashi"
+  },
+  {
+    "index": 789,
+    "kanji": "評",
+    "grade": 5,
+    "strokes": 12,
+    "meaning": "evaluate",
+    "onyomi": "hyō",
+    "kunyomi": null
+  },
+  {
+    "index": 790,
+    "kanji": "講",
+    "grade": 5,
+    "strokes": 17,
+    "meaning": "lecture",
+    "onyomi": "kō",
+    "kunyomi": null
+  },
+  {
+    "index": 791,
+    "kanji": "謝",
+    "grade": 5,
+    "strokes": 17,
+    "meaning": "apologize",
+    "onyomi": "sha",
+    "kunyomi": "ayama-ru"
+  },
+  {
+    "index": 792,
+    "kanji": "識",
+    "grade": 5,
+    "strokes": 19,
+    "meaning": "discriminating",
+    "onyomi": "shiki",
+    "kunyomi": null
+  },
+  {
+    "index": 793,
+    "kanji": "護",
+    "grade": 5,
+    "strokes": 20,
+    "meaning": "safeguard",
+    "onyomi": "go",
+    "kunyomi": "mamo-ru"
+  },
+  {
+    "index": 794,
+    "kanji": "豊",
+    "grade": 5,
+    "strokes": 13,
+    "meaning": "bountiful",
+    "onyomi": "hō",
+    "kunyomi": "yuta-ka"
+  },
+  {
+    "index": 795,
+    "kanji": "財",
+    "grade": 5,
+    "strokes": 10,
+    "meaning": "wealth",
+    "onyomi": "zai",
+    "kunyomi": null
+  },
+  {
+    "index": 796,
+    "kanji": "貧",
+    "grade": 5,
+    "strokes": 11,
+    "meaning": "poor",
+    "onyomi": "hin",
+    "kunyomi": "mazu-shii"
+  },
+  {
+    "index": 797,
+    "kanji": "責",
+    "grade": 5,
+    "strokes": 11,
+    "meaning": "blame",
+    "onyomi": "seki",
+    "kunyomi": "se-meru"
+  },
+  {
+    "index": 798,
+    "kanji": "貸",
+    "grade": 5,
+    "strokes": 12,
+    "meaning": "lend",
+    "onyomi": "tai",
+    "kunyomi": "ka-su"
+  },
+  {
+    "index": 799,
+    "kanji": "貿",
+    "grade": 5,
+    "strokes": 12,
+    "meaning": "trade",
+    "onyomi": "bō",
+    "kunyomi": null
+  },
+  {
+    "index": 800,
+    "kanji": "賀",
+    "grade": 5,
+    "strokes": 12,
+    "meaning": "congratulations",
+    "onyomi": "ga",
+    "kunyomi": null
+  },
+  {
+    "index": 801,
+    "kanji": "資",
+    "grade": 5,
+    "strokes": 13,
+    "meaning": "resources",
+    "onyomi": "shi",
+    "kunyomi": null
+  },
+  {
+    "index": 802,
+    "kanji": "賛",
+    "grade": 5,
+    "strokes": 15,
+    "meaning": "approve",
+    "onyomi": "san",
+    "kunyomi": null
+  },
+  {
+    "index": 803,
+    "kanji": "質",
+    "grade": 5,
+    "strokes": 15,
+    "meaning": "quality",
+    "onyomi": "shitsu",
+    "kunyomi": null
+  },
+  {
+    "index": 804,
+    "kanji": "輸",
+    "grade": 5,
+    "strokes": 16,
+    "meaning": "transport",
+    "onyomi": "yu",
+    "kunyomi": null
+  },
+  {
+    "index": 805,
+    "kanji": "述",
+    "grade": 5,
+    "strokes": 8,
+    "meaning": "mention",
+    "onyomi": "jutsu",
+    "kunyomi": "no-beru"
+  },
+  {
+    "index": 806,
+    "kanji": "迷",
+    "grade": 5,
+    "strokes": 9,
+    "meaning": "astray",
+    "onyomi": "mei",
+    "kunyomi": "mayo-u"
+  },
+  {
+    "index": 807,
+    "kanji": "退",
+    "grade": 5,
+    "strokes": 9,
+    "meaning": "retreat",
+    "onyomi": "tai",
+    "kunyomi": "shirizo-ku"
+  },
+  {
+    "index": 808,
+    "kanji": "逆",
+    "grade": 5,
+    "strokes": 9,
+    "meaning": "inverted",
+    "onyomi": "gyaku",
+    "kunyomi": "saka-rau"
+  },
+  {
+    "index": 809,
+    "kanji": "造",
+    "grade": 5,
+    "strokes": 10,
+    "meaning": "create",
+    "onyomi": "zō",
+    "kunyomi": "tsuku-ru"
+  },
+  {
+    "index": 810,
+    "kanji": "過",
+    "grade": 5,
+    "strokes": 12,
+    "meaning": "overdo",
+    "onyomi": "ka",
+    "kunyomi": "ayama-chi"
+  },
+  {
+    "index": 811,
+    "kanji": "適",
+    "grade": 5,
+    "strokes": 14,
+    "meaning": "suitable",
+    "onyomi": "teki",
+    "kunyomi": null
+  },
+  {
+    "index": 812,
+    "kanji": "酸",
+    "grade": 5,
+    "strokes": 14,
+    "meaning": "acid",
+    "onyomi": "san",
+    "kunyomi": null
+  },
+  {
+    "index": 813,
+    "kanji": "鉱",
+    "grade": 5,
+    "strokes": 13,
+    "meaning": "mineral",
+    "onyomi": "kō",
+    "kunyomi": null
+  },
+  {
+    "index": 814,
+    "kanji": "銅",
+    "grade": 5,
+    "strokes": 14,
+    "meaning": "copper",
+    "onyomi": "dō",
+    "kunyomi": null
+  },
+  {
+    "index": 815,
+    "kanji": "銭",
+    "grade": 5,
+    "strokes": 14,
+    "meaning": "coin",
+    "onyomi": "sen",
+    "kunyomi": "zeni"
+  },
+  {
+    "index": 816,
+    "kanji": "防",
+    "grade": 5,
+    "strokes": 7,
+    "meaning": "resist",
+    "onyomi": "bō",
+    "kunyomi": "fuse-gu"
+  },
+  {
+    "index": 817,
+    "kanji": "限",
+    "grade": 5,
+    "strokes": 9,
+    "meaning": "limit",
+    "onyomi": "gen",
+    "kunyomi": "kagi-ru"
+  },
+  {
+    "index": 818,
+    "kanji": "険",
+    "grade": 5,
+    "strokes": 11,
+    "meaning": "precipitous",
+    "onyomi": "ken",
+    "kunyomi": "kewa-shii"
+  },
+  {
+    "index": 819,
+    "kanji": "際",
+    "grade": 5,
+    "strokes": 14,
+    "meaning": "occasion",
+    "onyomi": "sai",
+    "kunyomi": "kiwa"
+  },
+  {
+    "index": 820,
+    "kanji": "雑",
+    "grade": 5,
+    "strokes": 14,
+    "meaning": "miscellaneous",
+    "onyomi": "zatsu",
+    "kunyomi": null
+  },
+  {
+    "index": 821,
+    "kanji": "非",
+    "grade": 5,
+    "strokes": 8,
+    "meaning": "negative",
+    "onyomi": "hi",
+    "kunyomi": "ara-zu"
+  },
+  {
+    "index": 822,
+    "kanji": "預",
+    "grade": 5,
+    "strokes": 13,
+    "meaning": "deposit",
+    "onyomi": "yo",
+    "kunyomi": "azu-keru"
+  },
+  {
+    "index": 823,
+    "kanji": "領",
+    "grade": 5,
+    "strokes": 14,
+    "meaning": "territory",
+    "onyomi": "ryō",
+    "kunyomi": null
+  },
+  {
+    "index": 824,
+    "kanji": "額",
+    "grade": 5,
+    "strokes": 18,
+    "meaning": "amount",
+    "onyomi": "gaku",
+    "kunyomi": "hitai"
+  },
+  {
+    "index": 825,
+    "kanji": "飼",
+    "grade": 5,
+    "strokes": 13,
+    "meaning": "domesticate",
+    "onyomi": "shi",
+    "kunyomi": "ka-u"
+  },
+  {
+    "index": 826,
+    "kanji": "並",
+    "grade": 6,
+    "strokes": 8,
+    "meaning": "row",
+    "onyomi": "hei",
+    "kunyomi": [
+      "nami",
+      "nara-bu"
+    ]
+  },
+  {
+    "index": 827,
+    "kanji": "乱",
+    "grade": 6,
+    "strokes": 7,
+    "meaning": "chaos",
+    "onyomi": "ran",
+    "kunyomi": "mida-reru"
+  },
+  {
+    "index": 828,
+    "kanji": "乳",
+    "grade": 6,
+    "strokes": 8,
+    "meaning": "milk",
+    "onyomi": "nyū",
+    "kunyomi": "chichi"
+  },
+  {
+    "index": 829,
+    "kanji": "亡",
+    "grade": 6,
+    "strokes": 3,
+    "meaning": "deceased",
+    "onyomi": "bō",
+    "kunyomi": "na-kunaru"
+  },
+  {
+    "index": 830,
+    "kanji": "仁",
+    "grade": 6,
+    "strokes": 4,
+    "meaning": "kindness",
+    "onyomi": "jin",
+    "kunyomi": null
+  },
+  {
+    "index": 831,
+    "kanji": "供",
+    "grade": 6,
+    "strokes": 8,
+    "meaning": "offer",
+    "onyomi": [
+      "kyō",
+      "ku"
+    ],
+    "kunyomi": "tomo"
+  },
+  {
+    "index": 832,
+    "kanji": "俳",
+    "grade": 6,
+    "strokes": 10,
+    "meaning": "actor",
+    "onyomi": "hai",
+    "kunyomi": null
+  },
+  {
+    "index": 833,
+    "kanji": "値",
+    "grade": 6,
+    "strokes": 10,
+    "meaning": "value",
+    "onyomi": "chi",
+    "kunyomi": "atai"
+  },
+  {
+    "index": 834,
+    "kanji": "傷",
+    "grade": 6,
+    "strokes": 13,
+    "meaning": "wound",
+    "onyomi": "shō",
+    "kunyomi": "kizu"
+  },
+  {
+    "index": 835,
+    "kanji": "優",
+    "grade": 6,
+    "strokes": 17,
+    "meaning": "superior",
+    "onyomi": "yū",
+    "kunyomi": "yasa-shii"
+  },
+  {
+    "index": 836,
+    "kanji": "党",
+    "grade": 6,
+    "strokes": 10,
+    "meaning": "political party",
+    "onyomi": "tō",
+    "kunyomi": null
+  },
+  {
+    "index": 837,
+    "kanji": "冊",
+    "grade": 6,
+    "strokes": 5,
+    "meaning": "counter for books",
+    "onyomi": "satsu",
+    "kunyomi": null
+  },
+  {
+    "index": 838,
+    "kanji": "処",
+    "grade": 6,
+    "strokes": 5,
+    "meaning": "dispose",
+    "onyomi": "sho",
+    "kunyomi": null
+  },
+  {
+    "index": 839,
+    "kanji": "刻",
+    "grade": 6,
+    "strokes": 8,
+    "meaning": "engrave",
+    "onyomi": "koku",
+    "kunyomi": "kiza-mu"
+  },
+  {
+    "index": 840,
+    "kanji": "割",
+    "grade": 6,
+    "strokes": 12,
+    "meaning": "divide",
+    "onyomi": "katsu",
+    "kunyomi": "wa-ru"
+  },
+  {
+    "index": 841,
+    "kanji": "創",
+    "grade": 6,
+    "strokes": 12,
+    "meaning": "create",
+    "onyomi": "sō",
+    "kunyomi": "tsuku-ru"
+  },
+  {
+    "index": 842,
+    "kanji": "劇",
+    "grade": 6,
+    "strokes": 15,
+    "meaning": "drama",
+    "onyomi": "geki",
+    "kunyomi": null
+  },
+  {
+    "index": 843,
+    "kanji": "勤",
+    "grade": 6,
+    "strokes": 12,
+    "meaning": "diligence",
+    "onyomi": "kin",
+    "kunyomi": "tsuto-meru"
+  },
+  {
+    "index": 844,
+    "kanji": "危",
+    "grade": 6,
+    "strokes": 6,
+    "meaning": "dangerous",
+    "onyomi": "ki",
+    "kunyomi": "aya-ui"
+  },
+  {
+    "index": 845,
+    "kanji": "卵",
+    "grade": 6,
+    "strokes": 7,
+    "meaning": "egg",
+    "onyomi": "ran",
+    "kunyomi": "tamago"
+  },
+  {
+    "index": 846,
+    "kanji": "厳",
+    "grade": 6,
+    "strokes": 17,
+    "meaning": "strict",
+    "onyomi": "gen",
+    "kunyomi": "kibi-shii"
+  },
+  {
+    "index": 847,
+    "kanji": "収",
+    "grade": 6,
+    "strokes": 4,
+    "meaning": "obtain",
+    "onyomi": "shū",
+    "kunyomi": "osa-meru"
+  },
+  {
+    "index": 848,
+    "kanji": "后",
+    "grade": 6,
+    "strokes": 6,
+    "meaning": "queen",
+    "onyomi": [
+      "kō",
+      "gō"
+    ],
+    "kunyomi": "kisaki"
+  },
+  {
+    "index": 849,
+    "kanji": "否",
+    "grade": 6,
+    "strokes": 7,
+    "meaning": "negate",
+    "onyomi": "hi",
+    "kunyomi": [
+      "ina",
+      "iya"
+    ]
+  },
+  {
+    "index": 850,
+    "kanji": "吸",
+    "grade": 6,
+    "strokes": 6,
+    "meaning": "suck",
+    "onyomi": "kyū",
+    "kunyomi": "su-u"
+  },
+  {
+    "index": 851,
+    "kanji": "呼",
+    "grade": 6,
+    "strokes": 8,
+    "meaning": "call",
+    "onyomi": "ko",
+    "kunyomi": "yo-bu"
+  },
+  {
+    "index": 852,
+    "kanji": "善",
+    "grade": 6,
+    "strokes": 12,
+    "meaning": "virtue",
+    "onyomi": "zen",
+    "kunyomi": "yo-i"
+  },
+  {
+    "index": 853,
+    "kanji": "困",
+    "grade": 6,
+    "strokes": 7,
+    "meaning": "quandary",
+    "onyomi": "kon",
+    "kunyomi": "koma-ru"
+  },
+  {
+    "index": 854,
+    "kanji": "垂",
+    "grade": 6,
+    "strokes": 8,
+    "meaning": "droop",
+    "onyomi": "sui",
+    "kunyomi": "ta-reru"
+  },
+  {
+    "index": 855,
+    "kanji": "城",
+    "grade": 6,
+    "strokes": 9,
+    "meaning": "castle",
+    "onyomi": "jō",
+    "kunyomi": "shiro"
+  },
+  {
+    "index": 856,
+    "kanji": "域",
+    "grade": 6,
+    "strokes": 11,
+    "meaning": "range",
+    "onyomi": "iki",
+    "kunyomi": null
+  },
+  {
+    "index": 857,
+    "kanji": "奏",
+    "grade": 6,
+    "strokes": 9,
+    "meaning": "play music",
+    "onyomi": "sō",
+    "kunyomi": "kana-deru"
+  },
+  {
+    "index": 858,
+    "kanji": "奮",
+    "grade": 6,
+    "strokes": 16,
+    "meaning": "stirred up",
+    "onyomi": "fun",
+    "kunyomi": "furu-u"
+  },
+  {
+    "index": 859,
+    "kanji": "姿",
+    "grade": 6,
+    "strokes": 9,
+    "meaning": "shape",
+    "onyomi": "shi",
+    "kunyomi": "sugata"
+  },
+  {
+    "index": 860,
+    "kanji": "存",
+    "grade": 6,
+    "strokes": 6,
+    "meaning": "suppose",
+    "onyomi": "son",
+    "kunyomi": null
+  },
+  {
+    "index": 861,
+    "kanji": "孝",
+    "grade": 6,
+    "strokes": 7,
+    "meaning": "filial piety",
+    "onyomi": "kō",
+    "kunyomi": null
+  },
+  {
+    "index": 862,
+    "kanji": "宅",
+    "grade": 6,
+    "strokes": 6,
+    "meaning": "home",
+    "onyomi": "taku",
+    "kunyomi": "ie"
+  },
+  {
+    "index": 863,
+    "kanji": "宇",
+    "grade": 6,
+    "strokes": 6,
+    "meaning": "eaves",
+    "onyomi": "u",
+    "kunyomi": null
+  },
+  {
+    "index": 864,
+    "kanji": "宗",
+    "grade": 6,
+    "strokes": 8,
+    "meaning": "religion",
+    "onyomi": "shū",
+    "kunyomi": "sō"
+  },
+  {
+    "index": 865,
+    "kanji": "宙",
+    "grade": 6,
+    "strokes": 8,
+    "meaning": "mid-air",
+    "onyomi": "chū",
+    "kunyomi": null
+  },
+  {
+    "index": 866,
+    "kanji": "宝",
+    "grade": 6,
+    "strokes": 8,
+    "meaning": "treasure",
+    "onyomi": "hō",
+    "kunyomi": "takara"
+  },
+  {
+    "index": 867,
+    "kanji": "宣",
+    "grade": 6,
+    "strokes": 9,
+    "meaning": "proclaim",
+    "onyomi": "sen",
+    "kunyomi": "notama-u"
+  },
+  {
+    "index": 868,
+    "kanji": "密",
+    "grade": 6,
+    "strokes": 11,
+    "meaning": "secrecy",
+    "onyomi": "mitsu",
+    "kunyomi": null
+  },
+  {
+    "index": 869,
+    "kanji": "寸",
+    "grade": 6,
+    "strokes": 3,
+    "meaning": "measurement",
+    "onyomi": "sun",
+    "kunyomi": null
+  },
+  {
+    "index": 870,
+    "kanji": "専",
+    "grade": 6,
+    "strokes": 9,
+    "meaning": "specialty",
+    "onyomi": "sen",
+    "kunyomi": "moppa-ra"
+  },
+  {
+    "index": 871,
+    "kanji": "射",
+    "grade": 6,
+    "strokes": 10,
+    "meaning": "shoot",
+    "onyomi": "sha",
+    "kunyomi": "i-ru"
+  },
+  {
+    "index": 872,
+    "kanji": "将",
+    "grade": 6,
+    "strokes": 10,
+    "meaning": "leader",
+    "onyomi": "shō",
+    "kunyomi": null
+  },
+  {
+    "index": 873,
+    "kanji": "尊",
+    "grade": 6,
+    "strokes": 12,
+    "meaning": "revered",
+    "onyomi": "son",
+    "kunyomi": "touto-bu"
+  },
+  {
+    "index": 874,
+    "kanji": "就",
+    "grade": 6,
+    "strokes": 12,
+    "meaning": "concerning",
+    "onyomi": "shū",
+    "kunyomi": "tsu-ku"
+  },
+  {
+    "index": 875,
+    "kanji": "尺",
+    "grade": 6,
+    "strokes": 4,
+    "meaning": "measure of length",
+    "onyomi": "shaku",
+    "kunyomi": null
+  },
+  {
+    "index": 876,
+    "kanji": "届",
+    "grade": 6,
+    "strokes": 8,
+    "meaning": "deliver",
+    "onyomi": "kai",
+    "kunyomi": "todo-ku"
+  },
+  {
+    "index": 877,
+    "kanji": "展",
+    "grade": 6,
+    "strokes": 10,
+    "meaning": "expand",
+    "onyomi": "ten",
+    "kunyomi": null
+  },
+  {
+    "index": 878,
+    "kanji": "層",
+    "grade": 6,
+    "strokes": 14,
+    "meaning": "stratum",
+    "onyomi": "sō",
+    "kunyomi": null
+  },
+  {
+    "index": 879,
+    "kanji": "己",
+    "grade": 6,
+    "strokes": 3,
+    "meaning": "self",
+    "onyomi": "ko",
+    "kunyomi": "onore"
+  },
+  {
+    "index": 880,
+    "kanji": "巻",
+    "grade": 6,
+    "strokes": 9,
+    "meaning": "scroll",
+    "onyomi": "kan",
+    "kunyomi": "maki"
+  },
+  {
+    "index": 881,
+    "kanji": "幕",
+    "grade": 6,
+    "strokes": 13,
+    "meaning": "curtain",
+    "onyomi": [
+      "maku",
+      "baku"
+    ],
+    "kunyomi": null
+  },
+  {
+    "index": 882,
+    "kanji": "干",
+    "grade": 6,
+    "strokes": 3,
+    "meaning": "dry",
+    "onyomi": "kan",
+    "kunyomi": "ho-su"
+  },
+  {
+    "index": 883,
+    "kanji": "幼",
+    "grade": 6,
+    "strokes": 5,
+    "meaning": "infancy",
+    "onyomi": "yō",
+    "kunyomi": "osana-i"
+  },
+  {
+    "index": 884,
+    "kanji": "庁",
+    "grade": 6,
+    "strokes": 5,
+    "meaning": "government office",
+    "onyomi": "chō",
+    "kunyomi": null
+  },
+  {
+    "index": 885,
+    "kanji": "座",
+    "grade": 6,
+    "strokes": 10,
+    "meaning": "sit",
+    "onyomi": "za",
+    "kunyomi": "suwa-ru"
+  },
+  {
+    "index": 886,
+    "kanji": "延",
+    "grade": 6,
+    "strokes": 8,
+    "meaning": "prolong",
+    "onyomi": "en",
+    "kunyomi": "no-basu"
+  },
+  {
+    "index": 887,
+    "kanji": "律",
+    "grade": 6,
+    "strokes": 9,
+    "meaning": "rhythm",
+    "onyomi": "ritsu",
+    "kunyomi": null
+  },
+  {
+    "index": 888,
+    "kanji": "従",
+    "grade": 6,
+    "strokes": 10,
+    "meaning": "obey",
+    "onyomi": "jū",
+    "kunyomi": "shitaga-u"
+  },
+  {
+    "index": 889,
+    "kanji": "忘",
+    "grade": 6,
+    "strokes": 7,
+    "meaning": "forget",
+    "onyomi": "bō",
+    "kunyomi": "wasu-reru"
+  },
+  {
+    "index": 890,
+    "kanji": "忠",
+    "grade": 6,
+    "strokes": 8,
+    "meaning": "loyalty",
+    "onyomi": "chū",
+    "kunyomi": null
+  },
+  {
+    "index": 891,
+    "kanji": "憲",
+    "grade": 6,
+    "strokes": 16,
+    "meaning": "constitution",
+    "onyomi": "ken",
+    "kunyomi": null
+  },
+  {
+    "index": 892,
+    "kanji": "我",
+    "grade": 6,
+    "strokes": 7,
+    "meaning": "ego",
+    "onyomi": "ga",
+    "kunyomi": "ware"
+  },
+  {
+    "index": 893,
+    "kanji": "批",
+    "grade": 6,
+    "strokes": 7,
+    "meaning": "criticism",
+    "onyomi": "hi",
+    "kunyomi": null
+  },
+  {
+    "index": 894,
+    "kanji": "担",
+    "grade": 6,
+    "strokes": 8,
+    "meaning": "shouldering",
+    "onyomi": "tan",
+    "kunyomi": "nina-u"
+  },
+  {
+    "index": 895,
+    "kanji": "拝",
+    "grade": 6,
+    "strokes": 8,
+    "meaning": "worship",
+    "onyomi": "hai",
+    "kunyomi": "oga-mu"
+  },
+  {
+    "index": 896,
+    "kanji": "拡",
+    "grade": 6,
+    "strokes": 8,
+    "meaning": "broaden",
+    "onyomi": "kaku",
+    "kunyomi": "hiro-geru"
+  },
+  {
+    "index": 897,
+    "kanji": "捨",
+    "grade": 6,
+    "strokes": 11,
+    "meaning": "discard",
+    "onyomi": "sha",
+    "kunyomi": "su-teru"
+  },
+  {
+    "index": 898,
+    "kanji": "探",
+    "grade": 6,
+    "strokes": 11,
+    "meaning": "grope",
+    "onyomi": "tan",
+    "kunyomi": "saga-su"
+  },
+  {
+    "index": 899,
+    "kanji": "推",
+    "grade": 6,
+    "strokes": 11,
+    "meaning": "infer",
+    "onyomi": "sui",
+    "kunyomi": null
+  },
+  {
+    "index": 900,
+    "kanji": "揮",
+    "grade": 6,
+    "strokes": 12,
+    "meaning": "brandish",
+    "onyomi": "ki",
+    "kunyomi": null
+  },
+  {
+    "index": 901,
+    "kanji": "操",
+    "grade": 6,
+    "strokes": 16,
+    "meaning": "maneuver",
+    "onyomi": "sō",
+    "kunyomi": "ayatsu-ru"
+  },
+  {
+    "index": 902,
+    "kanji": "敬",
+    "grade": 6,
+    "strokes": 12,
+    "meaning": "respect",
+    "onyomi": "kei",
+    "kunyomi": "uyama-u"
+  },
+  {
+    "index": 903,
+    "kanji": "映",
+    "grade": 6,
+    "strokes": 9,
+    "meaning": "reflect",
+    "onyomi": "ei",
+    "kunyomi": "utsu-ru"
+  },
+  {
+    "index": 904,
+    "kanji": "晩",
+    "grade": 6,
+    "strokes": 12,
+    "meaning": "nightfall",
+    "onyomi": "ban",
+    "kunyomi": null
+  },
+  {
+    "index": 905,
+    "kanji": "暖",
+    "grade": 6,
+    "strokes": 13,
+    "meaning": "warmth",
+    "onyomi": "dan",
+    "kunyomi": "atata-kai"
+  },
+  {
+    "index": 906,
+    "kanji": "暮",
+    "grade": 6,
+    "strokes": 14,
+    "meaning": "livelihood",
+    "onyomi": "bo",
+    "kunyomi": "ku-rasu"
+  },
+  {
+    "index": 907,
+    "kanji": "朗",
+    "grade": 6,
+    "strokes": 10,
+    "meaning": "melodious",
+    "onyomi": "rō",
+    "kunyomi": "hoga-raka"
+  },
+  {
+    "index": 908,
+    "kanji": "机",
+    "grade": 6,
+    "strokes": 6,
+    "meaning": "desk",
+    "onyomi": "ki",
+    "kunyomi": "tsukue"
+  },
+  {
+    "index": 909,
+    "kanji": "枚",
+    "grade": 6,
+    "strokes": 8,
+    "meaning": "sheet of...",
+    "onyomi": "mai",
+    "kunyomi": null
+  },
+  {
+    "index": 910,
+    "kanji": "染",
+    "grade": 6,
+    "strokes": 9,
+    "meaning": "dye",
+    "onyomi": "sen",
+    "kunyomi": "so-meru"
+  },
+  {
+    "index": 911,
+    "kanji": "株",
+    "grade": 6,
+    "strokes": 10,
+    "meaning": "stocks",
+    "onyomi": "shu",
+    "kunyomi": "kabu"
+  },
+  {
+    "index": 912,
+    "kanji": "棒",
+    "grade": 6,
+    "strokes": 12,
+    "meaning": "rod",
+    "onyomi": "bō",
+    "kunyomi": null
+  },
+  {
+    "index": 913,
+    "kanji": "模",
+    "grade": 6,
+    "strokes": 14,
+    "meaning": "imitation",
+    "onyomi": [
+      "mo",
+      "bo"
+    ],
+    "kunyomi": null
+  },
+  {
+    "index": 914,
+    "kanji": "権",
+    "grade": 6,
+    "strokes": 15,
+    "meaning": "rights",
+    "onyomi": "ken",
+    "kunyomi": null
+  },
+  {
+    "index": 915,
+    "kanji": "樹",
+    "grade": 6,
+    "strokes": 16,
+    "meaning": "trees",
+    "onyomi": "ju",
+    "kunyomi": "ki"
+  },
+  {
+    "index": 916,
+    "kanji": "欲",
+    "grade": 6,
+    "strokes": 11,
+    "meaning": "longing",
+    "onyomi": "yoku",
+    "kunyomi": "ho-shii"
+  },
+  {
+    "index": 917,
+    "kanji": "段",
+    "grade": 6,
+    "strokes": 9,
+    "meaning": "steps",
+    "onyomi": "dan",
+    "kunyomi": null
+  },
+  {
+    "index": 918,
+    "kanji": "沿",
+    "grade": 6,
+    "strokes": 8,
+    "meaning": "run alongside",
+    "onyomi": "en",
+    "kunyomi": "so-u"
+  },
+  {
+    "index": 919,
+    "kanji": "泉",
+    "grade": 6,
+    "strokes": 9,
+    "meaning": "fountain",
+    "onyomi": "sen",
+    "kunyomi": "izumi"
+  },
+  {
+    "index": 920,
+    "kanji": "洗",
+    "grade": 6,
+    "strokes": 9,
+    "meaning": "wash",
+    "onyomi": "sen",
+    "kunyomi": "ara-u"
+  },
+  {
+    "index": 921,
+    "kanji": "派",
+    "grade": 6,
+    "strokes": 9,
+    "meaning": "sect",
+    "onyomi": "ha",
+    "kunyomi": null
+  },
+  {
+    "index": 922,
+    "kanji": "済",
+    "grade": 6,
+    "strokes": 11,
+    "meaning": "settle",
+    "onyomi": "sai",
+    "kunyomi": "su-mu"
+  },
+  {
+    "index": 923,
+    "kanji": "源",
+    "grade": 6,
+    "strokes": 13,
+    "meaning": "source",
+    "onyomi": "gen",
+    "kunyomi": "minamoto"
+  },
+  {
+    "index": 924,
+    "kanji": "潮",
+    "grade": 6,
+    "strokes": 15,
+    "meaning": "tide",
+    "onyomi": "chō",
+    "kunyomi": "shio"
+  },
+  {
+    "index": 925,
+    "kanji": "激",
+    "grade": 6,
+    "strokes": 16,
+    "meaning": "violent",
+    "onyomi": "geki",
+    "kunyomi": "hage-shii"
+  },
+  {
+    "index": 926,
+    "kanji": "灰",
+    "grade": 6,
+    "strokes": 6,
+    "meaning": "ashes",
+    "onyomi": "kai",
+    "kunyomi": "hai"
+  },
+  {
+    "index": 927,
+    "kanji": "熟",
+    "grade": 6,
+    "strokes": 15,
+    "meaning": "ripen",
+    "onyomi": "juku",
+    "kunyomi": "u-reru"
+  },
+  {
+    "index": 928,
+    "kanji": "片",
+    "grade": 6,
+    "strokes": 4,
+    "meaning": "one-sided",
+    "onyomi": "hen",
+    "kunyomi": "kata"
+  },
+  {
+    "index": 929,
+    "kanji": "班",
+    "grade": 6,
+    "strokes": 10,
+    "meaning": "corps",
+    "onyomi": "han",
+    "kunyomi": null
+  },
+  {
+    "index": 930,
+    "kanji": "異",
+    "grade": 6,
+    "strokes": 11,
+    "meaning": "uncommon",
+    "onyomi": "i",
+    "kunyomi": "koto-naru"
+  },
+  {
+    "index": 931,
+    "kanji": "疑",
+    "grade": 6,
+    "strokes": 14,
+    "meaning": "doubt",
+    "onyomi": "gi",
+    "kunyomi": "utaga-u"
+  },
+  {
+    "index": 932,
+    "kanji": "痛",
+    "grade": 6,
+    "strokes": 12,
+    "meaning": "pain",
+    "onyomi": "tsū",
+    "kunyomi": "ita-i"
+  },
+  {
+    "index": 933,
+    "kanji": "皇",
+    "grade": 6,
+    "strokes": 9,
+    "meaning": "emperor",
+    "onyomi": [
+      "kō",
+      "ō"
+    ],
+    "kunyomi": null
+  },
+  {
+    "index": 934,
+    "kanji": "盛",
+    "grade": 6,
+    "strokes": 11,
+    "meaning": "prosper",
+    "onyomi": "sei",
+    "kunyomi": "mo-ru"
+  },
+  {
+    "index": 935,
+    "kanji": "盟",
+    "grade": 6,
+    "strokes": 13,
+    "meaning": "alliance",
+    "onyomi": "mei",
+    "kunyomi": null
+  },
+  {
+    "index": 936,
+    "kanji": "看",
+    "grade": 6,
+    "strokes": 9,
+    "meaning": "watch over",
+    "onyomi": "kan",
+    "kunyomi": null
+  },
+  {
+    "index": 937,
+    "kanji": "砂",
+    "grade": 6,
+    "strokes": 9,
+    "meaning": "sand",
+    "onyomi": [
+      "sa",
+      "sha"
+    ],
+    "kunyomi": "suna"
+  },
+  {
+    "index": 938,
+    "kanji": "磁",
+    "grade": 6,
+    "strokes": 14,
+    "meaning": "magnet",
+    "onyomi": "ji",
+    "kunyomi": null
+  },
+  {
+    "index": 939,
+    "kanji": "私",
+    "grade": 6,
+    "strokes": 7,
+    "meaning": "me",
+    "onyomi": "shi",
+    "kunyomi": [
+      "watakushi",
+      "watashi"
+    ]
+  },
+  {
+    "index": 940,
+    "kanji": "秘",
+    "grade": 6,
+    "strokes": 10,
+    "meaning": "secret",
+    "onyomi": "hi",
+    "kunyomi": "hi-meru"
+  },
+  {
+    "index": 941,
+    "kanji": "穀",
+    "grade": 6,
+    "strokes": 14,
+    "meaning": "cereal",
+    "onyomi": "koku",
+    "kunyomi": null
+  },
+  {
+    "index": 942,
+    "kanji": "穴",
+    "grade": 6,
+    "strokes": 5,
+    "meaning": "hole",
+    "onyomi": "ketsu",
+    "kunyomi": "ana"
+  },
+  {
+    "index": 943,
+    "kanji": "窓",
+    "grade": 6,
+    "strokes": 11,
+    "meaning": "window",
+    "onyomi": "sō",
+    "kunyomi": "mado"
+  },
+  {
+    "index": 944,
+    "kanji": "筋",
+    "grade": 6,
+    "strokes": 12,
+    "meaning": "muscle",
+    "onyomi": "kin",
+    "kunyomi": "suji"
+  },
+  {
+    "index": 945,
+    "kanji": "策",
+    "grade": 6,
+    "strokes": 12,
+    "meaning": "scheme",
+    "onyomi": "saku",
+    "kunyomi": null
+  },
+  {
+    "index": 946,
+    "kanji": "簡",
+    "grade": 6,
+    "strokes": 18,
+    "meaning": "simplicity",
+    "onyomi": "kan",
+    "kunyomi": null
+  },
+  {
+    "index": 947,
+    "kanji": "糖",
+    "grade": 6,
+    "strokes": 16,
+    "meaning": "sugar",
+    "onyomi": "tō",
+    "kunyomi": null
+  },
+  {
+    "index": 948,
+    "kanji": "系",
+    "grade": 6,
+    "strokes": 7,
+    "meaning": "lineage",
+    "onyomi": "kei",
+    "kunyomi": null
+  },
+  {
+    "index": 949,
+    "kanji": "紅",
+    "grade": 6,
+    "strokes": 9,
+    "meaning": "crimson",
+    "onyomi": "kō",
+    "kunyomi": [
+      "beni",
+      "kurenai"
+    ]
+  },
+  {
+    "index": 950,
+    "kanji": "納",
+    "grade": 6,
+    "strokes": 10,
+    "meaning": "settlement",
+    "onyomi": "nō",
+    "kunyomi": "osa-meru"
+  },
+  {
+    "index": 951,
+    "kanji": "純",
+    "grade": 6,
+    "strokes": 10,
+    "meaning": "genuine",
+    "onyomi": "jun",
+    "kunyomi": null
+  },
+  {
+    "index": 952,
+    "kanji": "絹",
+    "grade": 6,
+    "strokes": 13,
+    "meaning": "silk",
+    "onyomi": "ken",
+    "kunyomi": "kinu"
+  },
+  {
+    "index": 953,
+    "kanji": "縦",
+    "grade": 6,
+    "strokes": 16,
+    "meaning": "vertical",
+    "onyomi": "jū",
+    "kunyomi": "tate"
+  },
+  {
+    "index": 954,
+    "kanji": "縮",
+    "grade": 6,
+    "strokes": 17,
+    "meaning": "shrink",
+    "onyomi": "shuku",
+    "kunyomi": "chidi-mu"
+  },
+  {
+    "index": 955,
+    "kanji": "署",
+    "grade": 6,
+    "strokes": 13,
+    "meaning": "government office",
+    "onyomi": "sho",
+    "kunyomi": null
+  },
+  {
+    "index": 956,
+    "kanji": "翌",
+    "grade": 6,
+    "strokes": 11,
+    "meaning": "forthcoming",
+    "onyomi": "yoku",
+    "kunyomi": null
+  },
+  {
+    "index": 957,
+    "kanji": "聖",
+    "grade": 6,
+    "strokes": 13,
+    "meaning": "holy",
+    "onyomi": "sei",
+    "kunyomi": null
+  },
+  {
+    "index": 958,
+    "kanji": "肺",
+    "grade": 6,
+    "strokes": 9,
+    "meaning": "lung",
+    "onyomi": "hai",
+    "kunyomi": null
+  },
+  {
+    "index": 959,
+    "kanji": "背",
+    "grade": 6,
+    "strokes": 9,
+    "meaning": "back",
+    "onyomi": "hai",
+    "kunyomi": "se"
+  },
+  {
+    "index": 960,
+    "kanji": "胸",
+    "grade": 6,
+    "strokes": 10,
+    "meaning": "bosom",
+    "onyomi": "kyō",
+    "kunyomi": "mune"
+  },
+  {
+    "index": 961,
+    "kanji": "脳",
+    "grade": 6,
+    "strokes": 11,
+    "meaning": "brain",
+    "onyomi": "nō",
+    "kunyomi": null
+  },
+  {
+    "index": 962,
+    "kanji": "腹",
+    "grade": 6,
+    "strokes": 13,
+    "meaning": "abdomen",
+    "onyomi": "fuku",
+    "kunyomi": "hara"
+  },
+  {
+    "index": 963,
+    "kanji": "臓",
+    "grade": 6,
+    "strokes": 19,
+    "meaning": "entrails",
+    "onyomi": "zō",
+    "kunyomi": null
+  },
+  {
+    "index": 964,
+    "kanji": "臨",
+    "grade": 6,
+    "strokes": 18,
+    "meaning": "lookover",
+    "onyomi": "rin",
+    "kunyomi": "nozo-mu"
+  },
+  {
+    "index": 965,
+    "kanji": "至",
+    "grade": 6,
+    "strokes": 6,
+    "meaning": "climax",
+    "onyomi": "shi",
+    "kunyomi": "ita-ru"
+  },
+  {
+    "index": 966,
+    "kanji": "若",
+    "grade": 6,
+    "strokes": 8,
+    "meaning": "young",
+    "onyomi": "jaku",
+    "kunyomi": "waka-i"
+  },
+  {
+    "index": 967,
+    "kanji": "著",
+    "grade": 6,
+    "strokes": 11,
+    "meaning": "renowned",
+    "onyomi": "cho",
+    "kunyomi": [
+      "arawa-su",
+      "ichijiru-shii"
+    ]
+  },
+  {
+    "index": 968,
+    "kanji": "蒸",
+    "grade": 6,
+    "strokes": 13,
+    "meaning": "foment",
+    "onyomi": "jō",
+    "kunyomi": "mu-su"
+  },
+  {
+    "index": 969,
+    "kanji": "蔵",
+    "grade": 6,
+    "strokes": 15,
+    "meaning": "storehouse",
+    "onyomi": "zō",
+    "kunyomi": "kura"
+  },
+  {
+    "index": 970,
+    "kanji": "蚕",
+    "grade": 6,
+    "strokes": 10,
+    "meaning": "silkworm",
+    "onyomi": "san",
+    "kunyomi": "kaiko"
+  },
+  {
+    "index": 971,
+    "kanji": "衆",
+    "grade": 6,
+    "strokes": 12,
+    "meaning": "masses",
+    "onyomi": "shū",
+    "kunyomi": null
+  },
+  {
+    "index": 972,
+    "kanji": "裁",
+    "grade": 6,
+    "strokes": 12,
+    "meaning": "judge",
+    "onyomi": "sai",
+    "kunyomi": "saba-ku"
+  },
+  {
+    "index": 973,
+    "kanji": "装",
+    "grade": 6,
+    "strokes": 12,
+    "meaning": "attire",
+    "onyomi": [
+      "sō",
+      "shō"
+    ],
+    "kunyomi": "yosoo-u"
+  },
+  {
+    "index": 974,
+    "kanji": "裏",
+    "grade": 6,
+    "strokes": 13,
+    "meaning": "rear",
+    "onyomi": "ri",
+    "kunyomi": "ura"
+  },
+  {
+    "index": 975,
+    "kanji": "補",
+    "grade": 6,
+    "strokes": 12,
+    "meaning": "supplement",
+    "onyomi": "ho",
+    "kunyomi": "ogina-u"
+  },
+  {
+    "index": 976,
+    "kanji": "視",
+    "grade": 6,
+    "strokes": 11,
+    "meaning": "look at",
+    "onyomi": "shi",
+    "kunyomi": "mi-ru"
+  },
+  {
+    "index": 977,
+    "kanji": "覧",
+    "grade": 6,
+    "strokes": 17,
+    "meaning": "perusal",
+    "onyomi": "ran",
+    "kunyomi": null
+  },
+  {
+    "index": 978,
+    "kanji": "討",
+    "grade": 6,
+    "strokes": 10,
+    "meaning": "chastise",
+    "onyomi": "tō",
+    "kunyomi": "u-tsu"
+  },
+  {
+    "index": 979,
+    "kanji": "訪",
+    "grade": 6,
+    "strokes": 11,
+    "meaning": "visit",
+    "onyomi": "hō",
+    "kunyomi": "otozu-reru"
+  },
+  {
+    "index": 980,
+    "kanji": "訳",
+    "grade": 6,
+    "strokes": 11,
+    "meaning": "translate",
+    "onyomi": "yaku",
+    "kunyomi": "wake"
+  },
+  {
+    "index": 981,
+    "kanji": "詞",
+    "grade": 6,
+    "strokes": 12,
+    "meaning": "poetry",
+    "onyomi": "shi",
+    "kunyomi": "kotoba"
+  },
+  {
+    "index": 982,
+    "kanji": "誌",
+    "grade": 6,
+    "strokes": 14,
+    "meaning": "document",
+    "onyomi": "shi",
+    "kunyomi": null
+  },
+  {
+    "index": 983,
+    "kanji": "認",
+    "grade": 6,
+    "strokes": 14,
+    "meaning": "recognize",
+    "onyomi": "nin",
+    "kunyomi": "mito-meru"
+  },
+  {
+    "index": 984,
+    "kanji": "誕",
+    "grade": 6,
+    "strokes": 15,
+    "meaning": "born",
+    "onyomi": "tan",
+    "kunyomi": null
+  },
+  {
+    "index": 985,
+    "kanji": "誠",
+    "grade": 6,
+    "strokes": 13,
+    "meaning": "sincerity",
+    "onyomi": "sei",
+    "kunyomi": "makoto"
+  },
+  {
+    "index": 986,
+    "kanji": "誤",
+    "grade": 6,
+    "strokes": 14,
+    "meaning": "mistake",
+    "onyomi": "go",
+    "kunyomi": "ayama-ru"
+  },
+  {
+    "index": 987,
+    "kanji": "論",
+    "grade": 6,
+    "strokes": 15,
+    "meaning": "theory",
+    "onyomi": "ron",
+    "kunyomi": null
+  },
+  {
+    "index": 988,
+    "kanji": "諸",
+    "grade": 6,
+    "strokes": 15,
+    "meaning": "various",
+    "onyomi": "sho",
+    "kunyomi": "moro"
+  },
+  {
+    "index": 989,
+    "kanji": "警",
+    "grade": 6,
+    "strokes": 19,
+    "meaning": "admonish",
+    "onyomi": "kei",
+    "kunyomi": "imashi-meru"
+  },
+  {
+    "index": 990,
+    "kanji": "貴",
+    "grade": 6,
+    "strokes": 12,
+    "meaning": "precious",
+    "onyomi": "ki",
+    "kunyomi": "tatto-i"
+  },
+  {
+    "index": 991,
+    "kanji": "賃",
+    "grade": 6,
+    "strokes": 13,
+    "meaning": "fare",
+    "onyomi": "chin",
+    "kunyomi": null
+  },
+  {
+    "index": 992,
+    "kanji": "遺",
+    "grade": 6,
+    "strokes": 15,
+    "meaning": "bequeath",
+    "onyomi": "i",
+    "kunyomi": null
+  },
+  {
+    "index": 993,
+    "kanji": "郵",
+    "grade": 6,
+    "strokes": 11,
+    "meaning": "mail",
+    "onyomi": "yū",
+    "kunyomi": null
+  },
+  {
+    "index": 994,
+    "kanji": "郷",
+    "grade": 6,
+    "strokes": 11,
+    "meaning": "home town",
+    "onyomi": "kyō",
+    "kunyomi": "gō"
+  },
+  {
+    "index": 995,
+    "kanji": "針",
+    "grade": 6,
+    "strokes": 10,
+    "meaning": "needle",
+    "onyomi": "shin",
+    "kunyomi": "hari"
+  },
+  {
+    "index": 996,
+    "kanji": "鋼",
+    "grade": 6,
+    "strokes": 16,
+    "meaning": "steel",
+    "onyomi": "kō",
+    "kunyomi": "hagane"
+  },
+  {
+    "index": 997,
+    "kanji": "閉",
+    "grade": 6,
+    "strokes": 11,
+    "meaning": "closed",
+    "onyomi": "hei",
+    "kunyomi": "shi-meru"
+  },
+  {
+    "index": 998,
+    "kanji": "閣",
+    "grade": 6,
+    "strokes": 14,
+    "meaning": "tower",
+    "onyomi": "kaku",
+    "kunyomi": null
+  },
+  {
+    "index": 999,
+    "kanji": "降",
+    "grade": 6,
+    "strokes": 10,
+    "meaning": "descend",
+    "onyomi": "kō",
+    "kunyomi": "o-riru"
+  },
+  {
+    "index": 1000,
+    "kanji": "陛",
+    "grade": 6,
+    "strokes": 10,
+    "meaning": "majesty",
+    "onyomi": "hei",
+    "kunyomi": null
+  },
+  {
+    "index": 1001,
+    "kanji": "除",
+    "grade": 6,
+    "strokes": 10,
+    "meaning": "exclude",
+    "onyomi": [
+      "jo",
+      "ji"
+    ],
+    "kunyomi": "nozo-ku"
+  },
+  {
+    "index": 1002,
+    "kanji": "障",
+    "grade": 6,
+    "strokes": 14,
+    "meaning": "hurt",
+    "onyomi": "shō",
+    "kunyomi": "sawa-ru"
+  },
+  {
+    "index": 1003,
+    "kanji": "難",
+    "grade": 6,
+    "strokes": 18,
+    "meaning": "difficult",
+    "onyomi": "nan",
+    "kunyomi": "muzuka-shii"
+  },
+  {
+    "index": 1004,
+    "kanji": "革",
+    "grade": 6,
+    "strokes": 9,
+    "meaning": "leather",
+    "onyomi": "kaku",
+    "kunyomi": "kawa"
+  },
+  {
+    "index": 1005,
+    "kanji": "頂",
+    "grade": 6,
+    "strokes": 11,
+    "meaning": "place on the head",
+    "onyomi": "chō",
+    "kunyomi": "itada-ku"
+  },
+  {
+    "index": 1006,
+    "kanji": "骨",
+    "grade": 6,
+    "strokes": 10,
+    "meaning": "bone",
+    "onyomi": "kotsu",
+    "kunyomi": "hone"
+  },
+  {
+    "index": 1007,
+    "kanji": "茨",
+    "grade": "S",
+    "strokes": 9,
+    "meaning": "caltrop",
+    "onyomi": [
+      "shi",
+      "ji"
+    ],
+    "kunyomi": [
+      "ibara",
+      "kusabuki",
+      "kaya"
+    ]
+  },
+  {
+    "index": 1008,
+    "kanji": "媛",
+    "grade": "S",
+    "strokes": 12,
+    "meaning": "beauty",
+    "onyomi": "en",
+    "kunyomi": "hime"
+  },
+  {
+    "index": 1009,
+    "kanji": "岡",
+    "grade": "S",
+    "strokes": 8,
+    "meaning": "ridge of crest of hill",
+    "onyomi": "kou",
+    "kunyomi": "oka"
+  },
+  {
+    "index": 1010,
+    "kanji": "潟",
+    "grade": "S",
+    "strokes": 15,
+    "meaning": "land impregnated with salt from the tide",
+    "onyomi": "seki",
+    "kunyomi": "kata"
+  },
+  {
+    "index": 1011,
+    "kanji": "岐",
+    "grade": "S",
+    "strokes": 7,
+    "meaning": "high",
+    "onyomi": [
+      "ki",
+      "gi"
+    ],
+    "kunyomi": "edamichi"
+  },
+  {
+    "index": 1012,
+    "kanji": "熊",
+    "grade": "S",
+    "strokes": 14,
+    "meaning": "bear",
+    "onyomi": "yuu",
+    "kunyomi": "kuma"
+  },
+  {
+    "index": 1013,
+    "kanji": "香",
+    "grade": "S",
+    "strokes": 9,
+    "meaning": "fragrant",
+    "onyomi": [
+      "kou",
+      "kyou"
+    ],
+    "kunyomi": [
+      "kaori",
+      "ka"
+    ]
+  },
+  {
+    "index": 1014,
+    "kanji": "佐",
+    "grade": "S",
+    "strokes": 7,
+    "meaning": "assist",
+    "onyomi": "sa",
+    "kunyomi": [
+      "tasuke",
+      "tasukeru",
+      "suke"
+    ]
+  },
+  {
+    "index": 1015,
+    "kanji": "埼",
+    "grade": "S",
+    "strokes": 11,
+    "meaning": "headland",
+    "onyomi": "ki",
+    "kunyomi": "saki"
+  },
+  {
+    "index": 1016,
+    "kanji": "崎",
+    "grade": "S",
+    "strokes": 11,
+    "meaning": "rough",
+    "onyomi": "ki",
+    "kunyomi": [
+      "saki",
+      "kewashii"
+    ]
+  },
+  {
+    "index": 1017,
+    "kanji": "滋",
+    "grade": "S",
+    "strokes": 12,
+    "meaning": "grow",
+    "onyomi": [
+      "ju",
+      "shi"
+    ],
+    "kunyomi": [
+      "shigeru",
+      "masu",
+      "masumasu"
+    ]
+  },
+  {
+    "index": 1018,
+    "kanji": "鹿",
+    "grade": "S",
+    "strokes": 11,
+    "meaning": "deer",
+    "onyomi": "roku",
+    "kunyomi": [
+      "shika",
+      "ka"
+    ]
+  },
+  {
+    "index": 1019,
+    "kanji": "縄",
+    "grade": "S",
+    "strokes": 15,
+    "meaning": "rope",
+    "onyomi": [
+      "jou",
+      "bin",
+      "you"
+    ],
+    "kunyomi": "nawa"
+  },
+  {
+    "index": 1020,
+    "kanji": "井",
+    "grade": "S",
+    "strokes": 4,
+    "meaning": "well",
+    "onyomi": [
+      "sei",
+      "shou"
+    ],
+    "kunyomi": [
+      "i",
+      "ido"
+    ]
+  },
+  {
+    "index": 1021,
+    "kanji": "沖",
+    "grade": "S",
+    "strokes": 7,
+    "meaning": "pour",
+    "onyomi": "chuu",
+    "kunyomi": [
+      "oki",
+      "waku"
+    ]
+  },
+  {
+    "index": 1022,
+    "kanji": "栃",
+    "grade": "S",
+    "strokes": 9,
+    "meaning": "type of oak",
+    "onyomi": null,
+    "kunyomi": "tochi"
+  },
+  {
+    "index": 1023,
+    "kanji": "奈",
+    "grade": "S",
+    "strokes": 8,
+    "meaning": "but",
+    "onyomi": [
+      "na",
+      "dai"
+    ],
+    "kunyomi": "karanashi"
+  },
+  {
+    "index": 1024,
+    "kanji": "梨",
+    "grade": "S",
+    "strokes": 11,
+    "meaning": "pear",
+    "onyomi": "ri",
+    "kunyomi": "nashi"
+  },
+  {
+    "index": 1025,
+    "kanji": "阪",
+    "grade": "S",
+    "strokes": 6,
+    "meaning": "hillside farmland",
+    "onyomi": "han",
+    "kunyomi": "saka"
+  },
+  {
+    "index": 1026,
+    "kanji": "阜",
+    "grade": "S",
+    "strokes": 8,
+    "meaning": "mound",
+    "onyomi": "fu",
+    "kunyomi": "oka"
+  }
+]

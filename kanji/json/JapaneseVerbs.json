@@ -1,0 +1,4292 @@
+{
+  "行く": {
+    "type": "irv",
+    "html": "行<rt>い</rt>く",
+    "english": "go",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "いきます",
+            "kanji": "行きます"
+          },
+          "casual": {
+            "kana": "いく",
+            "kanji": "行く"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "いきません",
+            "kanji": "行きません"
+          },
+          "casual": {
+            "kana": "いかない",
+            "kanji": "行かない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "いきました",
+            "kanji": "行きました"
+          },
+          "casual": {
+            "kana": "いった",
+            "kanji": "行った"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "いきませんでした",
+            "kanji": "行きませんでした"
+          },
+          "casual": {
+            "kana": "いかなかった",
+            "kanji": "行かなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "いって",
+        "kanji": "行って"
+      }
+    }
+  },
+  "する": {
+    "type": "irv",
+    "html": "する",
+    "english": "do, make",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "します",
+            "kanji": "します"
+          },
+          "casual": {
+            "kana": "する",
+            "kanji": "する"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "しません",
+            "kanji": "しません"
+          },
+          "casual": {
+            "kana": "しない",
+            "kanji": "しない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "しました",
+            "kanji": "しました"
+          },
+          "casual": {
+            "kana": "した",
+            "kanji": "した"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "しませんでした",
+            "kanji": "しませんでした"
+          },
+          "casual": {
+            "kana": "しなかった",
+            "kanji": "しなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "して",
+        "kanji": "して"
+      }
+    }
+  },
+  "来る": {
+    "type": "irv",
+    "html": "来<rt>く</rt>る",
+    "english": "come",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "きます",
+            "kanji": "来ます"
+          },
+          "casual": {
+            "kana": "くる",
+            "kanji": "来る"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "きません",
+            "kanji": "来ません"
+          },
+          "casual": {
+            "kana": "こない",
+            "kanji": "来ない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "きました",
+            "kanji": "来ました"
+          },
+          "casual": {
+            "kana": "きた",
+            "kanji": "来た"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "きませんでした",
+            "kanji": "来ませんでした"
+          },
+          "casual": {
+            "kana": "こなかった",
+            "kanji": "来なかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "きて",
+        "kanji": "来て"
+      }
+    }
+  },
+  "ある": {
+    "type": "irv",
+    "html": "ある",
+    "english": "have, exists, is (inanimate)",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "あります",
+            "kanji": "あります"
+          },
+          "casual": {
+            "kana": "ある",
+            "kanji": "ある"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "ありません",
+            "kanji": "ありません"
+          },
+          "casual": {
+            "kana": "ない",
+            "kanji": "ない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "ありました",
+            "kanji": "ありました"
+          },
+          "casual": {
+            "kana": "あった",
+            "kanji": "あった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "ありませんでした",
+            "kanji": "ありませんでした"
+          },
+          "casual": {
+            "kana": "なかった",
+            "kanji": "なかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "あって",
+        "kanji": "あって"
+      }
+    }
+  },
+  "問う": {
+    "type": "irv",
+    "html": "問<rt>と</rt>う",
+    "english": "ask, accuse",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "といます",
+            "kanji": "問います"
+          },
+          "casual": {
+            "kana": "とう",
+            "kanji": "問う"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "といません",
+            "kanji": "問いません"
+          },
+          "casual": {
+            "kana": "とわない",
+            "kanji": "問わない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "といました",
+            "kanji": "問いました"
+          },
+          "casual": {
+            "kana": "とうた",
+            "kanji": "問うた"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "といませんでした",
+            "kanji": "問いませんでした"
+          },
+          "casual": {
+            "kana": "とわなかった",
+            "kanji": "問わなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "とうて",
+        "kanji": "問うて"
+      }
+    }
+  },
+  "いる": {
+    "type": "ru",
+    "html": "いる",
+    "english": "exists, is (living things)",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "います",
+            "kanji": "います"
+          },
+          "casual": {
+            "kana": "いる",
+            "kanji": "いる"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "いません",
+            "kanji": "いません"
+          },
+          "casual": {
+            "kana": "いない",
+            "kanji": "いない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "いました",
+            "kanji": "いました"
+          },
+          "casual": {
+            "kana": "いた",
+            "kanji": "いた"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "いませんでした",
+            "kanji": "いませんでした"
+          },
+          "casual": {
+            "kana": "いなかった",
+            "kanji": "いなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "いて",
+        "kanji": "いて"
+      }
+    }
+  },
+  "出来る": {
+    "type": "ru",
+    "html": "出<rt>で</rt>来<rt>き</rt>る",
+    "english": "able, can do",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "できます",
+            "kanji": "出来ます"
+          },
+          "casual": {
+            "kana": "できる",
+            "kanji": "出来る"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "できません",
+            "kanji": "出来ません"
+          },
+          "casual": {
+            "kana": "できない",
+            "kanji": "出来ない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "できました",
+            "kanji": "出来ました"
+          },
+          "casual": {
+            "kana": "できた",
+            "kanji": "出来た"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "できませんでした",
+            "kanji": "出来ませんでした"
+          },
+          "casual": {
+            "kana": "できなかった",
+            "kanji": "出来なかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "できて",
+        "kanji": "出来て"
+      }
+    }
+  },
+  "始める": {
+    "type": "ru",
+    "html": "始<rt>はじ</rt>める",
+    "english": "begin",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "はじめます",
+            "kanji": "始めます"
+          },
+          "casual": {
+            "kana": "はじめる",
+            "kanji": "始める"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "はじめません",
+            "kanji": "始めません"
+          },
+          "casual": {
+            "kana": "はじめない",
+            "kanji": "始めない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "はじめました",
+            "kanji": "始めました"
+          },
+          "casual": {
+            "kana": "はじめた",
+            "kanji": "始めた"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "はじめませんでした",
+            "kanji": "始めませんでした"
+          },
+          "casual": {
+            "kana": "はじめなかった",
+            "kanji": "始めなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "はじめて",
+        "kanji": "始めて"
+      }
+    }
+  },
+  "借りる": {
+    "type": "ru",
+    "html": "借<rt>か</rt>りる",
+    "english": "borrow, rent",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "かります",
+            "kanji": "借ります"
+          },
+          "casual": {
+            "kana": "かりる",
+            "kanji": "借りる"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "かりません",
+            "kanji": "借りません"
+          },
+          "casual": {
+            "kana": "かりない",
+            "kanji": "借りない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "かりました",
+            "kanji": "借りました"
+          },
+          "casual": {
+            "kana": "かりた",
+            "kanji": "借りた"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "かりませんでした",
+            "kanji": "借りませんでした"
+          },
+          "casual": {
+            "kana": "かりなかった",
+            "kanji": "借りなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "かりて",
+        "kanji": "借りて"
+      }
+    }
+  },
+  "続ける": {
+    "type": "ru",
+    "html": "続<rt>つづ</rt>ける",
+    "english": "continue, proceed",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "つづけます",
+            "kanji": "続けます"
+          },
+          "casual": {
+            "kana": "つづける",
+            "kanji": "続ける"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "つづけません",
+            "kanji": "続けません"
+          },
+          "casual": {
+            "kana": "つづけない",
+            "kanji": "続けない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "つづけました",
+            "kanji": "続けました"
+          },
+          "casual": {
+            "kana": "つづけた",
+            "kanji": "続けた"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "つづけませんでした",
+            "kanji": "続けませんでした"
+          },
+          "casual": {
+            "kana": "つづけなかった",
+            "kanji": "続けなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "つづけて",
+        "kanji": "続けて"
+      }
+    }
+  },
+  "決める": {
+    "type": "ru",
+    "html": "決<rt>き</rt>める",
+    "english": "decide, choose",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "きめます",
+            "kanji": "決めます"
+          },
+          "casual": {
+            "kana": "きめる",
+            "kanji": "決める"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "きめません",
+            "kanji": "決めません"
+          },
+          "casual": {
+            "kana": "きめない",
+            "kanji": "決めない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "きめました",
+            "kanji": "決めました"
+          },
+          "casual": {
+            "kana": "きめた",
+            "kanji": "決めた"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "きめませんでした",
+            "kanji": "決めませんでした"
+          },
+          "casual": {
+            "kana": "きめなかった",
+            "kanji": "決めなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "きめて",
+        "kanji": "決めて"
+      }
+    }
+  },
+  "食べる": {
+    "type": "ru",
+    "html": "食<rt>た</rt>べる",
+    "english": "eat",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "たべます",
+            "kanji": "食べます"
+          },
+          "casual": {
+            "kana": "たべる",
+            "kanji": "食べる"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "たべません",
+            "kanji": "食べません"
+          },
+          "casual": {
+            "kana": "たべない",
+            "kanji": "食べない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "たべました",
+            "kanji": "食べました"
+          },
+          "casual": {
+            "kana": "たべた",
+            "kanji": "食べた"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "たべませんでした",
+            "kanji": "食べませんでした"
+          },
+          "casual": {
+            "kana": "たべなかった",
+            "kanji": "食べなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "たべて",
+        "kanji": "食べて"
+      }
+    }
+  },
+  "忘れる": {
+    "type": "ru",
+    "html": "忘<rt>わす</rt>れる",
+    "english": "forget",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "わすれます",
+            "kanji": "忘れます"
+          },
+          "casual": {
+            "kana": "わすれる",
+            "kanji": "忘れる"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "わすれません",
+            "kanji": "忘れません"
+          },
+          "casual": {
+            "kana": "わすれない",
+            "kanji": "忘れない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "わすれました",
+            "kanji": "忘れました"
+          },
+          "casual": {
+            "kana": "わすれた",
+            "kanji": "忘れた"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "わすれませんでした",
+            "kanji": "忘れませんでした"
+          },
+          "casual": {
+            "kana": "わすれなかった",
+            "kanji": "忘れなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "わすれて",
+        "kanji": "忘れて"
+      }
+    }
+  },
+  "降りる": {
+    "type": "ru",
+    "html": "降<rt>お</rt>りる",
+    "english": "get off, go down",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "おります",
+            "kanji": "降ります"
+          },
+          "casual": {
+            "kana": "おりる",
+            "kanji": "降りる"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "おりません",
+            "kanji": "降りません"
+          },
+          "casual": {
+            "kana": "おりない",
+            "kanji": "降りない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "おりました",
+            "kanji": "降りました"
+          },
+          "casual": {
+            "kana": "おりた",
+            "kanji": "降りた"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "おりませんでした",
+            "kanji": "降りませんでした"
+          },
+          "casual": {
+            "kana": "おりなかった",
+            "kanji": "降りなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "おりて",
+        "kanji": "降りて"
+      }
+    }
+  },
+  "疲れる": {
+    "type": "ru",
+    "html": "疲<rt>つか</rt>れる",
+    "english": "get tired",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "つかれます",
+            "kanji": "疲れます"
+          },
+          "casual": {
+            "kana": "つかれる",
+            "kanji": "疲れる"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "つかれません",
+            "kanji": "疲れません"
+          },
+          "casual": {
+            "kana": "つかれない",
+            "kanji": "疲れない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "つかれました",
+            "kanji": "疲れました"
+          },
+          "casual": {
+            "kana": "つかれた",
+            "kanji": "疲れた"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "つかれませんでした",
+            "kanji": "疲れませんでした"
+          },
+          "casual": {
+            "kana": "つかれなかった",
+            "kanji": "疲れなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "つかれて",
+        "kanji": "疲れて"
+      }
+    }
+  },
+  "起きる": {
+    "type": "ru",
+    "html": "起<rt>お</rt>きる",
+    "english": "get up, wake up",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "おきます",
+            "kanji": "起きます"
+          },
+          "casual": {
+            "kana": "おきる",
+            "kanji": "起きる"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "おきません",
+            "kanji": "起きません"
+          },
+          "casual": {
+            "kana": "おきない",
+            "kanji": "起きない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "おきました",
+            "kanji": "起きました"
+          },
+          "casual": {
+            "kana": "おきた",
+            "kanji": "起きた"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "おきませんでした",
+            "kanji": "起きませんでした"
+          },
+          "casual": {
+            "kana": "おきなかった",
+            "kanji": "起きなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "おきて",
+        "kanji": "起きて"
+      }
+    }
+  },
+  "あげる": {
+    "type": "ru",
+    "html": "あげる",
+    "english": "give",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "あげます",
+            "kanji": "あげます"
+          },
+          "casual": {
+            "kana": "あげる",
+            "kanji": "あげる"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "あげません",
+            "kanji": "あげません"
+          },
+          "casual": {
+            "kana": "あげない",
+            "kanji": "あげない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "あげました",
+            "kanji": "あげました"
+          },
+          "casual": {
+            "kana": "あげた",
+            "kanji": "あげた"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "あげませんでした",
+            "kanji": "あげませんでした"
+          },
+          "casual": {
+            "kana": "あげなかった",
+            "kanji": "あげなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "あげて",
+        "kanji": "あげて"
+      }
+    }
+  },
+  "出る": {
+    "type": "ru",
+    "html": "出<rt>で</rt>る",
+    "english": "leave, exit, appear",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "でます",
+            "kanji": "出ます"
+          },
+          "casual": {
+            "kana": "でる",
+            "kanji": "出る"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "でません",
+            "kanji": "出ません"
+          },
+          "casual": {
+            "kana": "でない",
+            "kanji": "出ない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "でました",
+            "kanji": "出ました"
+          },
+          "casual": {
+            "kana": "でた",
+            "kanji": "出た"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "でませんでした",
+            "kanji": "出ませんでした"
+          },
+          "casual": {
+            "kana": "でなかった",
+            "kanji": "出なかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "でて",
+        "kanji": "出て"
+      }
+    }
+  },
+  "助ける": {
+    "type": "ru",
+    "html": "助<rt>たす</rt>ける",
+    "english": "help",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "たすけます",
+            "kanji": "助けます"
+          },
+          "casual": {
+            "kana": "たすける",
+            "kanji": "助ける"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "たすけません",
+            "kanji": "助けません"
+          },
+          "casual": {
+            "kana": "たすけない",
+            "kanji": "助けない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "たすけました",
+            "kanji": "助けました"
+          },
+          "casual": {
+            "kana": "たすけた",
+            "kanji": "助けた"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "たすけませんでした",
+            "kanji": "助けませんでした"
+          },
+          "casual": {
+            "kana": "たすけなかった",
+            "kanji": "助けなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "たすけて",
+        "kanji": "助けて"
+      }
+    }
+  },
+  "見る": {
+    "type": "ru",
+    "html": "見<rt>み</rt>る",
+    "english": "see, look",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "みます",
+            "kanji": "見ます"
+          },
+          "casual": {
+            "kana": "みる",
+            "kanji": "見る"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "みません",
+            "kanji": "見ません"
+          },
+          "casual": {
+            "kana": "みない",
+            "kanji": "見ない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "みました",
+            "kanji": "見ました"
+          },
+          "casual": {
+            "kana": "みた",
+            "kanji": "見た"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "みませんでした",
+            "kanji": "見ませんでした"
+          },
+          "casual": {
+            "kana": "みなかった",
+            "kanji": "見なかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "みて",
+        "kanji": "見て"
+      }
+    }
+  },
+  "開ける": {
+    "type": "ru",
+    "html": "開<rt>あ</rt>ける",
+    "english": "open",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "あけます",
+            "kanji": "開けます"
+          },
+          "casual": {
+            "kana": "あける",
+            "kanji": "開ける"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "あけません",
+            "kanji": "開けません"
+          },
+          "casual": {
+            "kana": "あけない",
+            "kanji": "開けない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "あけました",
+            "kanji": "開けました"
+          },
+          "casual": {
+            "kana": "あけた",
+            "kanji": "開けた"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "あけませんでした",
+            "kanji": "開けませんでした"
+          },
+          "casual": {
+            "kana": "あけなかった",
+            "kanji": "開けなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "あけて",
+        "kanji": "開けて"
+      }
+    }
+  },
+  "覚える": {
+    "type": "ru",
+    "html": "覚<rt>おぼ</rt>える",
+    "english": "remember, learn",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "おぼえます",
+            "kanji": "覚えます"
+          },
+          "casual": {
+            "kana": "おぼえる",
+            "kanji": "覚える"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "おぼえません",
+            "kanji": "覚えません"
+          },
+          "casual": {
+            "kana": "おぼえない",
+            "kanji": "覚えない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "おぼえました",
+            "kanji": "覚えました"
+          },
+          "casual": {
+            "kana": "おぼえた",
+            "kanji": "覚えた"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "おぼえませんでした",
+            "kanji": "覚えませんでした"
+          },
+          "casual": {
+            "kana": "おぼえなかった",
+            "kanji": "覚えなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "おぼえて",
+        "kanji": "覚えて"
+      }
+    }
+  },
+  "寝る": {
+    "type": "ru",
+    "html": "寝<rt>ね</rt>る",
+    "english": "sleep, go to bed",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "ねます",
+            "kanji": "寝ます"
+          },
+          "casual": {
+            "kana": "ねる",
+            "kanji": "寝る"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "ねません",
+            "kanji": "寝ません"
+          },
+          "casual": {
+            "kana": "ねない",
+            "kanji": "寝ない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "ねました",
+            "kanji": "寝ました"
+          },
+          "casual": {
+            "kana": "ねた",
+            "kanji": "寝た"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "ねませんでした",
+            "kanji": "寝ませんでした"
+          },
+          "casual": {
+            "kana": "ねなかった",
+            "kanji": "寝なかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "ねて",
+        "kanji": "寝て"
+      }
+    }
+  },
+  "閉める": {
+    "type": "ru",
+    "html": "閉<rt>し</rt>める",
+    "english": "close",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "しめます",
+            "kanji": "閉めます"
+          },
+          "casual": {
+            "kana": "しめる",
+            "kanji": "閉める"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "しめません",
+            "kanji": "閉めません"
+          },
+          "casual": {
+            "kana": "しめない",
+            "kanji": "閉めない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "しめました",
+            "kanji": "閉めました"
+          },
+          "casual": {
+            "kana": "しめた",
+            "kanji": "閉めた"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "しめませんでした",
+            "kanji": "閉めませんでした"
+          },
+          "casual": {
+            "kana": "しめなかった",
+            "kanji": "閉めなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "しめて",
+        "kanji": "閉めて"
+      }
+    }
+  },
+  "着る": {
+    "type": "ru",
+    "html": "着<rt>き</rt>る",
+    "english": "put on, wear (shirt, jacket, etc)",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "きます",
+            "kanji": "着ます"
+          },
+          "casual": {
+            "kana": "きる",
+            "kanji": "着る"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "きません",
+            "kanji": "着ません"
+          },
+          "casual": {
+            "kana": "きない",
+            "kanji": "着ない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "きました",
+            "kanji": "着ました"
+          },
+          "casual": {
+            "kana": "きた",
+            "kanji": "着た"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "きませんでした",
+            "kanji": "着ませんでした"
+          },
+          "casual": {
+            "kana": "きなかった",
+            "kanji": "着なかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "きて",
+        "kanji": "着て"
+      }
+    }
+  },
+  "なる": {
+    "type": "u",
+    "html": "なる",
+    "english": "become",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "なります",
+            "kanji": "なります"
+          },
+          "casual": {
+            "kana": "なる",
+            "kanji": "なる"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "なりません",
+            "kanji": "なりません"
+          },
+          "casual": {
+            "kana": "ならない",
+            "kanji": "ならない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "なりました",
+            "kanji": "なりました"
+          },
+          "casual": {
+            "kana": "なった",
+            "kanji": "なった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "なりませんでした",
+            "kanji": "なりませんでした"
+          },
+          "casual": {
+            "kana": "ならなかった",
+            "kanji": "ならなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "なって",
+        "kanji": "なって"
+      }
+    }
+  },
+  "乗る": {
+    "type": "u",
+    "html": "乗<rt>の</rt>る",
+    "english": "board, ride",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "のります",
+            "kanji": "乗ります"
+          },
+          "casual": {
+            "kana": "のる",
+            "kanji": "乗る"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "のりません",
+            "kanji": "乗りません"
+          },
+          "casual": {
+            "kana": "のらない",
+            "kanji": "乗らない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "のりました",
+            "kanji": "乗りました"
+          },
+          "casual": {
+            "kana": "のった",
+            "kanji": "乗った"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "のりませんでした",
+            "kanji": "乗りませんでした"
+          },
+          "casual": {
+            "kana": "のらなかった",
+            "kanji": "乗らなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "のって",
+        "kanji": "乗って"
+      }
+    }
+  },
+  "切る": {
+    "type": "u",
+    "html": "切<rt>き</rt>る",
+    "english": "cut",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "きります",
+            "kanji": "切ります"
+          },
+          "casual": {
+            "kana": "きる",
+            "kanji": "切る"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "きりません",
+            "kanji": "切りません"
+          },
+          "casual": {
+            "kana": "きらない",
+            "kanji": "切らない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "きりました",
+            "kanji": "切りました"
+          },
+          "casual": {
+            "kana": "きった",
+            "kanji": "切った"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "きりませんでした",
+            "kanji": "切りませんでした"
+          },
+          "casual": {
+            "kana": "きらなかった",
+            "kanji": "切らなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "きって",
+        "kanji": "切って"
+      }
+    }
+  },
+  "やる": {
+    "type": "u",
+    "html": "やる",
+    "english": "do, give",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "やります",
+            "kanji": "やります"
+          },
+          "casual": {
+            "kana": "やる",
+            "kanji": "やる"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "やりません",
+            "kanji": "やりません"
+          },
+          "casual": {
+            "kana": "やらない",
+            "kanji": "やらない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "やりました",
+            "kanji": "やりました"
+          },
+          "casual": {
+            "kana": "やった",
+            "kanji": "やった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "やりませんでした",
+            "kanji": "やりませんでした"
+          },
+          "casual": {
+            "kana": "やらなかった",
+            "kanji": "やらなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "やって",
+        "kanji": "やって"
+      }
+    }
+  },
+  "終わる": {
+    "type": "u",
+    "html": "終<rt>お</rt>わる",
+    "english": "end",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "おわります",
+            "kanji": "終わります"
+          },
+          "casual": {
+            "kana": "おわる",
+            "kanji": "終わる"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "おわりません",
+            "kanji": "終わりません"
+          },
+          "casual": {
+            "kana": "おわらない",
+            "kanji": "終わらない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "おわりました",
+            "kanji": "終わりました"
+          },
+          "casual": {
+            "kana": "おわった",
+            "kanji": "終わった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "おわりませんでした",
+            "kanji": "終わりませんでした"
+          },
+          "casual": {
+            "kana": "おわらなかった",
+            "kanji": "終わらなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "おわって",
+        "kanji": "終わって"
+      }
+    }
+  },
+  "上がる": {
+    "type": "u",
+    "html": "上<rt>あ</rt>がる",
+    "english": "go up, rise",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "あがります",
+            "kanji": "上がります"
+          },
+          "casual": {
+            "kana": "あがる",
+            "kanji": "上がる"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "あがりません",
+            "kanji": "上がりません"
+          },
+          "casual": {
+            "kana": "あがらない",
+            "kanji": "上がらない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "あがりました",
+            "kanji": "上がりました"
+          },
+          "casual": {
+            "kana": "あがった",
+            "kanji": "上がった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "あがりませんでした",
+            "kanji": "上がりませんでした"
+          },
+          "casual": {
+            "kana": "あがらなかった",
+            "kanji": "上がらなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "あがって",
+        "kanji": "上がって"
+      }
+    }
+  },
+  "知る": {
+    "type": "u",
+    "html": "知<rt>し</rt>る",
+    "english": "know",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "しります",
+            "kanji": "知ります"
+          },
+          "casual": {
+            "kana": "しる",
+            "kanji": "知る"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "しりません",
+            "kanji": "知りません"
+          },
+          "casual": {
+            "kana": "しらない",
+            "kanji": "知らない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "しりました",
+            "kanji": "知りました"
+          },
+          "casual": {
+            "kana": "しった",
+            "kanji": "知った"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "しりませんでした",
+            "kanji": "知りませんでした"
+          },
+          "casual": {
+            "kana": "しらなかった",
+            "kanji": "知らなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "しって",
+        "kanji": "知って"
+      }
+    }
+  },
+  "作る": {
+    "type": "u",
+    "html": "作<rt>つく</rt>る",
+    "english": "make, build",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "つくります",
+            "kanji": "作ります"
+          },
+          "casual": {
+            "kana": "つくる",
+            "kanji": "作る"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "つくりません",
+            "kanji": "作りません"
+          },
+          "casual": {
+            "kana": "つくらない",
+            "kanji": "作らない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "つくりました",
+            "kanji": "作りました"
+          },
+          "casual": {
+            "kana": "つくった",
+            "kanji": "作った"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "つくりませんでした",
+            "kanji": "作りませんでした"
+          },
+          "casual": {
+            "kana": "つくらなかった",
+            "kanji": "作らなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "つくって",
+        "kanji": "作って"
+      }
+    }
+  },
+  "帰る": {
+    "type": "u",
+    "html": "帰<rt>かえ</rt>る",
+    "english": "return, go home",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "かえります",
+            "kanji": "帰ります"
+          },
+          "casual": {
+            "kana": "かえる",
+            "kanji": "帰る"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "かえりません",
+            "kanji": "帰りません"
+          },
+          "casual": {
+            "kana": "かえらない",
+            "kanji": "帰らない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "かえりました",
+            "kanji": "帰りました"
+          },
+          "casual": {
+            "kana": "かえった",
+            "kanji": "帰った"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "かえりませんでした",
+            "kanji": "帰りませんでした"
+          },
+          "casual": {
+            "kana": "かえらなかった",
+            "kanji": "帰らなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "かえって",
+        "kanji": "帰って"
+      }
+    }
+  },
+  "取る": {
+    "type": "u",
+    "html": "取<rt>と</rt>る",
+    "english": "take, steal",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "とります",
+            "kanji": "取ります"
+          },
+          "casual": {
+            "kana": "とる",
+            "kanji": "取る"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "とりません",
+            "kanji": "取りません"
+          },
+          "casual": {
+            "kana": "とらない",
+            "kanji": "取らない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "とりました",
+            "kanji": "取りました"
+          },
+          "casual": {
+            "kana": "とった",
+            "kanji": "取った"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "とりませんでした",
+            "kanji": "取りませんでした"
+          },
+          "casual": {
+            "kana": "とらなかった",
+            "kanji": "取らなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "とって",
+        "kanji": "取って"
+      }
+    }
+  },
+  "買う": {
+    "type": "u",
+    "html": "買<rt>か</rt>う",
+    "english": "buy",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "かいます",
+            "kanji": "買います"
+          },
+          "casual": {
+            "kana": "かう",
+            "kanji": "買う"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "かいません",
+            "kanji": "買いません"
+          },
+          "casual": {
+            "kana": "かわない",
+            "kanji": "買わない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "かいました",
+            "kanji": "買いました"
+          },
+          "casual": {
+            "kana": "かった",
+            "kanji": "買った"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "かいませんでした",
+            "kanji": "買いませんでした"
+          },
+          "casual": {
+            "kana": "かわなかった",
+            "kanji": "買わなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "かって",
+        "kanji": "買って"
+      }
+    }
+  },
+  "笑う": {
+    "type": "u",
+    "html": "笑<rt>わら</rt>う",
+    "english": "laugh, smile",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "わらいます",
+            "kanji": "笑います"
+          },
+          "casual": {
+            "kana": "わらう",
+            "kanji": "笑う"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "わらいません",
+            "kanji": "笑いません"
+          },
+          "casual": {
+            "kana": "わらわない",
+            "kanji": "笑わない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "わらいました",
+            "kanji": "笑いました"
+          },
+          "casual": {
+            "kana": "わらった",
+            "kanji": "笑った"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "わらいませんでした",
+            "kanji": "笑いませんでした"
+          },
+          "casual": {
+            "kana": "わらわなかった",
+            "kanji": "笑わなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "わらって",
+        "kanji": "笑って"
+      }
+    }
+  },
+  "会う": {
+    "type": "u",
+    "html": "会<rt>あ</rt>う",
+    "english": "meet",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "あいます",
+            "kanji": "会います"
+          },
+          "casual": {
+            "kana": "あう",
+            "kanji": "会う"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "あいません",
+            "kanji": "会いません"
+          },
+          "casual": {
+            "kana": "あわない",
+            "kanji": "会わない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "あいました",
+            "kanji": "会いました"
+          },
+          "casual": {
+            "kana": "あった",
+            "kanji": "会った"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "あいませんでした",
+            "kanji": "会いませんでした"
+          },
+          "casual": {
+            "kana": "あわなかった",
+            "kanji": "会わなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "あって",
+        "kanji": "会って"
+      }
+    }
+  },
+  "言う": {
+    "type": "u",
+    "html": "言<rt>い</rt>う",
+    "english": "say, utter",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "いいます",
+            "kanji": "言います"
+          },
+          "casual": {
+            "kana": "いう",
+            "kanji": "言う"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "いいません",
+            "kanji": "言いません"
+          },
+          "casual": {
+            "kana": "いわない",
+            "kanji": "言わない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "いいました",
+            "kanji": "言いました"
+          },
+          "casual": {
+            "kana": "いった",
+            "kanji": "言った"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "いいませんでした",
+            "kanji": "言いませんでした"
+          },
+          "casual": {
+            "kana": "いわなかった",
+            "kanji": "言わなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "いって",
+        "kanji": "言って"
+      }
+    }
+  },
+  "思う": {
+    "type": "u",
+    "html": "思<rt>おも</rt>う",
+    "english": "think, believe",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "おもいます",
+            "kanji": "思います"
+          },
+          "casual": {
+            "kana": "おもう",
+            "kanji": "思う"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "おもいません",
+            "kanji": "思いません"
+          },
+          "casual": {
+            "kana": "おもわない",
+            "kanji": "思わない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "おもいました",
+            "kanji": "思いました"
+          },
+          "casual": {
+            "kana": "おもった",
+            "kanji": "思った"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "おもいませんでした",
+            "kanji": "思いませんでした"
+          },
+          "casual": {
+            "kana": "おもわなかった",
+            "kanji": "思わなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "おもって",
+        "kanji": "思って"
+      }
+    }
+  },
+  "使う": {
+    "type": "u",
+    "html": "使<rt>つか</rt>う",
+    "english": "use",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "つかいます",
+            "kanji": "使います"
+          },
+          "casual": {
+            "kana": "つかう",
+            "kanji": "使う"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "つかいません",
+            "kanji": "使いません"
+          },
+          "casual": {
+            "kana": "つかわない",
+            "kanji": "使わない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "つかいました",
+            "kanji": "使いました"
+          },
+          "casual": {
+            "kana": "つかった",
+            "kanji": "使った"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "つかいませんでした",
+            "kanji": "使いませんでした"
+          },
+          "casual": {
+            "kana": "つかわなかった",
+            "kanji": "使わなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "つかって",
+        "kanji": "使って"
+      }
+    }
+  },
+  "持つ": {
+    "type": "u",
+    "html": "持<rt>も</rt>つ",
+    "english": "hold, have",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "もちます",
+            "kanji": "持ちます"
+          },
+          "casual": {
+            "kana": "もつ",
+            "kanji": "持つ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "もちません",
+            "kanji": "持ちません"
+          },
+          "casual": {
+            "kana": "もたない",
+            "kanji": "持たない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "もちました",
+            "kanji": "持ちました"
+          },
+          "casual": {
+            "kana": "もった",
+            "kanji": "持った"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "もちませんでした",
+            "kanji": "持ちませんでした"
+          },
+          "casual": {
+            "kana": "もたなかった",
+            "kanji": "持たなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "もって",
+        "kanji": "持って"
+      }
+    }
+  },
+  "待つ": {
+    "type": "u",
+    "html": "待<rt>ま</rt>つ",
+    "english": "wait",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "まちます",
+            "kanji": "待ちます"
+          },
+          "casual": {
+            "kana": "まつ",
+            "kanji": "待つ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "まちません",
+            "kanji": "待ちません"
+          },
+          "casual": {
+            "kana": "またない",
+            "kanji": "待たない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "まちました",
+            "kanji": "待ちました"
+          },
+          "casual": {
+            "kana": "まった",
+            "kanji": "待った"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "まちませんでした",
+            "kanji": "待ちませんでした"
+          },
+          "casual": {
+            "kana": "またなかった",
+            "kanji": "待たなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "まって",
+        "kanji": "待って"
+      }
+    }
+  },
+  "立つ": {
+    "type": "u",
+    "html": "立<rt>た</rt>つ",
+    "english": "stand up",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "たちます",
+            "kanji": "立ちます"
+          },
+          "casual": {
+            "kana": "たつ",
+            "kanji": "立つ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "たちません",
+            "kanji": "立ちません"
+          },
+          "casual": {
+            "kana": "たたない",
+            "kanji": "立たない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "たちました",
+            "kanji": "立ちました"
+          },
+          "casual": {
+            "kana": "たった",
+            "kanji": "立った"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "たちませんでした",
+            "kanji": "立ちませんでした"
+          },
+          "casual": {
+            "kana": "たたなかった",
+            "kanji": "立たなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "たって",
+        "kanji": "立って"
+      }
+    }
+  },
+  "聞く": {
+    "type": "u",
+    "html": "聞<rt>き</rt>く",
+    "english": "hear, listen",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "ききます",
+            "kanji": "聞きます"
+          },
+          "casual": {
+            "kana": "きく",
+            "kanji": "聞く"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "ききません",
+            "kanji": "聞きません"
+          },
+          "casual": {
+            "kana": "きかない",
+            "kanji": "聞かない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "ききました",
+            "kanji": "聞きました"
+          },
+          "casual": {
+            "kana": "きいた",
+            "kanji": "聞いた"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "ききませんでした",
+            "kanji": "聞きませんでした"
+          },
+          "casual": {
+            "kana": "きかなかった",
+            "kanji": "聞かなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "きいて",
+        "kanji": "聞いて"
+      }
+    }
+  },
+  "引く": {
+    "type": "u",
+    "html": "引<rt>ひ</rt>く",
+    "english": "pull, tug",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "ひきます",
+            "kanji": "引きます"
+          },
+          "casual": {
+            "kana": "ひく",
+            "kanji": "引く"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "ひきません",
+            "kanji": "引きません"
+          },
+          "casual": {
+            "kana": "ひかない",
+            "kanji": "引かない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "ひきました",
+            "kanji": "引きました"
+          },
+          "casual": {
+            "kana": "ひいた",
+            "kanji": "引いた"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "ひきませんでした",
+            "kanji": "引きませんでした"
+          },
+          "casual": {
+            "kana": "ひかなかった",
+            "kanji": "引かなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "ひいて",
+        "kanji": "引いて"
+      }
+    }
+  },
+  "履く": {
+    "type": "u",
+    "html": "履<rt>は</rt>く",
+    "english": "put on, wear (pants, skirt, shoes, etc)",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "はきます",
+            "kanji": "履きます"
+          },
+          "casual": {
+            "kana": "はく",
+            "kanji": "履く"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "はきません",
+            "kanji": "履きません"
+          },
+          "casual": {
+            "kana": "はかない",
+            "kanji": "履かない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "はきました",
+            "kanji": "履きました"
+          },
+          "casual": {
+            "kana": "はいた",
+            "kanji": "履いた"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "はきませんでした",
+            "kanji": "履きませんでした"
+          },
+          "casual": {
+            "kana": "はかなかった",
+            "kanji": "履かなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "はいて",
+        "kanji": "履いて"
+      }
+    }
+  },
+  "歩く": {
+    "type": "u",
+    "html": "歩<rt>ある</rt>く",
+    "english": "walk",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "あるきます",
+            "kanji": "歩きます"
+          },
+          "casual": {
+            "kana": "あるく",
+            "kanji": "歩く"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "あるきません",
+            "kanji": "歩きません"
+          },
+          "casual": {
+            "kana": "あるかない",
+            "kanji": "歩かない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "あるきました",
+            "kanji": "歩きました"
+          },
+          "casual": {
+            "kana": "あるいた",
+            "kanji": "歩いた"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "あるきませんでした",
+            "kanji": "歩きませんでした"
+          },
+          "casual": {
+            "kana": "あるかなかった",
+            "kanji": "歩かなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "あるいて",
+        "kanji": "歩いて"
+      }
+    }
+  },
+  "書く": {
+    "type": "u",
+    "html": "書<rt>か</rt>く",
+    "english": "write",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "かきます",
+            "kanji": "書きます"
+          },
+          "casual": {
+            "kana": "かく",
+            "kanji": "書く"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "かきません",
+            "kanji": "書きません"
+          },
+          "casual": {
+            "kana": "かかない",
+            "kanji": "書かない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "かきました",
+            "kanji": "書きました"
+          },
+          "casual": {
+            "kana": "かいた",
+            "kanji": "書いた"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "かきませんでした",
+            "kanji": "書きませんでした"
+          },
+          "casual": {
+            "kana": "かかなかった",
+            "kanji": "書かなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "かいて",
+        "kanji": "書いて"
+      }
+    }
+  },
+  "働く": {
+    "type": "u",
+    "html": "働<rt>はたら</rt>く",
+    "english": "work",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "はたらきます",
+            "kanji": "働きます"
+          },
+          "casual": {
+            "kana": "はたらく",
+            "kanji": "働く"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "はたらきません",
+            "kanji": "働きません"
+          },
+          "casual": {
+            "kana": "はたらかない",
+            "kanji": "働かない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "はたらきました",
+            "kanji": "働きました"
+          },
+          "casual": {
+            "kana": "はたらいた",
+            "kanji": "働いた"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "はたらきませんでした",
+            "kanji": "働きませんでした"
+          },
+          "casual": {
+            "kana": "はたらかなかった",
+            "kanji": "働かなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "はたらいて",
+        "kanji": "働いて"
+      }
+    }
+  },
+  "死ぬ": {
+    "type": "u",
+    "html": "死<rt>し</rt>ぬ",
+    "english": "die, pass away",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "しにます",
+            "kanji": "死にます"
+          },
+          "casual": {
+            "kana": "しぬ",
+            "kanji": "死ぬ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "しにません",
+            "kanji": "死にません"
+          },
+          "casual": {
+            "kana": "しなない",
+            "kanji": "死なない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "しにました",
+            "kanji": "死にました"
+          },
+          "casual": {
+            "kana": "しんだ",
+            "kanji": "死んだ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "しにませんでした",
+            "kanji": "死にませんでした"
+          },
+          "casual": {
+            "kana": "しななかった",
+            "kanji": "死ななかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "しんで",
+        "kanji": "死んで"
+      }
+    }
+  },
+  "飲む": {
+    "type": "u",
+    "html": "飲<rt>の</rt>む",
+    "english": "drink",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "のみます",
+            "kanji": "飲みます"
+          },
+          "casual": {
+            "kana": "のむ",
+            "kanji": "飲む"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "のみません",
+            "kanji": "飲みません"
+          },
+          "casual": {
+            "kana": "のまない",
+            "kanji": "飲まない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "のみました",
+            "kanji": "飲みました"
+          },
+          "casual": {
+            "kana": "のんだ",
+            "kanji": "飲んだ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "のみませんでした",
+            "kanji": "飲みませんでした"
+          },
+          "casual": {
+            "kana": "のまなかった",
+            "kanji": "飲まなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "のんで",
+        "kanji": "飲んで"
+      }
+    }
+  },
+  "楽しむ": {
+    "type": "u",
+    "html": "楽<rt>たの</rt>しむ",
+    "english": "enjoy, have fun",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "たのしみます",
+            "kanji": "楽しみます"
+          },
+          "casual": {
+            "kana": "たのしむ",
+            "kanji": "楽しむ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "たのしみません",
+            "kanji": "楽しみません"
+          },
+          "casual": {
+            "kana": "たのしまない",
+            "kanji": "楽しまない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "たのしみました",
+            "kanji": "楽しみました"
+          },
+          "casual": {
+            "kana": "たのしんだ",
+            "kanji": "楽しんだ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "たのしみませんでした",
+            "kanji": "楽しみませんでした"
+          },
+          "casual": {
+            "kana": "たのしまなかった",
+            "kanji": "楽しまなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "たのしんで",
+        "kanji": "楽しんで"
+      }
+    }
+  },
+  "進む": {
+    "type": "u",
+    "html": "進<rt>すす</rt>む",
+    "english": "advance, go forward",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "すすみます",
+            "kanji": "進みます"
+          },
+          "casual": {
+            "kana": "すすむ",
+            "kanji": "進む"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "すすみません",
+            "kanji": "進みません"
+          },
+          "casual": {
+            "kana": "すすまない",
+            "kanji": "進まない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "すすみました",
+            "kanji": "進みました"
+          },
+          "casual": {
+            "kana": "すすんだ",
+            "kanji": "進んだ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "すすみませんでした",
+            "kanji": "進みませんでした"
+          },
+          "casual": {
+            "kana": "すすまなかった",
+            "kanji": "進まなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "すすんで",
+        "kanji": "進んで"
+      }
+    }
+  },
+  "住む": {
+    "type": "u",
+    "html": "住<rt>す</rt>む",
+    "english": "live, inhabit",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "すみます",
+            "kanji": "住みます"
+          },
+          "casual": {
+            "kana": "すむ",
+            "kanji": "住む"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "すみません",
+            "kanji": "住みません"
+          },
+          "casual": {
+            "kana": "すまない",
+            "kanji": "住まない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "すみました",
+            "kanji": "住みました"
+          },
+          "casual": {
+            "kana": "すんだ",
+            "kanji": "住んだ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "すみませんでした",
+            "kanji": "住みませんでした"
+          },
+          "casual": {
+            "kana": "すまなかった",
+            "kanji": "住まなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "すんで",
+        "kanji": "住んで"
+      }
+    }
+  },
+  "読む": {
+    "type": "u",
+    "html": "読<rt>よ</rt>む",
+    "english": "read",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "よみます",
+            "kanji": "読みます"
+          },
+          "casual": {
+            "kana": "よむ",
+            "kanji": "読む"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "よみません",
+            "kanji": "読みません"
+          },
+          "casual": {
+            "kana": "よまない",
+            "kanji": "読まない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "よみました",
+            "kanji": "読みました"
+          },
+          "casual": {
+            "kana": "よんだ",
+            "kanji": "読んだ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "よみませんでした",
+            "kanji": "読みませんでした"
+          },
+          "casual": {
+            "kana": "よまなかった",
+            "kanji": "読まなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "よんで",
+        "kanji": "読んで"
+      }
+    }
+  },
+  "休む": {
+    "type": "u",
+    "html": "休<rt>やす</rt>む",
+    "english": "rest, be absent",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "やすみます",
+            "kanji": "休みます"
+          },
+          "casual": {
+            "kana": "やすむ",
+            "kanji": "休む"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "やすみません",
+            "kanji": "休みません"
+          },
+          "casual": {
+            "kana": "やすまない",
+            "kanji": "休まない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "やすみました",
+            "kanji": "休みました"
+          },
+          "casual": {
+            "kana": "やすんだ",
+            "kanji": "休んだ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "やすみませんでした",
+            "kanji": "休みませんでした"
+          },
+          "casual": {
+            "kana": "やすまなかった",
+            "kanji": "休まなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "やすんで",
+        "kanji": "休んで"
+      }
+    }
+  },
+  "遊ぶ": {
+    "type": "u",
+    "html": "遊<rt>あそ</rt>ぶ",
+    "english": "play, have a good time",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "あそびます",
+            "kanji": "遊びます"
+          },
+          "casual": {
+            "kana": "あそぶ",
+            "kanji": "遊ぶ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "あそびません",
+            "kanji": "遊びません"
+          },
+          "casual": {
+            "kana": "あそばない",
+            "kanji": "遊ばない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "あそびました",
+            "kanji": "遊びました"
+          },
+          "casual": {
+            "kana": "あそんだ",
+            "kanji": "遊んだ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "あそびませんでした",
+            "kanji": "遊びませんでした"
+          },
+          "casual": {
+            "kana": "あそばなかった",
+            "kanji": "遊ばなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "あそんで",
+        "kanji": "遊んで"
+      }
+    }
+  },
+  "学ぶ": {
+    "type": "u",
+    "html": "学<rt>まな</rt>ぶ",
+    "english": "study, learn",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "まなびます",
+            "kanji": "学びます"
+          },
+          "casual": {
+            "kana": "まなぶ",
+            "kanji": "学ぶ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "まなびません",
+            "kanji": "学びません"
+          },
+          "casual": {
+            "kana": "まなばない",
+            "kanji": "学ばない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "まなびました",
+            "kanji": "学びました"
+          },
+          "casual": {
+            "kana": "まなんだ",
+            "kanji": "学んだ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "まなびませんでした",
+            "kanji": "学びませんでした"
+          },
+          "casual": {
+            "kana": "まなばなかった",
+            "kanji": "学ばなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "まなんで",
+        "kanji": "学んで"
+      }
+    }
+  },
+  "選ぶ": {
+    "type": "u",
+    "html": "選<rt>えら</rt>ぶ",
+    "english": "choose, select",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "えらびます",
+            "kanji": "選びます"
+          },
+          "casual": {
+            "kana": "えらぶ",
+            "kanji": "選ぶ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "えらびません",
+            "kanji": "選びません"
+          },
+          "casual": {
+            "kana": "えらばない",
+            "kanji": "選ばない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "えらびました",
+            "kanji": "選びました"
+          },
+          "casual": {
+            "kana": "えらんだ",
+            "kanji": "選んだ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "えらびませんでした",
+            "kanji": "選びませんでした"
+          },
+          "casual": {
+            "kana": "えらばなかった",
+            "kanji": "選ばなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "えらんで",
+        "kanji": "選んで"
+      }
+    }
+  },
+  "返す": {
+    "type": "u",
+    "html": "返<rt>かえ</rt>す",
+    "english": "return (something), put back",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "かえします",
+            "kanji": "返します"
+          },
+          "casual": {
+            "kana": "かえす",
+            "kanji": "返す"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "かえしません",
+            "kanji": "返しません"
+          },
+          "casual": {
+            "kana": "かえさない",
+            "kanji": "返さない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "かえしました",
+            "kanji": "返しました"
+          },
+          "casual": {
+            "kana": "かえした",
+            "kanji": "返した"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "かえしませんでした",
+            "kanji": "返しませんでした"
+          },
+          "casual": {
+            "kana": "かえさなかった",
+            "kanji": "返さなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "かえして",
+        "kanji": "返して"
+      }
+    }
+  },
+  "押す": {
+    "type": "u",
+    "html": "押<rt>お</rt>す",
+    "english": "push, press",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "おします",
+            "kanji": "押します"
+          },
+          "casual": {
+            "kana": "おす",
+            "kanji": "押す"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "おしません",
+            "kanji": "押しません"
+          },
+          "casual": {
+            "kana": "おさない",
+            "kanji": "押さない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "おしました",
+            "kanji": "押しました"
+          },
+          "casual": {
+            "kana": "おした",
+            "kanji": "押した"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "おしませんでした",
+            "kanji": "押しませんでした"
+          },
+          "casual": {
+            "kana": "おさなかった",
+            "kanji": "押さなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "おして",
+        "kanji": "押して"
+      }
+    }
+  },
+  "治す": {
+    "type": "u",
+    "html": "治<rt>なお</rt>す",
+    "english": "cure, repair",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "なおします",
+            "kanji": "治します"
+          },
+          "casual": {
+            "kana": "なおす",
+            "kanji": "治す"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "なおしません",
+            "kanji": "治しません"
+          },
+          "casual": {
+            "kana": "なおさない",
+            "kanji": "治さない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "なおしました",
+            "kanji": "治しました"
+          },
+          "casual": {
+            "kana": "なおした",
+            "kanji": "治した"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "なおしませんでした",
+            "kanji": "治しませんでした"
+          },
+          "casual": {
+            "kana": "なおさなかった",
+            "kanji": "治さなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "なおして",
+        "kanji": "治して"
+      }
+    }
+  },
+  "話す": {
+    "type": "u",
+    "html": "話<rt>はな</rt>す",
+    "english": "talk, speak",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "はなします",
+            "kanji": "話します"
+          },
+          "casual": {
+            "kana": "はなす",
+            "kanji": "話す"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "はなしません",
+            "kanji": "話しません"
+          },
+          "casual": {
+            "kana": "はなさない",
+            "kanji": "話さない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "はなしました",
+            "kanji": "話しました"
+          },
+          "casual": {
+            "kana": "はなした",
+            "kanji": "話した"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "はなしませんでした",
+            "kanji": "話しませんでした"
+          },
+          "casual": {
+            "kana": "はなさなかった",
+            "kanji": "話さなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "はなして",
+        "kanji": "話して"
+      }
+    }
+  },
+  "探す": {
+    "type": "u",
+    "html": "探<rt>さが</rt>す",
+    "english": "search, look for",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "さがします",
+            "kanji": "探します"
+          },
+          "casual": {
+            "kana": "さがす",
+            "kanji": "探す"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "さがしません",
+            "kanji": "探しません"
+          },
+          "casual": {
+            "kana": "さがさない",
+            "kanji": "探さない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "さがしました",
+            "kanji": "探しました"
+          },
+          "casual": {
+            "kana": "さがした",
+            "kanji": "探した"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "さがしませんでした",
+            "kanji": "探しませんでした"
+          },
+          "casual": {
+            "kana": "さがさなかった",
+            "kanji": "探さなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "さがして",
+        "kanji": "探して"
+      }
+    }
+  },
+  "貸す": {
+    "type": "u",
+    "html": "貸<rt>か</rt>す",
+    "english": "lend, loan",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "かします",
+            "kanji": "貸します"
+          },
+          "casual": {
+            "kana": "かす",
+            "kanji": "貸す"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "かしません",
+            "kanji": "貸しません"
+          },
+          "casual": {
+            "kana": "かさない",
+            "kanji": "貸さない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "かしました",
+            "kanji": "貸しました"
+          },
+          "casual": {
+            "kana": "かした",
+            "kanji": "貸した"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "かしませんでした",
+            "kanji": "貸しませんでした"
+          },
+          "casual": {
+            "kana": "かさなかった",
+            "kanji": "貸さなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "かして",
+        "kanji": "貸して"
+      }
+    }
+  },
+  "泳ぐ": {
+    "type": "u",
+    "html": "泳<rt>およ</rt>ぐ",
+    "english": "swim",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "およぎます",
+            "kanji": "泳ぎます"
+          },
+          "casual": {
+            "kana": "およぐ",
+            "kanji": "泳ぐ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "およぎません",
+            "kanji": "泳ぎません"
+          },
+          "casual": {
+            "kana": "およがない",
+            "kanji": "泳がない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "およぎました",
+            "kanji": "泳ぎました"
+          },
+          "casual": {
+            "kana": "およいだ",
+            "kanji": "泳いだ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "およぎませんでした",
+            "kanji": "泳ぎませんでした"
+          },
+          "casual": {
+            "kana": "およがなかった",
+            "kanji": "泳がなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "およいで",
+        "kanji": "泳いで"
+      }
+    }
+  },
+  "脱ぐ": {
+    "type": "u",
+    "html": "脱<rt>ぬ</rt>ぐ",
+    "english": "take off clothes, undress",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "ぬぎます",
+            "kanji": "脱ぎます"
+          },
+          "casual": {
+            "kana": "ぬぐ",
+            "kanji": "脱ぐ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "ぬぎません",
+            "kanji": "脱ぎません"
+          },
+          "casual": {
+            "kana": "ぬがない",
+            "kanji": "脱がない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "ぬぎました",
+            "kanji": "脱ぎました"
+          },
+          "casual": {
+            "kana": "ぬいだ",
+            "kanji": "脱いだ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "ぬぎませんでした",
+            "kanji": "脱ぎませんでした"
+          },
+          "casual": {
+            "kana": "ぬがなかった",
+            "kanji": "脱がなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "ぬいで",
+        "kanji": "脱いで"
+      }
+    }
+  },
+  "急ぐ": {
+    "type": "u",
+    "html": "急<rt>いそ</rt>ぐ",
+    "english": "hurry",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "いそぎます",
+            "kanji": "急ぎます"
+          },
+          "casual": {
+            "kana": "いそぐ",
+            "kanji": "急ぐ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "いそぎません",
+            "kanji": "急ぎません"
+          },
+          "casual": {
+            "kana": "いそがない",
+            "kanji": "急がない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "いそぎました",
+            "kanji": "急ぎました"
+          },
+          "casual": {
+            "kana": "いそいだ",
+            "kanji": "急いだ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "いそぎませんでした",
+            "kanji": "急ぎませんでした"
+          },
+          "casual": {
+            "kana": "いそがなかった",
+            "kanji": "急がなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "いそいで",
+        "kanji": "急いで"
+      }
+    }
+  },
+  "稼ぐ": {
+    "type": "u",
+    "html": "稼<rt>かせ</rt>ぐ",
+    "english": "earn income, make money",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "かせぎます",
+            "kanji": "稼ぎます"
+          },
+          "casual": {
+            "kana": "かせぐ",
+            "kanji": "稼ぐ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "かせぎません",
+            "kanji": "稼ぎません"
+          },
+          "casual": {
+            "kana": "かせがない",
+            "kanji": "稼がない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "かせぎました",
+            "kanji": "稼ぎました"
+          },
+          "casual": {
+            "kana": "かせいだ",
+            "kanji": "稼いだ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "かせぎませんでした",
+            "kanji": "稼ぎませんでした"
+          },
+          "casual": {
+            "kana": "かせがなかった",
+            "kanji": "稼がなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "かせいで",
+        "kanji": "稼いで"
+      }
+    }
+  },
+  "寛ぐ": {
+    "type": "u",
+    "html": "寛<rt>くつろ</rt>ぐ",
+    "english": "relax, feel at home",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "くつろぎます",
+            "kanji": "寛ぎます"
+          },
+          "casual": {
+            "kana": "くつろぐ",
+            "kanji": "寛ぐ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "くつろぎません",
+            "kanji": "寛ぎません"
+          },
+          "casual": {
+            "kana": "くつろがない",
+            "kanji": "寛がない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "くつろぎました",
+            "kanji": "寛ぎました"
+          },
+          "casual": {
+            "kana": "くつろいだ",
+            "kanji": "寛いだ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "くつろぎませんでした",
+            "kanji": "寛ぎませんでした"
+          },
+          "casual": {
+            "kana": "くつろがなかった",
+            "kanji": "寛がなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "くつろいで",
+        "kanji": "寛いで"
+      }
+    }
+  },
+  "繋ぐ": {
+    "type": "u",
+    "html": "繋<rt>つな</rt>ぐ",
+    "english": "connect, link together",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "つなぎます",
+            "kanji": "繋ぎます"
+          },
+          "casual": {
+            "kana": "つなぐ",
+            "kanji": "繋ぐ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "つなぎません",
+            "kanji": "繋ぎません"
+          },
+          "casual": {
+            "kana": "つながない",
+            "kanji": "繋がない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "つなぎました",
+            "kanji": "繋ぎました"
+          },
+          "casual": {
+            "kana": "つないだ",
+            "kanji": "繋いだ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "つなぎませんでした",
+            "kanji": "繋ぎませんでした"
+          },
+          "casual": {
+            "kana": "つながなかった",
+            "kanji": "繋がなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "つないで",
+        "kanji": "繋いで"
+      }
+    }
+  },
+  "分かる": {
+    "type": "u",
+    "html": "分<rt>わ</rt>かる",
+    "english": "understand",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "わかります",
+            "kanji": "分かります"
+          },
+          "casual": {
+            "kana": "わかる",
+            "kanji": "分かる"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "わかりません",
+            "kanji": "分かりません"
+          },
+          "casual": {
+            "kana": "わからない",
+            "kanji": "分からない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "わかりました",
+            "kanji": "分かりました"
+          },
+          "casual": {
+            "kana": "わかった",
+            "kanji": "分かった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "わかりませんでした",
+            "kanji": "分かりませんでした"
+          },
+          "casual": {
+            "kana": "わからなかった",
+            "kanji": "分からなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "わかって",
+        "kanji": "分かって"
+      }
+    }
+  },
+  "勉強する": {
+    "type": "irv",
+    "html": "勉<rt>べん</rt>強<rt>きょう</rt>する",
+    "english": "study",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "べんきょうします",
+            "kanji": "勉強します"
+          },
+          "casual": {
+            "kana": "べんきょうする",
+            "kanji": "勉強する"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "べんきょうしません",
+            "kanji": "勉強しません"
+          },
+          "casual": {
+            "kana": "べんきょうしない",
+            "kanji": "勉強しない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "べんきょうしました",
+            "kanji": "勉強しました"
+          },
+          "casual": {
+            "kana": "べんきょうした",
+            "kanji": "勉強した"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "べんきょうしませんでした",
+            "kanji": "勉強しませんでした"
+          },
+          "casual": {
+            "kana": "べんきょうしなかった",
+            "kanji": "勉強しなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "べんきょうして",
+        "kanji": "勉強して"
+      }
+    }
+  },
+  "運動する": {
+    "type": "irv",
+    "html": "運<rt>うん</rt>動<rt>どう</rt>する",
+    "english": "exercise",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "うんどうします",
+            "kanji": "運動します"
+          },
+          "casual": {
+            "kana": "うんどうする",
+            "kanji": "運動する"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "うんどうしません",
+            "kanji": "運動しません"
+          },
+          "casual": {
+            "kana": "うんどうしない",
+            "kanji": "運動しない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "うんどうしました",
+            "kanji": "運動しました"
+          },
+          "casual": {
+            "kana": "うんどうした",
+            "kanji": "運動した"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "うんどうしませんでした",
+            "kanji": "運動しませんでした"
+          },
+          "casual": {
+            "kana": "うんどうしなかった",
+            "kanji": "運動しなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "うんどうして",
+        "kanji": "運動して"
+      }
+    }
+  },
+  "受け持つ": {
+    "type": "u",
+    "html": "受<rt>う</rt>け<ruby>持<rt>も</rt></ruby>つ",
+    "english": "take charge of",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "うけもちます",
+            "kanji": "受け持ちます"
+          },
+          "casual": {
+            "kana": "うけもつ",
+            "kanji": "受け持つ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "うけもちません",
+            "kanji": "受け持ちません"
+          },
+          "casual": {
+            "kana": "うけもたない",
+            "kanji": "受け持たない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "うけもちました",
+            "kanji": "受け持ちました"
+          },
+          "casual": {
+            "kana": "うけもった",
+            "kanji": "受け持った"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "うけもちませんでした",
+            "kanji": "受け持ちませんでした"
+          },
+          "casual": {
+            "kana": "うけもたなかった",
+            "kanji": "受け持たなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "うけもって",
+        "kanji": "受け持って"
+      }
+    }
+  },
+  "持って行く": {
+    "type": "irv",
+    "html": "持<rt>も</rt>って<ruby>行<rt>い</rt></ruby>く",
+    "english": "take, carry away",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "もっていきます",
+            "kanji": "持って行きます"
+          },
+          "casual": {
+            "kana": "もっていく",
+            "kanji": "持って行く"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "もっていきません",
+            "kanji": "持って行きません"
+          },
+          "casual": {
+            "kana": "もっていかない",
+            "kanji": "持って行かない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "もっていきました",
+            "kanji": "持って行きました"
+          },
+          "casual": {
+            "kana": "もっていった",
+            "kanji": "持って行った"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "もっていきませんでした",
+            "kanji": "持って行きませんでした"
+          },
+          "casual": {
+            "kana": "もっていかなかった",
+            "kanji": "持って行かなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "もっていって",
+        "kanji": "持って行って"
+      }
+    }
+  },
+  "食べ歩く": {
+    "type": "u",
+    "html": "食<rt>た</rt>べ<ruby>歩<rt>ある</rt></ruby>く",
+    "english": "try food at various restaurants",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "たべあるきます",
+            "kanji": "食べ歩きます"
+          },
+          "casual": {
+            "kana": "たべあるく",
+            "kanji": "食べ歩く"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "たべあるきません",
+            "kanji": "食べ歩きません"
+          },
+          "casual": {
+            "kana": "たべあるかない",
+            "kanji": "食べ歩かない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "たべあるきました",
+            "kanji": "食べ歩きました"
+          },
+          "casual": {
+            "kana": "たべあるいた",
+            "kanji": "食べ歩いた"
+          }
+        },
+        "negative": {
+          "polite": {
+            "kana": "たべあるきませんでした",
+            "kanji": "食べ歩きませんでした"
+          },
+          "casual": {
+            "kana": "たべあるかなかった",
+            "kanji": "食べ歩かなかった"
+          }
+        }
+      },
+      "te": {
+        "kana": "たべあるいて",
+        "kanji": "食べ歩いて"
+      }
+    }
+  }
+}

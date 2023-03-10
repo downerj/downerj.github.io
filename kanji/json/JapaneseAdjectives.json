@@ -1,0 +1,3214 @@
+{
+  "いい": {
+    "type": "ira",
+    "html": "いい",
+    "english": "good",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "いいです",
+            "kanji": "いいです"
+          },
+          "casual": {
+            "kana": "いい",
+            "kanji": "いい"
+          }
+        },
+        "negative": {
+          "polite": {
+            "naidesu": {
+              "kana": "よくないです",
+              "kanji": "よくないです"
+            },
+            "arimasen": {
+              "kana": "よくありません",
+              "kanji": "よくありません"
+            }
+          },
+          "casual": {
+            "kana": "よくない",
+            "kanji": "よくない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "よかったです",
+            "kanji": "よかったです"
+          },
+          "casual": {
+            "kana": "よかった",
+            "kanji": "よかった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "nakattadesu": {
+              "kana": "よくなかったです",
+              "kanji": "よくなかったです"
+            },
+            "arimasendeshita": {
+              "kana": "よくありませんでした",
+              "kanji": "よくありませんでした"
+            }
+          },
+          "casual": {
+            "kana": "よくなかった",
+            "kanji": "よくなかった"
+          }
+        }
+      },
+      "adverb": {
+        "kana": "よく",
+        "kanji": "よく"
+      }
+    }
+  },
+  "かっこいい": {
+    "type": "ira",
+    "html": "かっこいい",
+    "english": "cool, handsome",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "かっこいいです",
+            "kanji": "かっこいいです"
+          },
+          "casual": {
+            "kana": "かっこいい",
+            "kanji": "かっこいい"
+          }
+        },
+        "negative": {
+          "polite": {
+            "naidesu": {
+              "kana": "かっこよくないです",
+              "kanji": "かっこよくないです"
+            },
+            "arimasen": {
+              "kana": "かっこよくありません",
+              "kanji": "かっこよくありません"
+            }
+          },
+          "casual": {
+            "kana": "かっこよくない",
+            "kanji": "かっこよくない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "かっこよかったです",
+            "kanji": "かっこよかったです"
+          },
+          "casual": {
+            "kana": "かっこよかった",
+            "kanji": "かっこよかった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "nakattadesu": {
+              "kana": "かっこよくなかったです",
+              "kanji": "かっこよくなかったです"
+            },
+            "arimasendeshita": {
+              "kana": "かっこよくありませんでした",
+              "kanji": "かっこよくありませんでした"
+            }
+          },
+          "casual": {
+            "kana": "かっこよくなかった",
+            "kanji": "かっこよくなかった"
+          }
+        }
+      },
+      "adverb": {
+        "kana": "かっこよく",
+        "kanji": "かっこよく"
+      }
+    }
+  },
+  "赤い": {
+    "type": "i",
+    "html": "赤<rt>あか</rt>い",
+    "english": "red",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "あかいです",
+            "kanji": "赤いです"
+          },
+          "casual": {
+            "kana": "あかい",
+            "kanji": "赤い"
+          }
+        },
+        "negative": {
+          "polite": {
+            "naidesu": {
+              "kana": "あかくないです",
+              "kanji": "赤くないです"
+            },
+            "arimasen": {
+              "kana": "あかくありません",
+              "kanji": "赤くありません"
+            }
+          },
+          "casual": {
+            "kana": "あかくない",
+            "kanji": "赤くない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "あかかったです",
+            "kanji": "赤かったです"
+          },
+          "casual": {
+            "kana": "あかかった",
+            "kanji": "赤かった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "nakattadesu": {
+              "kana": "あかくなかったです",
+              "kanji": "赤くなかったです"
+            },
+            "arimasendeshita": {
+              "kana": "あかくありませんでした",
+              "kanji": "赤くありませんでした"
+            }
+          },
+          "casual": {
+            "kana": "あかくなかった",
+            "kanji": "赤くなかった"
+          }
+        }
+      },
+      "adverb": {
+        "kana": "あかく",
+        "kanji": "赤く"
+      }
+    }
+  },
+  "新しい": {
+    "type": "i",
+    "html": "新<rt>あたら</rt>しい",
+    "english": "new",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "あたらしいです",
+            "kanji": "新しいです"
+          },
+          "casual": {
+            "kana": "あたらしい",
+            "kanji": "新しい"
+          }
+        },
+        "negative": {
+          "polite": {
+            "naidesu": {
+              "kana": "あたらしくないです",
+              "kanji": "新しくないです"
+            },
+            "arimasen": {
+              "kana": "あたらしくありません",
+              "kanji": "新しくありません"
+            }
+          },
+          "casual": {
+            "kana": "あたらしくない",
+            "kanji": "新しくない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "あたらしかったです",
+            "kanji": "新しかったです"
+          },
+          "casual": {
+            "kana": "あたらしかった",
+            "kanji": "新しかった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "nakattadesu": {
+              "kana": "あたらしくなかったです",
+              "kanji": "新しくなかったです"
+            },
+            "arimasendeshita": {
+              "kana": "あたらしくありませんでした",
+              "kanji": "新しくありませんでした"
+            }
+          },
+          "casual": {
+            "kana": "あたらしくなかった",
+            "kanji": "新しくなかった"
+          }
+        }
+      },
+      "adverb": {
+        "kana": "あたらしく",
+        "kanji": "新しく"
+      }
+    }
+  },
+  "暑い": {
+    "type": "i",
+    "html": "暑<rt>あつ</rt>い",
+    "english": "hot (weather)",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "あついです",
+            "kanji": "暑いです"
+          },
+          "casual": {
+            "kana": "あつい",
+            "kanji": "暑い"
+          }
+        },
+        "negative": {
+          "polite": {
+            "naidesu": {
+              "kana": "あつくないです",
+              "kanji": "暑くないです"
+            },
+            "arimasen": {
+              "kana": "あつくありません",
+              "kanji": "暑くありません"
+            }
+          },
+          "casual": {
+            "kana": "あつくない",
+            "kanji": "暑くない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "あつかったです",
+            "kanji": "暑かったです"
+          },
+          "casual": {
+            "kana": "あつかった",
+            "kanji": "暑かった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "nakattadesu": {
+              "kana": "あつくなかったです",
+              "kanji": "暑くなかったです"
+            },
+            "arimasendeshita": {
+              "kana": "あつくありませんでした",
+              "kanji": "暑くありませんでした"
+            }
+          },
+          "casual": {
+            "kana": "あつくなかった",
+            "kanji": "暑くなかった"
+          }
+        }
+      },
+      "adverb": {
+        "kana": "あつく",
+        "kanji": "暑く"
+      }
+    }
+  },
+  "危ない": {
+    "type": "i",
+    "html": "危<rt>あぶ</rt>ない",
+    "english": "dangerous",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "あぶないです",
+            "kanji": "危ないです"
+          },
+          "casual": {
+            "kana": "あぶない",
+            "kanji": "危ない"
+          }
+        },
+        "negative": {
+          "polite": {
+            "naidesu": {
+              "kana": "あぶなくないです",
+              "kanji": "危なくないです"
+            },
+            "arimasen": {
+              "kana": "あぶなくありません",
+              "kanji": "危なくありません"
+            }
+          },
+          "casual": {
+            "kana": "あぶなくない",
+            "kanji": "危なくない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "あぶなかったです",
+            "kanji": "危なかったです"
+          },
+          "casual": {
+            "kana": "あぶなかった",
+            "kanji": "危なかった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "nakattadesu": {
+              "kana": "あぶなくなかったです",
+              "kanji": "危なくなかったです"
+            },
+            "arimasendeshita": {
+              "kana": "あぶなくありませんでした",
+              "kanji": "危なくありませんでした"
+            }
+          },
+          "casual": {
+            "kana": "あぶなくなかった",
+            "kanji": "危なくなかった"
+          }
+        }
+      },
+      "adverb": {
+        "kana": "あぶなく",
+        "kanji": "危なく"
+      }
+    }
+  },
+  "美味しい": {
+    "type": "i",
+    "html": "美<rt>お</rt>味<rt>い</rt>しい",
+    "english": "delicious",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "おいしいです",
+            "kanji": "美味しいです"
+          },
+          "casual": {
+            "kana": "おいしい",
+            "kanji": "美味しい"
+          }
+        },
+        "negative": {
+          "polite": {
+            "naidesu": {
+              "kana": "おいしくないです",
+              "kanji": "美味しくないです"
+            },
+            "arimasen": {
+              "kana": "おいしくありません",
+              "kanji": "美味しくありません"
+            }
+          },
+          "casual": {
+            "kana": "おいしくない",
+            "kanji": "美味しくない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "おいしかったです",
+            "kanji": "美味しかったです"
+          },
+          "casual": {
+            "kana": "おいしかった",
+            "kanji": "美味しかった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "nakattadesu": {
+              "kana": "おいしくなかったです",
+              "kanji": "美味しくなかったです"
+            },
+            "arimasendeshita": {
+              "kana": "おいしくありませんでした",
+              "kanji": "美味しくありませんでした"
+            }
+          },
+          "casual": {
+            "kana": "おいしくなかった",
+            "kanji": "美味しくなかった"
+          }
+        }
+      },
+      "adverb": {
+        "kana": "おいしく",
+        "kanji": "美味しく"
+      }
+    }
+  },
+  "大きい": {
+    "type": "i",
+    "html": "大<rt>おお</rt>きい",
+    "english": "big",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "おおきいです",
+            "kanji": "大きいです"
+          },
+          "casual": {
+            "kana": "おおきい",
+            "kanji": "大きい"
+          }
+        },
+        "negative": {
+          "polite": {
+            "naidesu": {
+              "kana": "おおきくないです",
+              "kanji": "大きくないです"
+            },
+            "arimasen": {
+              "kana": "おおきくありません",
+              "kanji": "大きくありません"
+            }
+          },
+          "casual": {
+            "kana": "おおきくない",
+            "kanji": "大きくない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "おおきかったです",
+            "kanji": "大きかったです"
+          },
+          "casual": {
+            "kana": "おおきかった",
+            "kanji": "大きかった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "nakattadesu": {
+              "kana": "おおきくなかったです",
+              "kanji": "大きくなかったです"
+            },
+            "arimasendeshita": {
+              "kana": "おおきくありませんでした",
+              "kanji": "大きくありませんでした"
+            }
+          },
+          "casual": {
+            "kana": "おおきくなかった",
+            "kanji": "大きくなかった"
+          }
+        }
+      },
+      "adverb": {
+        "kana": "おおきく",
+        "kanji": "大きく"
+      }
+    }
+  },
+  "遅い": {
+    "type": "i",
+    "html": "遅<rt>おそ</rt>い",
+    "english": "late, slow",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "おそいです",
+            "kanji": "遅いです"
+          },
+          "casual": {
+            "kana": "おそい",
+            "kanji": "遅い"
+          }
+        },
+        "negative": {
+          "polite": {
+            "naidesu": {
+              "kana": "おそくないです",
+              "kanji": "遅くないです"
+            },
+            "arimasen": {
+              "kana": "おそくありません",
+              "kanji": "遅くありません"
+            }
+          },
+          "casual": {
+            "kana": "おそくない",
+            "kanji": "遅くない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "おそかったです",
+            "kanji": "遅かったです"
+          },
+          "casual": {
+            "kana": "おそかった",
+            "kanji": "遅かった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "nakattadesu": {
+              "kana": "おそくなかったです",
+              "kanji": "遅くなかったです"
+            },
+            "arimasendeshita": {
+              "kana": "おそくありませんでした",
+              "kanji": "遅くありませんでした"
+            }
+          },
+          "casual": {
+            "kana": "おそくなかった",
+            "kanji": "遅くなかった"
+          }
+        }
+      },
+      "adverb": {
+        "kana": "おそく",
+        "kanji": "遅く"
+      }
+    }
+  },
+  "面白い": {
+    "type": "i",
+    "html": "面<rt>おも</rt>白<rt>しろ</rt>い",
+    "english": "interesting, funny",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "おもしろいです",
+            "kanji": "面白いです"
+          },
+          "casual": {
+            "kana": "おもしろい",
+            "kanji": "面白い"
+          }
+        },
+        "negative": {
+          "polite": {
+            "naidesu": {
+              "kana": "おもしろくないです",
+              "kanji": "面白くないです"
+            },
+            "arimasen": {
+              "kana": "おもしろくありません",
+              "kanji": "面白くありません"
+            }
+          },
+          "casual": {
+            "kana": "おもしろくない",
+            "kanji": "面白くない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "おもしろかったです",
+            "kanji": "面白かったです"
+          },
+          "casual": {
+            "kana": "おもしろかった",
+            "kanji": "面白かった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "nakattadesu": {
+              "kana": "おもしろくなかったです",
+              "kanji": "面白くなかったです"
+            },
+            "arimasendeshita": {
+              "kana": "おもしろくありませんでした",
+              "kanji": "面白くありませんでした"
+            }
+          },
+          "casual": {
+            "kana": "おもしろくなかった",
+            "kanji": "面白くなかった"
+          }
+        }
+      },
+      "adverb": {
+        "kana": "おもしろく",
+        "kanji": "面白く"
+      }
+    }
+  },
+  "可愛い": {
+    "type": "i",
+    "html": "可<rt>か</rt>愛<rt>わい</rt>い",
+    "english": "cute, pretty",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "かわいいです",
+            "kanji": "可愛いです"
+          },
+          "casual": {
+            "kana": "かわいい",
+            "kanji": "可愛い"
+          }
+        },
+        "negative": {
+          "polite": {
+            "naidesu": {
+              "kana": "かわいくないです",
+              "kanji": "可愛くないです"
+            },
+            "arimasen": {
+              "kana": "かわいくありません",
+              "kanji": "可愛くありません"
+            }
+          },
+          "casual": {
+            "kana": "かわいくない",
+            "kanji": "可愛くない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "かわいかったです",
+            "kanji": "可愛かったです"
+          },
+          "casual": {
+            "kana": "かわいかった",
+            "kanji": "可愛かった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "nakattadesu": {
+              "kana": "かわいくなかったです",
+              "kanji": "可愛くなかったです"
+            },
+            "arimasendeshita": {
+              "kana": "かわいくありませんでした",
+              "kanji": "可愛くありませんでした"
+            }
+          },
+          "casual": {
+            "kana": "かわいくなかった",
+            "kanji": "可愛くなかった"
+          }
+        }
+      },
+      "adverb": {
+        "kana": "かわいく",
+        "kanji": "可愛く"
+      }
+    }
+  },
+  "寒い": {
+    "type": "i",
+    "html": "寒<rt>さむ</rt>い",
+    "english": "cold (weather)",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "さむいです",
+            "kanji": "寒いです"
+          },
+          "casual": {
+            "kana": "さむい",
+            "kanji": "寒い"
+          }
+        },
+        "negative": {
+          "polite": {
+            "naidesu": {
+              "kana": "さむくないです",
+              "kanji": "寒くないです"
+            },
+            "arimasen": {
+              "kana": "さむくありません",
+              "kanji": "寒くありません"
+            }
+          },
+          "casual": {
+            "kana": "さむくない",
+            "kanji": "寒くない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "さむかったです",
+            "kanji": "寒かったです"
+          },
+          "casual": {
+            "kana": "さむかった",
+            "kanji": "寒かった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "nakattadesu": {
+              "kana": "さむくなかったです",
+              "kanji": "寒くなかったです"
+            },
+            "arimasendeshita": {
+              "kana": "さむくありませんでした",
+              "kanji": "寒くありませんでした"
+            }
+          },
+          "casual": {
+            "kana": "さむくなかった",
+            "kanji": "寒くなかった"
+          }
+        }
+      },
+      "adverb": {
+        "kana": "さむく",
+        "kanji": "寒く"
+      }
+    }
+  },
+  "高い": {
+    "type": "i",
+    "html": "高<rt>たか</rt>い",
+    "english": "high, expensive",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "たかいです",
+            "kanji": "高いです"
+          },
+          "casual": {
+            "kana": "たかい",
+            "kanji": "高い"
+          }
+        },
+        "negative": {
+          "polite": {
+            "naidesu": {
+              "kana": "たかくないです",
+              "kanji": "高くないです"
+            },
+            "arimasen": {
+              "kana": "たかくありません",
+              "kanji": "高くありません"
+            }
+          },
+          "casual": {
+            "kana": "たかくない",
+            "kanji": "高くない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "たかかったです",
+            "kanji": "高かったです"
+          },
+          "casual": {
+            "kana": "たかかった",
+            "kanji": "高かった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "nakattadesu": {
+              "kana": "たかくなかったです",
+              "kanji": "高くなかったです"
+            },
+            "arimasendeshita": {
+              "kana": "たかくありませんでした",
+              "kanji": "高くありませんでした"
+            }
+          },
+          "casual": {
+            "kana": "たかくなかった",
+            "kanji": "高くなかった"
+          }
+        }
+      },
+      "adverb": {
+        "kana": "たかく",
+        "kanji": "高く"
+      }
+    }
+  },
+  "楽しい": {
+    "type": "i",
+    "html": "楽<rt>たの</rt>しい",
+    "english": "fun, pleasant",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "たのしいです",
+            "kanji": "楽しいです"
+          },
+          "casual": {
+            "kana": "たのしい",
+            "kanji": "楽しい"
+          }
+        },
+        "negative": {
+          "polite": {
+            "naidesu": {
+              "kana": "たのしくないです",
+              "kanji": "楽しくないです"
+            },
+            "arimasen": {
+              "kana": "たのしくありません",
+              "kanji": "楽しくありません"
+            }
+          },
+          "casual": {
+            "kana": "たのしくない",
+            "kanji": "楽しくない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "たのしかったです",
+            "kanji": "楽しかったです"
+          },
+          "casual": {
+            "kana": "たのしかった",
+            "kanji": "楽しかった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "nakattadesu": {
+              "kana": "たのしくなかったです",
+              "kanji": "楽しくなかったです"
+            },
+            "arimasendeshita": {
+              "kana": "たのしくありませんでした",
+              "kanji": "楽しくありませんでした"
+            }
+          },
+          "casual": {
+            "kana": "たのしくなかった",
+            "kanji": "楽しくなかった"
+          }
+        }
+      },
+      "adverb": {
+        "kana": "たのしく",
+        "kanji": "楽しく"
+      }
+    }
+  },
+  "小さい": {
+    "type": "i",
+    "html": "小<rt>ちい</rt>さい",
+    "english": "small",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "ちいさいです",
+            "kanji": "小さいです"
+          },
+          "casual": {
+            "kana": "ちいさい",
+            "kanji": "小さい"
+          }
+        },
+        "negative": {
+          "polite": {
+            "naidesu": {
+              "kana": "ちいさくないです",
+              "kanji": "小さくないです"
+            },
+            "arimasen": {
+              "kana": "ちいさくありません",
+              "kanji": "小さくありません"
+            }
+          },
+          "casual": {
+            "kana": "ちいさくない",
+            "kanji": "小さくない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "ちいさかったです",
+            "kanji": "小さかったです"
+          },
+          "casual": {
+            "kana": "ちいさかった",
+            "kanji": "小さかった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "nakattadesu": {
+              "kana": "ちいさくなかったです",
+              "kanji": "小さくなかったです"
+            },
+            "arimasendeshita": {
+              "kana": "ちいさくありませんでした",
+              "kanji": "小さくありませんでした"
+            }
+          },
+          "casual": {
+            "kana": "ちいさくなかった",
+            "kanji": "小さくなかった"
+          }
+        }
+      },
+      "adverb": {
+        "kana": "ちいさく",
+        "kanji": "小さく"
+      }
+    }
+  },
+  "詰らない": {
+    "type": "i",
+    "html": "詰<rt>つま</rt>らない",
+    "english": "uninteresting, boring",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "つまらないです",
+            "kanji": "詰らないです"
+          },
+          "casual": {
+            "kana": "つまらない",
+            "kanji": "詰らない"
+          }
+        },
+        "negative": {
+          "polite": {
+            "naidesu": {
+              "kana": "つまらなくないです",
+              "kanji": "詰らなくないです"
+            },
+            "arimasen": {
+              "kana": "つまらなくありません",
+              "kanji": "詰らなくありません"
+            }
+          },
+          "casual": {
+            "kana": "つまらなくない",
+            "kanji": "詰らなくない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "つまらなかったです",
+            "kanji": "詰らなかったです"
+          },
+          "casual": {
+            "kana": "つまらなかった",
+            "kanji": "詰らなかった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "nakattadesu": {
+              "kana": "つまらなくなかったです",
+              "kanji": "詰らなくなかったです"
+            },
+            "arimasendeshita": {
+              "kana": "つまらなくありませんでした",
+              "kanji": "詰らなくありませんでした"
+            }
+          },
+          "casual": {
+            "kana": "つまらなくなかった",
+            "kanji": "詰らなくなかった"
+          }
+        }
+      },
+      "adverb": {
+        "kana": "つまらなく",
+        "kanji": "詰らなく"
+      }
+    }
+  },
+  "速い": {
+    "type": "i",
+    "html": "速<rt>はや</rt>い",
+    "english": "fast, quick",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "はやいです",
+            "kanji": "速いです"
+          },
+          "casual": {
+            "kana": "はやい",
+            "kanji": "速い"
+          }
+        },
+        "negative": {
+          "polite": {
+            "naidesu": {
+              "kana": "はやくないです",
+              "kanji": "速くないです"
+            },
+            "arimasen": {
+              "kana": "はやくありません",
+              "kanji": "速くありません"
+            }
+          },
+          "casual": {
+            "kana": "はやくない",
+            "kanji": "速くない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "はやかったです",
+            "kanji": "速かったです"
+          },
+          "casual": {
+            "kana": "はやかった",
+            "kanji": "速かった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "nakattadesu": {
+              "kana": "はやくなかったです",
+              "kanji": "速くなかったです"
+            },
+            "arimasendeshita": {
+              "kana": "はやくありませんでした",
+              "kanji": "速くありませんでした"
+            }
+          },
+          "casual": {
+            "kana": "はやくなかった",
+            "kanji": "速くなかった"
+          }
+        }
+      },
+      "adverb": {
+        "kana": "はやく",
+        "kanji": "速く"
+      }
+    }
+  },
+  "古い": {
+    "type": "i",
+    "html": "古<rt>ふる</rt>い",
+    "english": "old (thing)",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "ふるいです",
+            "kanji": "古いです"
+          },
+          "casual": {
+            "kana": "ふるい",
+            "kanji": "古い"
+          }
+        },
+        "negative": {
+          "polite": {
+            "naidesu": {
+              "kana": "ふるくないです",
+              "kanji": "古くないです"
+            },
+            "arimasen": {
+              "kana": "ふるくありません",
+              "kanji": "古くありません"
+            }
+          },
+          "casual": {
+            "kana": "ふるくない",
+            "kanji": "古くない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "ふるかったです",
+            "kanji": "古かったです"
+          },
+          "casual": {
+            "kana": "ふるかった",
+            "kanji": "古かった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "nakattadesu": {
+              "kana": "ふるくなかったです",
+              "kanji": "古くなかったです"
+            },
+            "arimasendeshita": {
+              "kana": "ふるくありませんでした",
+              "kanji": "古くありませんでした"
+            }
+          },
+          "casual": {
+            "kana": "ふるくなかった",
+            "kanji": "古くなかった"
+          }
+        }
+      },
+      "adverb": {
+        "kana": "ふるく",
+        "kanji": "古く"
+      }
+    }
+  },
+  "欲しい": {
+    "type": "i",
+    "html": "欲<rt>ほ</rt>しい",
+    "english": "wanted, desired",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "ほしいです",
+            "kanji": "欲しいです"
+          },
+          "casual": {
+            "kana": "ほしい",
+            "kanji": "欲しい"
+          }
+        },
+        "negative": {
+          "polite": {
+            "naidesu": {
+              "kana": "ほしくないです",
+              "kanji": "欲しくないです"
+            },
+            "arimasen": {
+              "kana": "ほしくありません",
+              "kanji": "欲しくありません"
+            }
+          },
+          "casual": {
+            "kana": "ほしくない",
+            "kanji": "欲しくない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "ほしかったです",
+            "kanji": "欲しかったです"
+          },
+          "casual": {
+            "kana": "ほしかった",
+            "kanji": "欲しかった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "nakattadesu": {
+              "kana": "ほしくなかったです",
+              "kanji": "欲しくなかったです"
+            },
+            "arimasendeshita": {
+              "kana": "ほしくありませんでした",
+              "kanji": "欲しくありませんでした"
+            }
+          },
+          "casual": {
+            "kana": "ほしくなかった",
+            "kanji": "欲しくなかった"
+          }
+        }
+      },
+      "adverb": {
+        "kana": "ほしく",
+        "kanji": "欲しく"
+      }
+    }
+  },
+  "難しい": {
+    "type": "i",
+    "html": "難<rt>むずか</rt>しい",
+    "english": "difficult",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "むずかしいです",
+            "kanji": "難しいです"
+          },
+          "casual": {
+            "kana": "むずかしい",
+            "kanji": "難しい"
+          }
+        },
+        "negative": {
+          "polite": {
+            "naidesu": {
+              "kana": "むずかしくないです",
+              "kanji": "難しくないです"
+            },
+            "arimasen": {
+              "kana": "むずかしくありません",
+              "kanji": "難しくありません"
+            }
+          },
+          "casual": {
+            "kana": "むずかしくない",
+            "kanji": "難しくない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "むずかしかったです",
+            "kanji": "難しかったです"
+          },
+          "casual": {
+            "kana": "むずかしかった",
+            "kanji": "難しかった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "nakattadesu": {
+              "kana": "むずかしくなかったです",
+              "kanji": "難しくなかったです"
+            },
+            "arimasendeshita": {
+              "kana": "むずかしくありませんでした",
+              "kanji": "難しくありませんでした"
+            }
+          },
+          "casual": {
+            "kana": "むずかしくなかった",
+            "kanji": "難しくなかった"
+          }
+        }
+      },
+      "adverb": {
+        "kana": "むずかしく",
+        "kanji": "難しく"
+      }
+    }
+  },
+  "安い": {
+    "type": "i",
+    "html": "安<rt>やす</rt>い",
+    "english": "cheap",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "やすいです",
+            "kanji": "安いです"
+          },
+          "casual": {
+            "kana": "やすい",
+            "kanji": "安い"
+          }
+        },
+        "negative": {
+          "polite": {
+            "naidesu": {
+              "kana": "やすくないです",
+              "kanji": "安くないです"
+            },
+            "arimasen": {
+              "kana": "やすくありません",
+              "kanji": "安くありません"
+            }
+          },
+          "casual": {
+            "kana": "やすくない",
+            "kanji": "安くない"
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "やすかったです",
+            "kanji": "安かったです"
+          },
+          "casual": {
+            "kana": "やすかった",
+            "kanji": "安かった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "nakattadesu": {
+              "kana": "やすくなかったです",
+              "kanji": "安くなかったです"
+            },
+            "arimasendeshita": {
+              "kana": "やすくありませんでした",
+              "kanji": "安くありませんでした"
+            }
+          },
+          "casual": {
+            "kana": "やすくなかった",
+            "kanji": "安くなかった"
+          }
+        }
+      },
+      "adverb": {
+        "kana": "やすく",
+        "kanji": "安く"
+      }
+    }
+  },
+  "好き": {
+    "type": "na",
+    "html": "好<rt>す</rt>き",
+    "english": "like",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "すきです",
+            "kanji": "好きです"
+          },
+          "casual": {
+            "kana": "すきだ",
+            "kanji": "好きだ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janaidesu": {
+              "kana": "すきじゃないです",
+              "kanji": "好きじゃないです"
+            },
+            "dewanaidesu": {
+              "kana": "すきではないです",
+              "kanji": "好きではないです"
+            },
+            "jaarimasen": {
+              "kana": "すきじゃありません",
+              "kanji": "好きじゃありません"
+            },
+            "dewaarimasen": {
+              "kana": "すきではありません",
+              "kanji": "好きではありません"
+            }
+          },
+          "casual": {
+            "janai": {
+              "kana": "すきじゃない",
+              "kanji": "好きじゃない"
+            },
+            "dewanai": {
+              "kana": "すきではない",
+              "kanji": "好きではない"
+            }
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "すきでした",
+            "kanji": "好きでした"
+          },
+          "casual": {
+            "kana": "すきだった",
+            "kanji": "好きだった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janakattadesu": {
+              "kana": "すきじゃなかったです",
+              "kanji": "好きじゃなかったです"
+            },
+            "dewanakattadesu": {
+              "kana": "すきではなかったです",
+              "kanji": "好きではなかったです"
+            },
+            "jaarimasendeshita": {
+              "kana": "すきじゃありませんでした",
+              "kanji": "好きじゃありませんでした"
+            },
+            "dewaarimasendeshita": {
+              "kana": "すきではありませんでした",
+              "kanji": "好きではありませんでした"
+            }
+          },
+          "casual": {
+            "janakatta": {
+              "kana": "すきじゃなかった",
+              "kanji": "好きじゃなかった"
+            },
+            "dewanakatta": {
+              "kana": "すきではなかった",
+              "kanji": "好きではなかった"
+            }
+          }
+        }
+      },
+      "adverb": {
+        "kana": "すきに",
+        "kanji": "好きに"
+      }
+    }
+  },
+  "有名": {
+    "type": "na",
+    "html": "有<rt>ゆう</rt>名<rt>めい</rt>",
+    "english": "famous",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "ゆうめいです",
+            "kanji": "有名です"
+          },
+          "casual": {
+            "kana": "ゆうめいだ",
+            "kanji": "有名だ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janaidesu": {
+              "kana": "ゆうめいじゃないです",
+              "kanji": "有名じゃないです"
+            },
+            "dewanaidesu": {
+              "kana": "ゆうめいではないです",
+              "kanji": "有名ではないです"
+            },
+            "jaarimasen": {
+              "kana": "ゆうめいじゃありません",
+              "kanji": "有名じゃありません"
+            },
+            "dewaarimasen": {
+              "kana": "ゆうめいではありません",
+              "kanji": "有名ではありません"
+            }
+          },
+          "casual": {
+            "janai": {
+              "kana": "ゆうめいじゃない",
+              "kanji": "有名じゃない"
+            },
+            "dewanai": {
+              "kana": "ゆうめいではない",
+              "kanji": "有名ではない"
+            }
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "ゆうめいでした",
+            "kanji": "有名でした"
+          },
+          "casual": {
+            "kana": "ゆうめいだった",
+            "kanji": "有名だった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janakattadesu": {
+              "kana": "ゆうめいじゃなかったです",
+              "kanji": "有名じゃなかったです"
+            },
+            "dewanakattadesu": {
+              "kana": "ゆうめいではなかったです",
+              "kanji": "有名ではなかったです"
+            },
+            "jaarimasendeshita": {
+              "kana": "ゆうめいじゃありませんでした",
+              "kanji": "有名じゃありませんでした"
+            },
+            "dewaarimasendeshita": {
+              "kana": "ゆうめいではありませんでした",
+              "kanji": "有名ではありませんでした"
+            }
+          },
+          "casual": {
+            "janakatta": {
+              "kana": "ゆうめいじゃなかった",
+              "kanji": "有名じゃなかった"
+            },
+            "dewanakatta": {
+              "kana": "ゆうめいではなかった",
+              "kanji": "有名ではなかった"
+            }
+          }
+        }
+      },
+      "adverb": {
+        "kana": "ゆうめいに",
+        "kanji": "有名に"
+      }
+    }
+  },
+  "きれい": {
+    "type": "na",
+    "html": "きれい",
+    "english": "beautiful, tidy",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "きれいです",
+            "kanji": "きれいです"
+          },
+          "casual": {
+            "kana": "きれいだ",
+            "kanji": "きれいだ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janaidesu": {
+              "kana": "きれいじゃないです",
+              "kanji": "きれいじゃないです"
+            },
+            "dewanaidesu": {
+              "kana": "きれいではないです",
+              "kanji": "きれいではないです"
+            },
+            "jaarimasen": {
+              "kana": "きれいじゃありません",
+              "kanji": "きれいじゃありません"
+            },
+            "dewaarimasen": {
+              "kana": "きれいではありません",
+              "kanji": "きれいではありません"
+            }
+          },
+          "casual": {
+            "janai": {
+              "kana": "きれいじゃない",
+              "kanji": "きれいじゃない"
+            },
+            "dewanai": {
+              "kana": "きれいではない",
+              "kanji": "きれいではない"
+            }
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "きれいでした",
+            "kanji": "きれいでした"
+          },
+          "casual": {
+            "kana": "きれいだった",
+            "kanji": "きれいだった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janakattadesu": {
+              "kana": "きれいじゃなかったです",
+              "kanji": "きれいじゃなかったです"
+            },
+            "dewanakattadesu": {
+              "kana": "きれいではなかったです",
+              "kanji": "きれいではなかったです"
+            },
+            "jaarimasendeshita": {
+              "kana": "きれいじゃありませんでした",
+              "kanji": "きれいじゃありませんでした"
+            },
+            "dewaarimasendeshita": {
+              "kana": "きれいではありませんでした",
+              "kanji": "きれいではありませんでした"
+            }
+          },
+          "casual": {
+            "janakatta": {
+              "kana": "きれいじゃなかった",
+              "kanji": "きれいじゃなかった"
+            },
+            "dewanakatta": {
+              "kana": "きれいではなかった",
+              "kanji": "きれいではなかった"
+            }
+          }
+        }
+      },
+      "adverb": {
+        "kana": "きれいに",
+        "kanji": "きれいに"
+      }
+    }
+  },
+  "嫌い": {
+    "type": "na",
+    "html": "嫌<rt>きら</rt>い",
+    "english": "dislike",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "きらいです",
+            "kanji": "嫌いです"
+          },
+          "casual": {
+            "kana": "きらいだ",
+            "kanji": "嫌いだ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janaidesu": {
+              "kana": "きらいじゃないです",
+              "kanji": "嫌いじゃないです"
+            },
+            "dewanaidesu": {
+              "kana": "きらいではないです",
+              "kanji": "嫌いではないです"
+            },
+            "jaarimasen": {
+              "kana": "きらいじゃありません",
+              "kanji": "嫌いじゃありません"
+            },
+            "dewaarimasen": {
+              "kana": "きらいではありません",
+              "kanji": "嫌いではありません"
+            }
+          },
+          "casual": {
+            "janai": {
+              "kana": "きらいじゃない",
+              "kanji": "嫌いじゃない"
+            },
+            "dewanai": {
+              "kana": "きらいではない",
+              "kanji": "嫌いではない"
+            }
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "きらいでした",
+            "kanji": "嫌いでした"
+          },
+          "casual": {
+            "kana": "きらいだった",
+            "kanji": "嫌いだった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janakattadesu": {
+              "kana": "きらいじゃなかったです",
+              "kanji": "嫌いじゃなかったです"
+            },
+            "dewanakattadesu": {
+              "kana": "きらいではなかったです",
+              "kanji": "嫌いではなかったです"
+            },
+            "jaarimasendeshita": {
+              "kana": "きらいじゃありませんでした",
+              "kanji": "嫌いじゃありませんでした"
+            },
+            "dewaarimasendeshita": {
+              "kana": "きらいではありませんでした",
+              "kanji": "嫌いではありませんでした"
+            }
+          },
+          "casual": {
+            "janakatta": {
+              "kana": "きらいじゃなかった",
+              "kanji": "嫌いじゃなかった"
+            },
+            "dewanakatta": {
+              "kana": "きらいではなかった",
+              "kanji": "嫌いではなかった"
+            }
+          }
+        }
+      },
+      "adverb": {
+        "kana": "きらいに",
+        "kanji": "嫌いに"
+      }
+    }
+  },
+  "静か": {
+    "type": "na",
+    "html": "静<rt>しず</rt>か",
+    "english": "quiet",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "しずかです",
+            "kanji": "静かです"
+          },
+          "casual": {
+            "kana": "しずかだ",
+            "kanji": "静かだ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janaidesu": {
+              "kana": "しずかじゃないです",
+              "kanji": "静かじゃないです"
+            },
+            "dewanaidesu": {
+              "kana": "しずかではないです",
+              "kanji": "静かではないです"
+            },
+            "jaarimasen": {
+              "kana": "しずかじゃありません",
+              "kanji": "静かじゃありません"
+            },
+            "dewaarimasen": {
+              "kana": "しずかではありません",
+              "kanji": "静かではありません"
+            }
+          },
+          "casual": {
+            "janai": {
+              "kana": "しずかじゃない",
+              "kanji": "静かじゃない"
+            },
+            "dewanai": {
+              "kana": "しずかではない",
+              "kanji": "静かではない"
+            }
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "しずかでした",
+            "kanji": "静かでした"
+          },
+          "casual": {
+            "kana": "しずかだった",
+            "kanji": "静かだった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janakattadesu": {
+              "kana": "しずかじゃなかったです",
+              "kanji": "静かじゃなかったです"
+            },
+            "dewanakattadesu": {
+              "kana": "しずかではなかったです",
+              "kanji": "静かではなかったです"
+            },
+            "jaarimasendeshita": {
+              "kana": "しずかじゃありませんでした",
+              "kanji": "静かじゃありませんでした"
+            },
+            "dewaarimasendeshita": {
+              "kana": "しずかではありませんでした",
+              "kanji": "静かではありませんでした"
+            }
+          },
+          "casual": {
+            "janakatta": {
+              "kana": "しずかじゃなかった",
+              "kanji": "静かじゃなかった"
+            },
+            "dewanakatta": {
+              "kana": "しずかではなかった",
+              "kanji": "静かではなかった"
+            }
+          }
+        }
+      },
+      "adverb": {
+        "kana": "しずかに",
+        "kanji": "静かに"
+      }
+    }
+  },
+  "元気": {
+    "type": "na",
+    "html": "元<rt>げん</rt>気<rt>き</rt>",
+    "english": "healthy",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "げんきです",
+            "kanji": "元気です"
+          },
+          "casual": {
+            "kana": "げんきだ",
+            "kanji": "元気だ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janaidesu": {
+              "kana": "げんきじゃないです",
+              "kanji": "元気じゃないです"
+            },
+            "dewanaidesu": {
+              "kana": "げんきではないです",
+              "kanji": "元気ではないです"
+            },
+            "jaarimasen": {
+              "kana": "げんきじゃありません",
+              "kanji": "元気じゃありません"
+            },
+            "dewaarimasen": {
+              "kana": "げんきではありません",
+              "kanji": "元気ではありません"
+            }
+          },
+          "casual": {
+            "janai": {
+              "kana": "げんきじゃない",
+              "kanji": "元気じゃない"
+            },
+            "dewanai": {
+              "kana": "げんきではない",
+              "kanji": "元気ではない"
+            }
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "げんきでした",
+            "kanji": "元気でした"
+          },
+          "casual": {
+            "kana": "げんきだった",
+            "kanji": "元気だった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janakattadesu": {
+              "kana": "げんきじゃなかったです",
+              "kanji": "元気じゃなかったです"
+            },
+            "dewanakattadesu": {
+              "kana": "げんきではなかったです",
+              "kanji": "元気ではなかったです"
+            },
+            "jaarimasendeshita": {
+              "kana": "げんきじゃありませんでした",
+              "kanji": "元気じゃありませんでした"
+            },
+            "dewaarimasendeshita": {
+              "kana": "げんきではありませんでした",
+              "kanji": "元気ではありませんでした"
+            }
+          },
+          "casual": {
+            "janakatta": {
+              "kana": "げんきじゃなかった",
+              "kanji": "元気じゃなかった"
+            },
+            "dewanakatta": {
+              "kana": "げんきではなかった",
+              "kanji": "元気ではなかった"
+            }
+          }
+        }
+      },
+      "adverb": {
+        "kana": "げんきに",
+        "kanji": "元気に"
+      }
+    }
+  },
+  "色々": {
+    "type": "na",
+    "html": "色<rt>いろ</rt>々<rt>いろ</rt>",
+    "english": "various",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "いろいろです",
+            "kanji": "色々です"
+          },
+          "casual": {
+            "kana": "いろいろだ",
+            "kanji": "色々だ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janaidesu": {
+              "kana": "いろいろじゃないです",
+              "kanji": "色々じゃないです"
+            },
+            "dewanaidesu": {
+              "kana": "いろいろではないです",
+              "kanji": "色々ではないです"
+            },
+            "jaarimasen": {
+              "kana": "いろいろじゃありません",
+              "kanji": "色々じゃありません"
+            },
+            "dewaarimasen": {
+              "kana": "いろいろではありません",
+              "kanji": "色々ではありません"
+            }
+          },
+          "casual": {
+            "janai": {
+              "kana": "いろいろじゃない",
+              "kanji": "色々じゃない"
+            },
+            "dewanai": {
+              "kana": "いろいろではない",
+              "kanji": "色々ではない"
+            }
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "いろいろでした",
+            "kanji": "色々でした"
+          },
+          "casual": {
+            "kana": "いろいろだった",
+            "kanji": "色々だった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janakattadesu": {
+              "kana": "いろいろじゃなかったです",
+              "kanji": "色々じゃなかったです"
+            },
+            "dewanakattadesu": {
+              "kana": "いろいろではなかったです",
+              "kanji": "色々ではなかったです"
+            },
+            "jaarimasendeshita": {
+              "kana": "いろいろじゃありませんでした",
+              "kanji": "色々じゃありませんでした"
+            },
+            "dewaarimasendeshita": {
+              "kana": "いろいろではありませんでした",
+              "kanji": "色々ではありませんでした"
+            }
+          },
+          "casual": {
+            "janakatta": {
+              "kana": "いろいろじゃなかった",
+              "kanji": "色々じゃなかった"
+            },
+            "dewanakatta": {
+              "kana": "いろいろではなかった",
+              "kanji": "色々ではなかった"
+            }
+          }
+        }
+      },
+      "adverb": {
+        "kana": "いろいろに",
+        "kanji": "色々に"
+      }
+    }
+  },
+  "心配": {
+    "type": "na",
+    "html": "心<rt>しん</rt>配<rt>ぱい</rt>",
+    "english": "worry, care",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "しんぱいです",
+            "kanji": "心配です"
+          },
+          "casual": {
+            "kana": "しんぱいだ",
+            "kanji": "心配だ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janaidesu": {
+              "kana": "しんぱいじゃないです",
+              "kanji": "心配じゃないです"
+            },
+            "dewanaidesu": {
+              "kana": "しんぱいではないです",
+              "kanji": "心配ではないです"
+            },
+            "jaarimasen": {
+              "kana": "しんぱいじゃありません",
+              "kanji": "心配じゃありません"
+            },
+            "dewaarimasen": {
+              "kana": "しんぱいではありません",
+              "kanji": "心配ではありません"
+            }
+          },
+          "casual": {
+            "janai": {
+              "kana": "しんぱいじゃない",
+              "kanji": "心配じゃない"
+            },
+            "dewanai": {
+              "kana": "しんぱいではない",
+              "kanji": "心配ではない"
+            }
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "しんぱいでした",
+            "kanji": "心配でした"
+          },
+          "casual": {
+            "kana": "しんぱいだった",
+            "kanji": "心配だった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janakattadesu": {
+              "kana": "しんぱいじゃなかったです",
+              "kanji": "心配じゃなかったです"
+            },
+            "dewanakattadesu": {
+              "kana": "しんぱいではなかったです",
+              "kanji": "心配ではなかったです"
+            },
+            "jaarimasendeshita": {
+              "kana": "しんぱいじゃありませんでした",
+              "kanji": "心配じゃありませんでした"
+            },
+            "dewaarimasendeshita": {
+              "kana": "しんぱいではありませんでした",
+              "kanji": "心配ではありませんでした"
+            }
+          },
+          "casual": {
+            "janakatta": {
+              "kana": "しんぱいじゃなかった",
+              "kanji": "心配じゃなかった"
+            },
+            "dewanakatta": {
+              "kana": "しんぱいではなかった",
+              "kanji": "心配ではなかった"
+            }
+          }
+        }
+      },
+      "adverb": {
+        "kana": "しんぱいに",
+        "kanji": "心配に"
+      }
+    }
+  },
+  "嫌": {
+    "type": "na",
+    "html": "嫌<rt>いや</rt>",
+    "english": "unpleasant, detestable",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "いやです",
+            "kanji": "嫌です"
+          },
+          "casual": {
+            "kana": "いやだ",
+            "kanji": "嫌だ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janaidesu": {
+              "kana": "いやじゃないです",
+              "kanji": "嫌じゃないです"
+            },
+            "dewanaidesu": {
+              "kana": "いやではないです",
+              "kanji": "嫌ではないです"
+            },
+            "jaarimasen": {
+              "kana": "いやじゃありません",
+              "kanji": "嫌じゃありません"
+            },
+            "dewaarimasen": {
+              "kana": "いやではありません",
+              "kanji": "嫌ではありません"
+            }
+          },
+          "casual": {
+            "janai": {
+              "kana": "いやじゃない",
+              "kanji": "嫌じゃない"
+            },
+            "dewanai": {
+              "kana": "いやではない",
+              "kanji": "嫌ではない"
+            }
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "いやでした",
+            "kanji": "嫌でした"
+          },
+          "casual": {
+            "kana": "いやだった",
+            "kanji": "嫌だった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janakattadesu": {
+              "kana": "いやじゃなかったです",
+              "kanji": "嫌じゃなかったです"
+            },
+            "dewanakattadesu": {
+              "kana": "いやではなかったです",
+              "kanji": "嫌ではなかったです"
+            },
+            "jaarimasendeshita": {
+              "kana": "いやじゃありませんでした",
+              "kanji": "嫌じゃありませんでした"
+            },
+            "dewaarimasendeshita": {
+              "kana": "いやではありませんでした",
+              "kanji": "嫌ではありませんでした"
+            }
+          },
+          "casual": {
+            "janakatta": {
+              "kana": "いやじゃなかった",
+              "kanji": "嫌じゃなかった"
+            },
+            "dewanakatta": {
+              "kana": "いやではなかった",
+              "kanji": "嫌ではなかった"
+            }
+          }
+        }
+      },
+      "adverb": {
+        "kana": "いやに",
+        "kanji": "嫌に"
+      }
+    }
+  },
+  "十分": {
+    "type": "na",
+    "html": "十<rt>じゅう</rt>分<rt>ぶん</rt>",
+    "english": "sufficient",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "じゅうぶんです",
+            "kanji": "十分です"
+          },
+          "casual": {
+            "kana": "じゅうぶんだ",
+            "kanji": "十分だ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janaidesu": {
+              "kana": "じゅうぶんじゃないです",
+              "kanji": "十分じゃないです"
+            },
+            "dewanaidesu": {
+              "kana": "じゅうぶんではないです",
+              "kanji": "十分ではないです"
+            },
+            "jaarimasen": {
+              "kana": "じゅうぶんじゃありません",
+              "kanji": "十分じゃありません"
+            },
+            "dewaarimasen": {
+              "kana": "じゅうぶんではありません",
+              "kanji": "十分ではありません"
+            }
+          },
+          "casual": {
+            "janai": {
+              "kana": "じゅうぶんじゃない",
+              "kanji": "十分じゃない"
+            },
+            "dewanai": {
+              "kana": "じゅうぶんではない",
+              "kanji": "十分ではない"
+            }
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "じゅうぶんでした",
+            "kanji": "十分でした"
+          },
+          "casual": {
+            "kana": "じゅうぶんだった",
+            "kanji": "十分だった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janakattadesu": {
+              "kana": "じゅうぶんじゃなかったです",
+              "kanji": "十分じゃなかったです"
+            },
+            "dewanakattadesu": {
+              "kana": "じゅうぶんではなかったです",
+              "kanji": "十分ではなかったです"
+            },
+            "jaarimasendeshita": {
+              "kana": "じゅうぶんじゃありませんでした",
+              "kanji": "十分じゃありませんでした"
+            },
+            "dewaarimasendeshita": {
+              "kana": "じゅうぶんではありませんでした",
+              "kanji": "十分ではありませんでした"
+            }
+          },
+          "casual": {
+            "janakatta": {
+              "kana": "じゅうぶんじゃなかった",
+              "kanji": "十分じゃなかった"
+            },
+            "dewanakatta": {
+              "kana": "じゅうぶんではなかった",
+              "kanji": "十分ではなかった"
+            }
+          }
+        }
+      },
+      "adverb": {
+        "kana": "じゅうぶんに",
+        "kanji": "十分に"
+      }
+    }
+  },
+  "立派": {
+    "type": "na",
+    "html": "立<rt>りっ</rt>派<rt>ぱ</rt>",
+    "english": "excellent, splendid",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "りっぱです",
+            "kanji": "立派です"
+          },
+          "casual": {
+            "kana": "りっぱだ",
+            "kanji": "立派だ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janaidesu": {
+              "kana": "りっぱじゃないです",
+              "kanji": "立派じゃないです"
+            },
+            "dewanaidesu": {
+              "kana": "りっぱではないです",
+              "kanji": "立派ではないです"
+            },
+            "jaarimasen": {
+              "kana": "りっぱじゃありません",
+              "kanji": "立派じゃありません"
+            },
+            "dewaarimasen": {
+              "kana": "りっぱではありません",
+              "kanji": "立派ではありません"
+            }
+          },
+          "casual": {
+            "janai": {
+              "kana": "りっぱじゃない",
+              "kanji": "立派じゃない"
+            },
+            "dewanai": {
+              "kana": "りっぱではない",
+              "kanji": "立派ではない"
+            }
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "りっぱでした",
+            "kanji": "立派でした"
+          },
+          "casual": {
+            "kana": "りっぱだった",
+            "kanji": "立派だった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janakattadesu": {
+              "kana": "りっぱじゃなかったです",
+              "kanji": "立派じゃなかったです"
+            },
+            "dewanakattadesu": {
+              "kana": "りっぱではなかったです",
+              "kanji": "立派ではなかったです"
+            },
+            "jaarimasendeshita": {
+              "kana": "りっぱじゃありませんでした",
+              "kanji": "立派じゃありませんでした"
+            },
+            "dewaarimasendeshita": {
+              "kana": "りっぱではありませんでした",
+              "kanji": "立派ではありませんでした"
+            }
+          },
+          "casual": {
+            "janakatta": {
+              "kana": "りっぱじゃなかった",
+              "kanji": "立派じゃなかった"
+            },
+            "dewanakatta": {
+              "kana": "りっぱではなかった",
+              "kanji": "立派ではなかった"
+            }
+          }
+        }
+      },
+      "adverb": {
+        "kana": "りっぱに",
+        "kanji": "立派に"
+      }
+    }
+  },
+  "同じ": {
+    "type": "na",
+    "html": "同<rt>おな</rt>じ",
+    "english": "same, alike",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "おなじです",
+            "kanji": "同じです"
+          },
+          "casual": {
+            "kana": "おなじだ",
+            "kanji": "同じだ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janaidesu": {
+              "kana": "おなじじゃないです",
+              "kanji": "同じじゃないです"
+            },
+            "dewanaidesu": {
+              "kana": "おなじではないです",
+              "kanji": "同じではないです"
+            },
+            "jaarimasen": {
+              "kana": "おなじじゃありません",
+              "kanji": "同じじゃありません"
+            },
+            "dewaarimasen": {
+              "kana": "おなじではありません",
+              "kanji": "同じではありません"
+            }
+          },
+          "casual": {
+            "janai": {
+              "kana": "おなじじゃない",
+              "kanji": "同じじゃない"
+            },
+            "dewanai": {
+              "kana": "おなじではない",
+              "kanji": "同じではない"
+            }
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "おなじでした",
+            "kanji": "同じでした"
+          },
+          "casual": {
+            "kana": "おなじだった",
+            "kanji": "同じだった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janakattadesu": {
+              "kana": "おなじじゃなかったです",
+              "kanji": "同じじゃなかったです"
+            },
+            "dewanakattadesu": {
+              "kana": "おなじではなかったです",
+              "kanji": "同じではなかったです"
+            },
+            "jaarimasendeshita": {
+              "kana": "おなじじゃありませんでした",
+              "kanji": "同じじゃありませんでした"
+            },
+            "dewaarimasendeshita": {
+              "kana": "おなじではありませんでした",
+              "kanji": "同じではありませんでした"
+            }
+          },
+          "casual": {
+            "janakatta": {
+              "kana": "おなじじゃなかった",
+              "kanji": "同じじゃなかった"
+            },
+            "dewanakatta": {
+              "kana": "おなじではなかった",
+              "kanji": "同じではなかった"
+            }
+          }
+        }
+      },
+      "adverb": {
+        "kana": "おなじに",
+        "kanji": "同じに"
+      }
+    }
+  },
+  "大丈夫": {
+    "type": "na",
+    "html": "大<rt>だい</rt>丈<rt>じょう</rt>夫<rt>ぶ</rt>",
+    "english": "okay, safe",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "だいじょうぶです",
+            "kanji": "大丈夫です"
+          },
+          "casual": {
+            "kana": "だいじょうぶだ",
+            "kanji": "大丈夫だ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janaidesu": {
+              "kana": "だいじょうぶじゃないです",
+              "kanji": "大丈夫じゃないです"
+            },
+            "dewanaidesu": {
+              "kana": "だいじょうぶではないです",
+              "kanji": "大丈夫ではないです"
+            },
+            "jaarimasen": {
+              "kana": "だいじょうぶじゃありません",
+              "kanji": "大丈夫じゃありません"
+            },
+            "dewaarimasen": {
+              "kana": "だいじょうぶではありません",
+              "kanji": "大丈夫ではありません"
+            }
+          },
+          "casual": {
+            "janai": {
+              "kana": "だいじょうぶじゃない",
+              "kanji": "大丈夫じゃない"
+            },
+            "dewanai": {
+              "kana": "だいじょうぶではない",
+              "kanji": "大丈夫ではない"
+            }
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "だいじょうぶでした",
+            "kanji": "大丈夫でした"
+          },
+          "casual": {
+            "kana": "だいじょうぶだった",
+            "kanji": "大丈夫だった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janakattadesu": {
+              "kana": "だいじょうぶじゃなかったです",
+              "kanji": "大丈夫じゃなかったです"
+            },
+            "dewanakattadesu": {
+              "kana": "だいじょうぶではなかったです",
+              "kanji": "大丈夫ではなかったです"
+            },
+            "jaarimasendeshita": {
+              "kana": "だいじょうぶじゃありませんでした",
+              "kanji": "大丈夫じゃありませんでした"
+            },
+            "dewaarimasendeshita": {
+              "kana": "だいじょうぶではありませんでした",
+              "kanji": "大丈夫ではありませんでした"
+            }
+          },
+          "casual": {
+            "janakatta": {
+              "kana": "だいじょうぶじゃなかった",
+              "kanji": "大丈夫じゃなかった"
+            },
+            "dewanakatta": {
+              "kana": "だいじょうぶではなかった",
+              "kanji": "大丈夫ではなかった"
+            }
+          }
+        }
+      },
+      "adverb": {
+        "kana": "だいじょうぶに",
+        "kanji": "大丈夫に"
+      }
+    }
+  },
+  "真直ぐ": {
+    "type": "na",
+    "html": "真<rt>ま</rt>直<rt>す</rt>ぐ",
+    "english": "straight, direct",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "ますぐです",
+            "kanji": "真直ぐです"
+          },
+          "casual": {
+            "kana": "ますぐだ",
+            "kanji": "真直ぐだ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janaidesu": {
+              "kana": "ますぐじゃないです",
+              "kanji": "真直ぐじゃないです"
+            },
+            "dewanaidesu": {
+              "kana": "ますぐではないです",
+              "kanji": "真直ぐではないです"
+            },
+            "jaarimasen": {
+              "kana": "ますぐじゃありません",
+              "kanji": "真直ぐじゃありません"
+            },
+            "dewaarimasen": {
+              "kana": "ますぐではありません",
+              "kanji": "真直ぐではありません"
+            }
+          },
+          "casual": {
+            "janai": {
+              "kana": "ますぐじゃない",
+              "kanji": "真直ぐじゃない"
+            },
+            "dewanai": {
+              "kana": "ますぐではない",
+              "kanji": "真直ぐではない"
+            }
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "ますぐでした",
+            "kanji": "真直ぐでした"
+          },
+          "casual": {
+            "kana": "ますぐだった",
+            "kanji": "真直ぐだった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janakattadesu": {
+              "kana": "ますぐじゃなかったです",
+              "kanji": "真直ぐじゃなかったです"
+            },
+            "dewanakattadesu": {
+              "kana": "ますぐではなかったです",
+              "kanji": "真直ぐではなかったです"
+            },
+            "jaarimasendeshita": {
+              "kana": "ますぐじゃありませんでした",
+              "kanji": "真直ぐじゃありませんでした"
+            },
+            "dewaarimasendeshita": {
+              "kana": "ますぐではありませんでした",
+              "kanji": "真直ぐではありませんでした"
+            }
+          },
+          "casual": {
+            "janakatta": {
+              "kana": "ますぐじゃなかった",
+              "kanji": "真直ぐじゃなかった"
+            },
+            "dewanakatta": {
+              "kana": "ますぐではなかった",
+              "kanji": "真直ぐではなかった"
+            }
+          }
+        }
+      },
+      "adverb": {
+        "kana": "ますぐに",
+        "kanji": "真直ぐに"
+      }
+    }
+  },
+  "下手": {
+    "type": "na",
+    "html": "下<rt>へ</rt>手<rt>た</rt>",
+    "english": "unskilled",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "へたです",
+            "kanji": "下手です"
+          },
+          "casual": {
+            "kana": "へただ",
+            "kanji": "下手だ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janaidesu": {
+              "kana": "へたじゃないです",
+              "kanji": "下手じゃないです"
+            },
+            "dewanaidesu": {
+              "kana": "へたではないです",
+              "kanji": "下手ではないです"
+            },
+            "jaarimasen": {
+              "kana": "へたじゃありません",
+              "kanji": "下手じゃありません"
+            },
+            "dewaarimasen": {
+              "kana": "へたではありません",
+              "kanji": "下手ではありません"
+            }
+          },
+          "casual": {
+            "janai": {
+              "kana": "へたじゃない",
+              "kanji": "下手じゃない"
+            },
+            "dewanai": {
+              "kana": "へたではない",
+              "kanji": "下手ではない"
+            }
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "へたでした",
+            "kanji": "下手でした"
+          },
+          "casual": {
+            "kana": "へただった",
+            "kanji": "下手だった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janakattadesu": {
+              "kana": "へたじゃなかったです",
+              "kanji": "下手じゃなかったです"
+            },
+            "dewanakattadesu": {
+              "kana": "へたではなかったです",
+              "kanji": "下手ではなかったです"
+            },
+            "jaarimasendeshita": {
+              "kana": "へたじゃありませんでした",
+              "kanji": "下手じゃありませんでした"
+            },
+            "dewaarimasendeshita": {
+              "kana": "へたではありませんでした",
+              "kanji": "下手ではありませんでした"
+            }
+          },
+          "casual": {
+            "janakatta": {
+              "kana": "へたじゃなかった",
+              "kanji": "下手じゃなかった"
+            },
+            "dewanakatta": {
+              "kana": "へたではなかった",
+              "kanji": "下手ではなかった"
+            }
+          }
+        }
+      },
+      "adverb": {
+        "kana": "へたに",
+        "kanji": "下手に"
+      }
+    }
+  },
+  "簡単": {
+    "type": "na",
+    "html": "簡<rt>かん</rt>単<rt>たん</rt>",
+    "english": "simple, easy",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "かんたんです",
+            "kanji": "簡単です"
+          },
+          "casual": {
+            "kana": "かんたんだ",
+            "kanji": "簡単だ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janaidesu": {
+              "kana": "かんたんじゃないです",
+              "kanji": "簡単じゃないです"
+            },
+            "dewanaidesu": {
+              "kana": "かんたんではないです",
+              "kanji": "簡単ではないです"
+            },
+            "jaarimasen": {
+              "kana": "かんたんじゃありません",
+              "kanji": "簡単じゃありません"
+            },
+            "dewaarimasen": {
+              "kana": "かんたんではありません",
+              "kanji": "簡単ではありません"
+            }
+          },
+          "casual": {
+            "janai": {
+              "kana": "かんたんじゃない",
+              "kanji": "簡単じゃない"
+            },
+            "dewanai": {
+              "kana": "かんたんではない",
+              "kanji": "簡単ではない"
+            }
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "かんたんでした",
+            "kanji": "簡単でした"
+          },
+          "casual": {
+            "kana": "かんたんだった",
+            "kanji": "簡単だった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janakattadesu": {
+              "kana": "かんたんじゃなかったです",
+              "kanji": "簡単じゃなかったです"
+            },
+            "dewanakattadesu": {
+              "kana": "かんたんではなかったです",
+              "kanji": "簡単ではなかったです"
+            },
+            "jaarimasendeshita": {
+              "kana": "かんたんじゃありませんでした",
+              "kanji": "簡単じゃありませんでした"
+            },
+            "dewaarimasendeshita": {
+              "kana": "かんたんではありませんでした",
+              "kanji": "簡単ではありませんでした"
+            }
+          },
+          "casual": {
+            "janakatta": {
+              "kana": "かんたんじゃなかった",
+              "kanji": "簡単じゃなかった"
+            },
+            "dewanakatta": {
+              "kana": "かんたんではなかった",
+              "kanji": "簡単ではなかった"
+            }
+          }
+        }
+      },
+      "adverb": {
+        "kana": "かんたんに",
+        "kanji": "簡単に"
+      }
+    }
+  },
+  "楽": {
+    "type": "na",
+    "html": "楽<rt>らく</rt>",
+    "english": "comfortable, easy",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "らくです",
+            "kanji": "楽です"
+          },
+          "casual": {
+            "kana": "らくだ",
+            "kanji": "楽だ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janaidesu": {
+              "kana": "らくじゃないです",
+              "kanji": "楽じゃないです"
+            },
+            "dewanaidesu": {
+              "kana": "らくではないです",
+              "kanji": "楽ではないです"
+            },
+            "jaarimasen": {
+              "kana": "らくじゃありません",
+              "kanji": "楽じゃありません"
+            },
+            "dewaarimasen": {
+              "kana": "らくではありません",
+              "kanji": "楽ではありません"
+            }
+          },
+          "casual": {
+            "janai": {
+              "kana": "らくじゃない",
+              "kanji": "楽じゃない"
+            },
+            "dewanai": {
+              "kana": "らくではない",
+              "kanji": "楽ではない"
+            }
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "らくでした",
+            "kanji": "楽でした"
+          },
+          "casual": {
+            "kana": "らくだった",
+            "kanji": "楽だった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janakattadesu": {
+              "kana": "らくじゃなかったです",
+              "kanji": "楽じゃなかったです"
+            },
+            "dewanakattadesu": {
+              "kana": "らくではなかったです",
+              "kanji": "楽ではなかったです"
+            },
+            "jaarimasendeshita": {
+              "kana": "らくじゃありませんでした",
+              "kanji": "楽じゃありませんでした"
+            },
+            "dewaarimasendeshita": {
+              "kana": "らくではありませんでした",
+              "kanji": "楽ではありませんでした"
+            }
+          },
+          "casual": {
+            "janakatta": {
+              "kana": "らくじゃなかった",
+              "kanji": "楽じゃなかった"
+            },
+            "dewanakatta": {
+              "kana": "らくではなかった",
+              "kanji": "楽ではなかった"
+            }
+          }
+        }
+      },
+      "adverb": {
+        "kana": "らくに",
+        "kanji": "楽に"
+      }
+    }
+  },
+  "残念": {
+    "type": "na",
+    "html": "残<rt>ざん</rt>念<rt>ねん</rt>",
+    "english": "unfortunate, disappointing",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "ざんねんです",
+            "kanji": "残念です"
+          },
+          "casual": {
+            "kana": "ざんねんだ",
+            "kanji": "残念だ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janaidesu": {
+              "kana": "ざんねんじゃないです",
+              "kanji": "残念じゃないです"
+            },
+            "dewanaidesu": {
+              "kana": "ざんねんではないです",
+              "kanji": "残念ではないです"
+            },
+            "jaarimasen": {
+              "kana": "ざんねんじゃありません",
+              "kanji": "残念じゃありません"
+            },
+            "dewaarimasen": {
+              "kana": "ざんねんではありません",
+              "kanji": "残念ではありません"
+            }
+          },
+          "casual": {
+            "janai": {
+              "kana": "ざんねんじゃない",
+              "kanji": "残念じゃない"
+            },
+            "dewanai": {
+              "kana": "ざんねんではない",
+              "kanji": "残念ではない"
+            }
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "ざんねんでした",
+            "kanji": "残念でした"
+          },
+          "casual": {
+            "kana": "ざんねんだった",
+            "kanji": "残念だった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janakattadesu": {
+              "kana": "ざんねんじゃなかったです",
+              "kanji": "残念じゃなかったです"
+            },
+            "dewanakattadesu": {
+              "kana": "ざんねんではなかったです",
+              "kanji": "残念ではなかったです"
+            },
+            "jaarimasendeshita": {
+              "kana": "ざんねんじゃありませんでした",
+              "kanji": "残念じゃありませんでした"
+            },
+            "dewaarimasendeshita": {
+              "kana": "ざんねんではありませんでした",
+              "kanji": "残念ではありませんでした"
+            }
+          },
+          "casual": {
+            "janakatta": {
+              "kana": "ざんねんじゃなかった",
+              "kanji": "残念じゃなかった"
+            },
+            "dewanakatta": {
+              "kana": "ざんねんではなかった",
+              "kanji": "残念ではなかった"
+            }
+          }
+        }
+      },
+      "adverb": {
+        "kana": "ざんねんに",
+        "kanji": "残念に"
+      }
+    }
+  },
+  "必要": {
+    "type": "na",
+    "html": "必<rt>ひつ</rt>要<rt>よう</rt>",
+    "english": "necessary",
+    "conjugations": {
+      "present": {
+        "affirmative": {
+          "polite": {
+            "kana": "ひつようです",
+            "kanji": "必要です"
+          },
+          "casual": {
+            "kana": "ひつようだ",
+            "kanji": "必要だ"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janaidesu": {
+              "kana": "ひつようじゃないです",
+              "kanji": "必要じゃないです"
+            },
+            "dewanaidesu": {
+              "kana": "ひつようではないです",
+              "kanji": "必要ではないです"
+            },
+            "jaarimasen": {
+              "kana": "ひつようじゃありません",
+              "kanji": "必要じゃありません"
+            },
+            "dewaarimasen": {
+              "kana": "ひつようではありません",
+              "kanji": "必要ではありません"
+            }
+          },
+          "casual": {
+            "janai": {
+              "kana": "ひつようじゃない",
+              "kanji": "必要じゃない"
+            },
+            "dewanai": {
+              "kana": "ひつようではない",
+              "kanji": "必要ではない"
+            }
+          }
+        }
+      },
+      "past": {
+        "affirmative": {
+          "polite": {
+            "kana": "ひつようでした",
+            "kanji": "必要でした"
+          },
+          "casual": {
+            "kana": "ひつようだった",
+            "kanji": "必要だった"
+          }
+        },
+        "negative": {
+          "polite": {
+            "janakattadesu": {
+              "kana": "ひつようじゃなかったです",
+              "kanji": "必要じゃなかったです"
+            },
+            "dewanakattadesu": {
+              "kana": "ひつようではなかったです",
+              "kanji": "必要ではなかったです"
+            },
+            "jaarimasendeshita": {
+              "kana": "ひつようじゃありませんでした",
+              "kanji": "必要じゃありませんでした"
+            },
+            "dewaarimasendeshita": {
+              "kana": "ひつようではありませんでした",
+              "kanji": "必要ではありませんでした"
+            }
+          },
+          "casual": {
+            "janakatta": {
+              "kana": "ひつようじゃなかった",
+              "kanji": "必要じゃなかった"
+            },
+            "dewanakatta": {
+              "kana": "ひつようではなかった",
+              "kanji": "必要ではなかった"
+            }
+          }
+        }
+      },
+      "adverb": {
+        "kana": "ひつように",
+        "kanji": "必要に"
+      }
+    }
+  }
+}

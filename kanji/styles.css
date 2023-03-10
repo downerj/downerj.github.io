@@ -1,0 +1,149 @@
+:root {
+  --info-height: 150px;
+  --focus-size: 130px;
+  --cell-size: 75px;
+  --cell-margin: 3px;
+  --scrollbar-width: 30px;
+  --horizontal-kanji-count: 9;
+  --table-vertical-margin: 50px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Verdana, sans-serif;
+}
+
+.container {
+  position: fixed;
+  left: 10px;
+  top: 10px;
+  bottom: 10px;
+  right: 10px;
+  border: 2px solid black;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select:none;
+  user-select:none;
+  -o-user-select:none;
+}
+
+.kanji-focus, .kanji-details {
+  display: inline-block;
+  margin: 0;
+}
+
+.kanji-info {
+  display: flex;
+  flex-direction: row;
+  height: var(--info-height);
+  border-bottom: 3px solid black;
+}
+
+.new-label {
+  display: inline-block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  padding: 2px;
+}
+
+.kanji-focus {
+  width: var(--focus-size);
+  height: 100%;
+  font-size: calc(var(--focus-size) * 0.75);
+  line-height: var(--info-height);
+  text-align: center;
+  border-right: 1px solid black;
+  cursor: pointer;
+}
+
+.kanji-details {
+  width: calc(100% - var(--focus-size) - 1px*6);
+  height: 100%;
+  padding: 5px;
+  overflow-y: auto;
+}
+
+.info-label {
+  font-weight: bold;
+}
+
+.kanji-table-wrapper {
+  overflow-y: auto;
+  height: calc(100% - var(--info-height));
+  width: 100%;
+  padding: var(--cell-margin);
+}
+
+.kanji-table {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.kanji-element {
+  display: inline-block;
+  width: var(--cell-size);
+  height: var(--cell-size);
+  font-size: calc(var(--cell-size) * 0.75);
+  line-height: var(--cell-size);
+  text-align: center;
+  border: 1px solid black;
+  margin: 3px;
+}
+
+.kanji-grade-1 {
+  background-color: #ccffcc;
+}
+
+.kanji-grade-2 {
+  background-color: #ccffff;
+}
+
+.kanji-grade-3 {
+  background-color: #ccccff;
+}
+
+.kanji-grade-4 {
+  background-color: #ffccff;
+}
+
+.kanji-grade-5 {
+  background-color: #ffcccc;
+}
+
+.kanji-grade-6 {
+  background-color: #ffffcc;
+}
+
+.kanji-grade-S {
+  background-color: #cccccc;
+}
+
+.kanji-element:hover, .kanji-selected {
+  background-color: black;
+  color: white;
+}
+
+.hidden {
+  display: none;
+}
+
+@media (max-width: 450px) {
+  :root {
+    --info-height: 100px;
+    --focus-size: 100px;
+    --cell-size: 40px;
+  }
+
+  .kanji-info {
+    font-size: 12px;
+  }
+}
