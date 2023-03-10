@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <title>JS Asteroids</title>
+        <meta charset="UTF-8" />
+        <link rel="stylesheet" href="styles/top.css" />
+    </head>
+    <body>
+        <table>
+            <tr>
+            <td><div class="center-text"><h2>JavaScript Asteroids</h2></div></td>
+            </tr>
+            <tr>
+            <td>
+                <canvas id="cvs" width="500" height="500">
+                    Your browser does not support the <code>&lt;canvas&gt;</code> element.
+                </canvas>
+            </td>
+            <td valign="top" class="side-table">
+            <table class="section">
+                <tr class="bottom-line">
+                <td class="bold">Keystrokes</td>
+                <td></td>
+                </tr>
+                <tr>
+                <td>A / &#x25C4; Left</td><td>Rotate counter-clockwise</td>
+                </tr>
+                <tr>
+                <td>D / &#x25BA; Right</td><td>Rotate clockwise</td>
+                </tr>
+                <tr>
+                <td>W / &#x25B2; Up</td><td>Thrust forward</td>
+                </tr>
+                <tr>
+                <td>S / &#x25BC; Down</td><td>Throttle / stop</td>
+                </tr>
+                <tr>
+                <td>Space</td><td>Fire bullet</td>
+                </tr>
+                <tr>
+                <td>P</td><td>Pause / unpause</td>
+                </tr>
+            </table>
+            <table class="section">
+                <tr class="bottom-line">
+                <td class="bold">Game Data</td>
+                <td></td>
+                </tr>
+                <tr>
+                <td>Score</td><td><label class="data" id="lblScore"></label></td>
+                </tr>
+                <tr>
+                <td>Paused</td><td><label class="data" id="lblPaused"></label></td>
+                </tr>
+                <tr>
+                <td>Position X</td><td><label class="data" id="lblPositionX"></label></td>
+                </tr>
+                <tr>
+                <td>Position Y</td><td><label class="data" id="lblPositionY"></label></td>
+                </tr>
+                <tr>
+                <td>Position NX</td><td><label class="data" id="lblPositionNX"></label></td>
+                </tr>
+                <tr>
+                <td>Position NY</td><td><label class="data" id="lblPositionNY"></label></td>
+                </tr>
+                <tr>
+                <td>Speed DR</td><td><label class="data" id="lblSpeedDR"></label></td>
+                </tr>
+                <tr>
+                <td>Speed DX</td><td><label class="data" id="lblSpeedDX"></label></td>
+                </tr>
+                <tr>
+                <td>Speed DY</td><td><label class="data" id="lblSpeedDY"></label></td>
+                </tr>
+                <tr>
+                <td>Rotation N</td><td><label class="data" id="lblRotationN"></label></td>
+                </tr>
+                <tr>
+                <td>Direction N</td><td><label class="data" id="lblDirectionN"></label></td>
+                </tr>
+                <tr>
+                <td>Bullet Count</td><td><label class="data" id="lblBulletCount"></label></td>
+                </tr>
+            </table>
+            </td>
+            </tr>
+        </table>
+        
+        
+        <script src="src/util.js"></script>
+        <script src="src/draw.js"></script>
+        <script src="src/bullet.js"></script>
+        <script src="src/player.js"></script>
+        <script src="src/game.js"></script>
+        <script src="src/main.js"></script>
+    </body>
+</html>
