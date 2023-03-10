@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background-color: black;
+  color: white;
+  font-family: Verdana, sans-serif;
+}
+
+.drawing-area {
+  width: 100%;
+  height: calc(100% - 5px);
+}
