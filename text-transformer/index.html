@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <title>Unicode Text Transformer</title>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta name="theme-color" content="#000000"/>
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+      
+      html {
+        height: 100%;
+      }
+      
+      body {
+        margin: 5px;
+        height: calc(100% - 5px*2);
+      }
+      
+      div.content {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+      }
+      
+      div.input-content {
+        flex: 1;
+        margin-bottom: 5px;
+      }
+      
+      div.font-content {
+        margin-bottom: 5px;
+      }
+      
+      textarea {
+        width: 100%;
+        height: 100%;
+        resize: none;
+        font-size: 16px;
+      }
+      
+      div.output-content {
+        border: 1px solid #000;
+        padding: 5px;
+        flex: 1;
+        overflow-wrap: break-word;
+        overflow: auto;
+        font-size: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="content">
+      <div class="input-content">
+        <textarea id="txtIn"></textarea>
+      </div>
+      <div class="font-content">
+        Output style:
+        <select id="selFont">
+          <option value="gothic">Gothic</option>
+          <option value="gothic-bold">Gothic Bold</option>
+          <option value="bold">Serif Bold</option>
+          <option value="italic">Serif Italic</option>
+          <option value="bold-italic">Serif Bold Italic</option>
+          <option value="fancy">Fancy</option>
+          <option value="cursive">Cursive</option>
+          <option value="hollow">Hollow</option>
+        </select>
+        <button id="btClear" disabled>Clear text</button>
+        <button id="btSave" disabled>Save to cache</button>
+        <button id="btLoad" disabled>Load from cache</button>
+      </div>
+      <div class="output-content" id="divOut"></div>
+      
+      <script>
+        let txtIn = document.getElementById('txtIn');
+        let selFont = document.getElementById('selFont');
+        let btClear = document.getElementById('btClear');
+        let btSave = document.getElementById('btSave');
+        let btLoad = document.getElementById('btLoad');
+        let divOut = document.getElementById('divOut');
+        
+        let chA = 'A'.charCodeAt(0);
+        let chZ = 'Z'.charCodeAt(0);
+        let cha = 'a'.charCodeAt(0);
+        let chz = 'z'.charCodeAt(0);
+        
+        function isLower(ch) {
+          return (ch >= cha) && (ch <= chz);
+        }
+        
+        function isUpper(ch) {
+          return (ch >= chA) && (ch <= chZ);
+        }
+        
+        function isAlpha(ch) {
+          return isUpper(ch) || isLower(ch);
+        }
+        
+        let styleMap = {
+          'gothic': [[
+            0x1d504, 0x1d505, 0x0212d, 0x1d507, 0x1d508, 0x1d509,
+            0x1d50a, 0x0210c, 0x02111, 0x1d50d, 0x1d50e, 0x1d50f,
+            0x1d510, 0x1d511, 0x1d512, 0x1d513, 0x1d514, 0x0211c,
+            0x1d516, 0x1d517, 0x1d518, 0x1d519, 0x1d51a, 0x1d51b,
+            0x1d51c, 0x02128,
+          ],[
+            0x1d51e, 0x1d51f, 0x1d520, 0x1d521, 0x1d522, 0x1d523,
+            0x1d524, 0x1d525, 0x1d526, 0x1d527, 0x1d528, 0x1d529,
+            0x1d52a, 0x1d52b, 0x1d52c, 0x1d52d, 0x1d52e, 0x1d52f,
+            0x1d530, 0x1d531, 0x1d532, 0x1d533, 0x1d534, 0x1d535,
+            0x1d536, 0x1d537,
+          ],],
+          'gothic-bold': [[
+            0x1d56c, 0x1d56d, 0x1d56e, 0x1d56f, 0x1d570, 0x1d571,
+            0x1d572, 0x1d573, 0x1d574, 0x1d575, 0x1d576, 0x1d577,
+            0x1d578, 0x1d579, 0x1d57a, 0x1d57b, 0x1d57c, 0x1d57d,
+            0x1d57e, 0x1d57f, 0x1d580, 0x1d581, 0x1d582, 0x1d583,
+            0x1d584, 0x1d585,
+          ],[
+            0x1d586, 0x1d587, 0x1d588, 0x1d589, 0x1d58a, 0x1d58b,
+            0x1d58c, 0x1d58d, 0x1d58e, 0x1d58f, 0x1d590, 0x1d591,
+            0x1d592, 0x1d593, 0x1d594, 0x1d595, 0x1d596, 0x1d597,
+            0x1d598, 0x1d599, 0x1d59a, 0x1d59b, 0x1d59c, 0x1d59d,
+            0x1d59e, 0x1d59f,
+          ],],
+          'bold': [[
+            0x1d400, 0x1d401, 0x1d402, 0x1d403, 0x1d404, 0x1d405,
+            0x1d406, 0x1d407, 0x1d408, 0x1d409, 0x1d40a, 0x1d40b,
+            0x1d40c, 0x1d40d, 0x1d40e, 0x1d40f, 0x1d410, 0x1d411,
+            0x1d412, 0x1d413, 0x1d414, 0x1d415, 0x1d416, 0x1d417,
+            0x1d418, 0x1d419,
+          ],[
+            0x1d41a, 0x1d41b, 0x1d41c, 0x1d41d, 0x1d41e, 0x1d41f,
+            0x1d420, 0x1d421, 0x1d422, 0x1d423, 0x1d424, 0x1d425,
+            0x1d426, 0x1d427, 0x1d428, 0x1d429, 0x1d42a, 0x1d42b,
+            0x1d42c, 0x1d42d, 0x1d42e, 0x1d42f, 0x1d430, 0x1d431,
+            0x1d432, 0x1d433,
+          ],],
+          'italic': [[
+            0x1d434, 0x1d435, 0x1d436, 0x1d437, 0x1d438, 0x1d439,
+            0x1d43a, 0x1d43b, 0x1d43c, 0x1d43d, 0x1d43e, 0x1d43f,
+            0x1d440, 0x1d441, 0x1d442, 0x1d443, 0x1d444, 0x1d445,
+            0x1d446, 0x1d447, 0x1d448, 0x1d449, 0x1d44a, 0x1d44b,
+            0x1d44c, 0x1d44d,
+          ],[
+            // The code point for serif italic lowercase h is found
+            // at U+210e in the "Letterlike Symbols" Unicode block
+            // (U+2100 to U+214f). This may render in a style different
+            // than the "serif italic" letter style.
+            0x1d44e, 0x1d44f, 0x1d450, 0x1d451, 0x1d452, 0x1d453,
+            0x1d454, 0x0210e, 0x1d456, 0x1d457, 0x1d458, 0x1d459,
+            0x1d45a, 0x1d45b, 0x1d45c, 0x1d45d, 0x1d45e, 0x1d45f,
+            0x1d460, 0x1d461, 0x1d462, 0x1d463, 0x1d464, 0x1d465,
+            0x1d466, 0x1d467,
+          ],],
+          'bold-italic': [[
+            0x1d468, 0x1d469, 0x1d46a, 0x1d46b, 0x1d46c, 0x1d46d,
+            0x1d46e, 0x1d46f, 0x1d470, 0x1d471, 0x1d472, 0x1d473,
+            0x1d474, 0x1d475, 0x1d476, 0x1d477, 0x1d478, 0x1d479,
+            0x1d47a, 0x1d47b, 0x1d47c, 0x1d47d, 0x1d47e, 0x1d47f,
+            0x1d480, 0x1d481,
+          ],[
+            0x1d482, 0x1d483, 0x1d484, 0x1d485, 0x1d486, 0x1d487,
+            0x1d488, 0x1d489, 0x1d48a, 0x1d48b, 0x1d48c, 0x1d48d,
+            0x1d48e, 0x1d48f, 0x1d490, 0x1d491, 0x1d492, 0x1d493,
+            0x1d494, 0x1d495, 0x1d496, 0x1d497, 0x1d498, 0x1d499,
+            0x1d49a, 0x1d49b,
+          ],],
+          'fancy': [[
+            0x1d4d0, 0x1d4d1, 0x1d4d2, 0x1d4d3, 0x1d4d4, 0x1d4d5,
+            0x1d4d6, 0x1d4d7, 0x1d4d8, 0x1d4d9, 0x1d4da, 0x1d4db,
+            0x1d4dc, 0x1d4dd, 0x1d4de, 0x1d4df, 0x1d4e0, 0x1d4e1,
+            0x1d4e2, 0x1d4e3, 0x1d4e4, 0x1d4e5, 0x1d4e6, 0x1d4e7,
+            0x1d4e8, 0x1d4e9,
+          ],[
+            0x1d4ea, 0x1d4eb, 0x1d4ec, 0x1d4ed, 0x1d4ee, 0x1d4ef,
+            0x1d4f0, 0x1d4f1, 0x1d4f2, 0x1d4f3, 0x1d4f4, 0x1d4f5,
+            0x1d4f6, 0x1d4f7, 0x1d4f8, 0x1d4f9, 0x1d4fa, 0x1d4fb,
+            0x1d4fc, 0x1d4fd, 0x1d4fe, 0x1d4ff, 0x1d500, 0x1d501,
+            0x1d502, 0x1d503,
+          ],],
+          'cursive': [[
+            // The code points for cursive uppercase B,E,F,H,I,L,M,R
+            // are found in the "Letterlike Symbols" Unicode block
+            // (U+2100 to U+214f). These may render in a style different
+            // than the "cursive" letter style.
+            0x1d49c, 0x0212c, 0x1d49e, 0x1d49f, 0x02130, 0x02131,
+            0x1d4a2, 0x0210b, 0x02110, 0x1d4a5, 0x1d4a6, 0x02112,
+            0x02133, 0x1d4a9, 0x1d4aa, 0x1d4ab, 0x1d4ac, 0x0211b,
+            0x1d4ae, 0x1d4af, 0x1d4b0, 0x1d4b1, 0x1d4b2, 0x1d4b3,
+            0x1d4b4, 0x1d4b5,
+          ],[
+            // The code points for cursive lowercase e,g,o are found in the
+            // "Letterlike Symbols" Unicode block (U+2100 to U+214f). These
+            // may render in a style different than the "cursive" letter style.
+            0x1d4b6, 0x1d4b7, 0x1d4b8, 0x1d4b9, 0x0212f, 0x1d4bb,
+            0x0210a, 0x1d4bd, 0x1d4be, 0x1d4bf, 0x1d4c0, 0x1d4c1,
+            0x1d4c2, 0x1d4c3, 0x02134, 0x1d4c5, 0x1d4c6, 0x1d4c7,
+            0x1d4c8, 0x1d4c9, 0x1d4ca, 0x1d4cb, 0x1d4cc, 0x1d4cd,
+            0x1d4ce, 0x1d4cf,
+          ],],
+          'hollow': [[
+            // The code points for hollow uppercase C,H,N,P,Q,R,Z are found
+            // in the "Letterlike Symbols" Unicode block (U+2100 to U+214f).
+            // These may render in a style different than the "hollow"
+            // letter style.
+            0x1d538, 0x1d539, 0x02102, 0x1d53b, 0x1d53c, 0x1d53d,
+            0x1d53e, 0x0210d, 0x1d540, 0x1d541, 0x1d542, 0x1d543,
+            0x1d544, 0x02115, 0x1d546, 0x02119, 0x0211a, 0x0211d,
+            0x1d54a, 0x1d54b, 0x1d54c, 0x1d54d, 0x1d54e, 0x1d54f,
+            0x1d550, 0x02124,
+          ],[
+            0x1d552, 0x1d553, 0x1d554, 0x1d555, 0x1d556, 0x1d557,
+            0x1d558, 0x1d559, 0x1d55a, 0x1d55b, 0x1d55c, 0x1d55d,
+            0x1d55e, 0x1d55f, 0x1d560, 0x1d561, 0x1d562, 0x1d563,
+            0x1d564, 0x1d565, 0x1d566, 0x1d567, 0x1d568, 0x1d569,
+            0x1d56a, 0x1d56b,
+          ],],
+        };
+        
+        function toAlt(character, style) {
+          let ch = character.charCodeAt(0);
+          if (!isAlpha(ch)) {
+            return character;
+          }
+          
+          let chOut;
+          if (isUpper(ch)) {
+            chOut = style[0][ch - chA];
+          } else {
+            chOut = style[1][ch - cha];
+          }
+          
+          return `&#${chOut};`;
+        }
+        
+        function performTransformation() {
+          let style = styleMap[selFont.value];
+          divOut.innerText = '';
+          for (let character of txtIn.value) {
+            if (character == '\n') {
+              divOut.innerHTML += '<br/>';
+              continue;
+            } else if (character == ' ') {
+              divOut.innerHTML += '&nbsp;';
+              continue;
+            }
+            let out = toAlt(character, style);
+            divOut.innerHTML += out;
+          }
+        }
+        
+        function determineUnloadHook() {
+          window.onbeforeunload = (txtIn.value.length === 0)
+            ? undefined
+            : () => 0;
+        }
+        
+        function determineButtonStates() {
+          btClear.disabled = txtIn.value.length === 0;
+          btSave.disabled = txtIn.value.length === 0;
+        }
+        
+        try {
+          localStorage.setItem('__temp__', true);
+          localStorage.removeItem('__temp__');
+          
+          btLoad.disabled = localStorage.getItem('inputText') === null;
+        } catch (ex) {
+          btSave.style.display = 'none';
+          btLoad.style.display = 'none';
+        }
+        
+        txtIn.addEventListener('input', () => {
+          determineUnloadHook();
+          determineButtonStates();
+          performTransformation();
+        });
+        
+        selFont.addEventListener('input', () => {
+          performTransformation();
+        });
+        
+        btClear.addEventListener('click', () => {
+          let prompt = 'Are you sure you want to clear the text?';
+          if (!confirm(prompt)) {
+            return;
+          }
+          txtIn.value = '';
+          window.onbeforeunload = undefined;
+          btClear.disabled = true;
+          btSave.disabled = true;
+        });
+        
+        btSave.addEventListener('click', () => {
+          let prompt = 'Are you sure you want to replace the cache with the input text?';
+          if (!confirm(prompt)) {
+            return;
+          }
+          try {
+            localStorage.setItem('inputText', txtIn.value);
+            btSave.disabled = true;
+            window.onbeforeunload = undefined;
+          } catch (ex) {}
+        });
+        
+        btLoad.addEventListener('click', () => {
+          if (txtIn.value.length > 0) {
+            let prompt = 'Are you sure you want to replace the input with the cache?';
+            if (!confirm(prompt)) {
+              return;
+            }
+          }
+          try {
+            txtIn.value = localStorage.getItem('inputText');
+            txtIn.dispatchEvent(new Event('input'));
+            btSave.disabled = true;
+            btClear.disabled = false;
+          } catch (ex) {}
+        });
+      </script>
+    </div>
+  </body>
+</html>
