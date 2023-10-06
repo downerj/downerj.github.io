@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+    <meta name="theme-color" content="#000000"/>
+    <link rel="stylesheet" href="styles.css"/>
+    <!-- <link rel="shortcut icon" href="favicon.png"/> -->
+    <title>WebGL2 Example</title>
+    <script src="include/gl-matrix-min.js"></script>
+    
+    <script src="timer.js" type="module"></script>
+    <script src="geometry.js" type="module"></script>
+    <script src="actor.js" type="module"></script>
+    <script src="camera.js" type="module"></script>
+    <!-- <script src="matrix4x4.js" type="module"></script> -->
+    <script src="graphics.js" type="module"></script>
+    <script src="main.js" type="module"></script>
+  </head>
+  <body>
+    <canvas id="cvs">Your browser does not support the HTML5 Canvas API.</canvas>
+    <div class="info-box">
+      <ul>
+        <li>Camera:
+          <ul>
+            <li>Position (X / Y / Z): <label id="lblCameraPosition"></label></li>
+            <li>Rotation (Pitch / Yaw / Roll): <label id="lblCameraRotation"></label></li>
+            <li>Aspect Ratio (Width / Height): <label id="lblCameraAspect"></label></li>
+            <li>Field of View Y: <label id="lblCameraFOVY"></label></li>
+          </ul>
+        </li>
+        <li>Reset: <button id="btResetCamera">Reset Camera</button></li>
+        <li>Status: <label id="lblStatus"></label></li>
+        <li>Movement:
+          <ul>
+            <li>W/A/S/D for FPS movement</li>
+            <li>Spacebar for up, Shift for down</li>
+            <li>Click to capture camera movement</li>
+          </ul>
+      </ul>
+    </div>
+  </body>
+</html>

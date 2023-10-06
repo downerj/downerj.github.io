@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  width: 100%;
+  height: calc(100% - 10px);
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  background-color: black;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+canvas {
+  z-index: 1;
+}
+
+.info-box {
+  width: 600px;
+  background-color: rgba(0, 0, 0, 60%);
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 2;
+  overflow: auto;
+}
