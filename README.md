@@ -1,2 +1,2 @@
 # James Downer
-Professional software portfolio
+Personal software portfolio
