@@ -126,6 +126,7 @@ a:hover .thumbnail {
   text-align: center;
   background: rgba(255, 215, 0, 0.2);
   font-size: 16pt;
+  color: white;
 
   /* border-left-width: 10px;
   border-left-style: solid;
